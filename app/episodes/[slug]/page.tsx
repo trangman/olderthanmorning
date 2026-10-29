@@ -27,30 +27,52 @@ export function generateStaticParams() {
 
 export const dynamicParams = false;
 
+function shareImage(episode: {
+  title: string;
+  image?: string;
+  imageAlt?: string;
+  youtubeId: string | null;
+}) {
+  if (episode.image) {
+    return {
+      url: episode.image,
+      alt: episode.imageAlt ?? episode.title,
+      width: 1200,
+      height: 630,
+    };
+  }
+  if (episode.youtubeId) {
+    return { url: youtubePoster(episode.youtubeId), alt: episode.title };
+  }
+  return undefined;
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const episode = getEpisode(slug);
   if (!episode) return {};
 
-  const description = metaDescription(episode.description);
+  const description = metaDescription(episode.metaDescription, episode.description);
   const path = `/episodes/${episode.slug}/`;
-  const image = episode.youtubeId ? youtubePoster(episode.youtubeId) : undefined;
+  const image = shareImage(episode);
+  const title = episode.metaTitle ? { absolute: episode.metaTitle } : episode.title;
+  const socialTitle = episode.metaTitle ?? episode.title;
 
   return {
-    title: episode.title,
+    title,
     description,
     alternates: { canonical: path },
     openGraph: {
       type: "video.other",
-      title: episode.title,
+      title: socialTitle,
       description,
       url: path,
-      images: image ? [{ url: image, alt: episode.title }] : undefined,
+      images: image ? [image] : undefined,
       videos: episode.youtubeId ? [{ url: youtubeWatch(episode.youtubeId) }] : undefined,
     },
     twitter: {
       card: "summary_large_image",
-      title: episode.title,
+      title: socialTitle,
       description,
       images: image ? [image] : undefined,
     },
@@ -74,7 +96,9 @@ export default async function EpisodePage({ params }: Props) {
       "@type": "VideoObject",
       name: episode.title,
       description,
-      thumbnailUrl: youtubePoster(episode.youtubeId),
+      thumbnailUrl: episode.image
+        ? new URL(episode.image, SITE.url).href
+        : youtubePoster(episode.youtubeId),
       uploadDate: episode.published,
       duration: isoDuration(episode.durationSeconds),
       embedUrl: `https://www.youtube-nocookie.com/embed/${episode.youtubeId}`,
@@ -87,11 +111,7 @@ export default async function EpisodePage({ params }: Props) {
         endOffset: episode.chapters[index + 1]?.seconds ?? episode.durationSeconds,
         url: `${pageUrl}?t=${chapter.seconds}`,
       })),
-      publisher: {
-        "@type": "Organization",
-        name: SITE.name,
-        url: SITE.url,
-      },
+      publisher: { "@id": SITE.organizationId },
     });
   }
 

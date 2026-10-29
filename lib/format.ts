@@ -66,10 +66,13 @@ export function prettyUrl(url: string): string {
   }
 }
 
-export function metaDescription(paragraphs: string[]): string {
+export function metaDescription(supplied: string | undefined, paragraphs: string[]): string {
+  if (supplied) return supplied;
   const text = paragraphs[0] ?? "";
-  if (text.length <= 160) return text;
-  return `${text.slice(0, 157).replace(/\s+\S*$/, "")}…`;
+  if (text.length < 150) return text;
+  const head = text.slice(0, 149);
+  const space = head.lastIndexOf(" ");
+  return space > 0 ? head.slice(0, space) : head;
 }
 
 export function youtubeWatch(id: string): string {

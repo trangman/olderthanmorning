@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     "Every episode cites what it uses. Where the science is contested, the script says so rather than picking the tidier answer, and both sides are listed.",
   alternates: { canonical: "/sources/" },
   openGraph: {
-    title: "Sources — Older Than Morning",
+    title: "Sources - Older Than Morning",
     description:
       "Every episode cites what it uses. Where the science is contested, both sides are listed.",
     url: "/sources/",
@@ -25,7 +25,7 @@ export default function SourcesPage() {
         data={{
           "@context": "https://schema.org",
           "@type": "CollectionPage",
-          name: "Sources — Older Than Morning",
+          name: "Sources - Older Than Morning",
           url: `${SITE.url}/sources/`,
           isPartOf: SITE.url,
         }}

@@ -14,6 +14,8 @@ type RawEpisode = {
   number: number;
   slug: string;
   title: string;
+  metaTitle?: string;
+  metaDescription?: string;
   youtubeId?: string | null;
   published?: string;
   publishedAt?: string;
@@ -21,6 +23,8 @@ type RawEpisode = {
   era: string;
   description?: string[];
   summary?: string[];
+  image?: string;
+  imageAlt?: string;
   chapters?: RawChapter[];
   draft?: boolean;
   accuracy?: string;
@@ -44,11 +48,15 @@ function normalize(raw: RawEpisode): Episode {
     number: raw.number,
     slug: raw.slug,
     title: raw.title,
+    metaTitle: raw.metaTitle,
+    metaDescription: raw.metaDescription,
     youtubeId: raw.youtubeId ?? null,
     published: raw.published ?? raw.publishedAt ?? "",
     durationSeconds: raw.durationSeconds ?? null,
     era: raw.era,
     description: raw.description ?? raw.summary ?? [],
+    image: raw.image,
+    imageAlt: raw.imageAlt,
     chapters: (raw.chapters ?? []).map(normalizeChapter),
     draft: raw.draft === true,
     accuracy: raw.accuracy,

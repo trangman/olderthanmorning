@@ -44,6 +44,8 @@ export type Episode = {
   number: number;
   slug: string;
   title: string;
+  metaTitle?: string;
+  metaDescription?: string;
   youtubeId: string | null;
   published: string;
   durationSeconds: number | null;
@@ -51,6 +53,8 @@ export type Episode = {
   description: string[];
   chapters: Chapter[];
   draft: boolean;
+  image?: string;
+  imageAlt?: string;
   accuracy?: string;
   leftOut?: string;
   sourceNote?: string;
