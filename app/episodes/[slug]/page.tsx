@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { Chapters } from "@/components/chapters";
 import { Footer } from "@/components/footer";
 import { JsonLd } from "@/components/json-ld";
 import { Player } from "@/components/player";
@@ -158,16 +159,7 @@ export default async function EpisodePage({ params }: Props) {
         ) : null}
 
         <h2>Chapters</h2>
-        <ul className="chapters">
-          {episode.chapters.map((chapter) => (
-            <li key={`${chapter.seconds}-${chapter.title}`}>
-              <Link href={`/episodes/${episode.slug}/?t=${chapter.seconds}#watch`}>
-                <span className="time">{chapter.time}</span>
-                <span>{chapter.title}</span>
-              </Link>
-            </li>
-          ))}
-        </ul>
+        <Chapters episode={episode} />
 
         <h2 id="sources">Sources</h2>
         <p className="stand">{episode.accuracy}</p>
