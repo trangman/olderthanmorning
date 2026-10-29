@@ -94,7 +94,7 @@
       "title": "Wind-down"
     }
   ],
-  "accuracy": "Every factual claim in The Age of Dinosaurs, Beginning to End traces to one of these. Where researchers disagree — and in this episode they disagree about a great deal, including when flowers appeared and what colour any of these animals were — the episode says so, and both sides are listed here rather than only the tidier one.",
+  "accuracy": "Every factual claim in The Age of Dinosaurs, Beginning to End traces to one of these. Where researchers disagree (and in this episode they disagree about a great deal, including when flowers appeared and what colour any of these animals were), the episode says so, and both sides are listed here rather than only the tidier one.",
   "sources": [
     {
       "title": "The First Ones Were Small",
@@ -164,7 +164,7 @@
           ]
         },
         {
-          "label": "The dinosaur link — argued FOR",
+          "label": "The dinosaur link (argued FOR)",
           "tone": "for",
           "sources": [
             {
@@ -178,7 +178,7 @@
           ]
         },
         {
-          "label": "The dinosaur link — argued AGAINST, or complicated",
+          "label": "The dinosaur link (argued AGAINST, or complicated)",
           "tone": "against",
           "sources": [
             {
@@ -352,15 +352,15 @@
           "tone": "against",
           "sources": [
             {
-              "cite": "Wu, S. et al. 2026. [Bayesian Brownian bridge analysis of 25,685 fossil occurrences]. Nature Plants 12:1242-1251. — origin ~153-151 Ma.",
+              "cite": "Wu, S. et al. 2026. [Bayesian Brownian bridge analysis of 25,685 fossil occurrences]. Nature Plants 12:1242-1251. - origin ~153-151 Ma.",
               "url": "https://doi.org/10.1038/s41477-026-02311-x"
             },
             {
-              "cite": "Clark, J.W. & Donoghue, P.C.J. 2025. Royal Society Open Science 12:242158. — latest Jurassic to Early Cretaceous.",
+              "cite": "Clark, J.W. & Donoghue, P.C.J. 2025. Royal Society Open Science 12:242158. - latest Jurassic to Early Cretaceous.",
               "url": "https://doi.org/10.1098/rsos.242158"
             },
             {
-              "cite": "Ma, X. et al. 2025. Nature Communications 16:2265. — still recovers a Triassic origin.",
+              "cite": "Ma, X. et al. 2025. Nature Communications 16:2265. - still recovers a Triassic origin.",
               "url": "https://doi.org/10.1038/s41467-025-57687-9"
             }
           ]
@@ -442,7 +442,7 @@
               "url": "https://doi.org/10.1126/science.1213780"
             },
             {
-              "cite": "Hu, D. et al. 2018. A bony-crested Jurassic dinosaur with evidence of iridescent plumage. Nature Communications 9:217. (Caihong — the authors state that hue \"cannot be reconstructed\").",
+              "cite": "Hu, D. et al. 2018. A bony-crested Jurassic dinosaur with evidence of iridescent plumage. Nature Communications 9:217. (Caihong - the authors state that hue \"cannot be reconstructed\").",
               "url": "https://doi.org/10.1038/s41467-017-02515-y"
             },
             {
@@ -468,11 +468,11 @@
               "url": "https://doi.org/10.1002/bies.201500061"
             },
             {
-              "cite": "McNamara, M.E., Briggs, D.E.G., Orr, P.J., Field, D.J. & Wang, Z. 2013. Experimental maturation of feathers: implications for reconstructions of fossil feather colour. Biology Letters 9:20130184. — the 18-20% shrinkage figure.",
+              "cite": "McNamara, M.E., Briggs, D.E.G., Orr, P.J., Field, D.J. & Wang, Z. 2013. Experimental maturation of feathers: implications for reconstructions of fossil feather colour. Biology Letters 9:20130184. - the 18-20% shrinkage figure.",
               "url": "https://doi.org/10.1098/rsbl.2013.0184"
             },
             {
-              "cite": "Pinheiro, F.L. et al. 2019. Chemical characterization of pterosaur melanin challenges color inferences in extinct animals. Scientific Reports 9:15947. — eumelanin found inside phaeomelanosome-shaped bodies.",
+              "cite": "Pinheiro, F.L. et al. 2019. Chemical characterization of pterosaur melanin challenges color inferences in extinct animals. Scientific Reports 9:15947. - eumelanin found inside phaeomelanosome-shaped bodies.",
               "url": "https://doi.org/10.1038/s41598-019-52318-y"
             },
             {
@@ -528,7 +528,7 @@
               "noteKind": "plain"
             },
             {
-              "cite": "Deeming, D.C. 2006. Ultrastructural and functional morphology of eggshells supports idea that dinosaur eggs were incubated buried in a substrate. Palaeontology 49:171-185. — the eggshell pore method.",
+              "cite": "Deeming, D.C. 2006. Ultrastructural and functional morphology of eggshells supports idea that dinosaur eggs were incubated buried in a substrate. Palaeontology 49:171-185. - the eggshell pore method.",
               "url": "https://doi.org/10.1111/j.1475-4983.2005.00536.x"
             },
             {
@@ -553,7 +553,7 @@
               "cite": "(Hell Creek, and the large predator)."
             },
             {
-              "cite": "Erickson, G.M. et al. 2004. Gigantism and comparative life-history parameters of tyrannosaurid dinosaurs. Nature 430:772-775. — the growth curve, and ~2 kg/day.",
+              "cite": "Erickson, G.M. et al. 2004. Gigantism and comparative life-history parameters of tyrannosaurid dinosaurs. Nature 430:772-775. - the growth curve, and ~2 kg/day.",
               "url": "https://doi.org/10.1038/nature02699"
             },
             {
@@ -561,11 +561,11 @@
               "url": "https://doi.org/10.1126/science.1193304"
             },
             {
-              "cite": "Witmer, L.M. & Ridgely, R.C. 2009. New insights into the brain, braincase, and ear region of tyrannosaurs. The Anatomical Record 292:1266-1296. — olfactory regions and low-frequency hearing.",
+              "cite": "Witmer, L.M. & Ridgely, R.C. 2009. New insights into the brain, braincase, and ear region of tyrannosaurs. The Anatomical Record 292:1266-1296. - olfactory regions and low-frequency hearing.",
               "url": "https://doi.org/10.1002/ar.20983"
             },
             {
-              "cite": "Bell, P.R. et al. 2017. Tyrannosauroid integument reveals conflicting patterns of gigantism and feather evolution. Biology Letters 13:20170092. — the scale impressions, and why the feather question is still open.",
+              "cite": "Bell, P.R. et al. 2017. Tyrannosauroid integument reveals conflicting patterns of gigantism and feather evolution. Biology Letters 13:20170092. - the scale impressions, and why the feather question is still open.",
               "url": "https://doi.org/10.1098/rsbl.2017.0092"
             },
             {
@@ -597,7 +597,7 @@
               "noteKind": "plain"
             },
             {
-              "cite": "Collins, G.S. et al. 2020. A steeply-inclined trajectory for the Chicxulub impact. Nature Communications 11:1480. — ~60 degrees, from the northeast.",
+              "cite": "Collins, G.S. et al. 2020. A steeply-inclined trajectory for the Chicxulub impact. Nature Communications 11:1480. - ~60 degrees, from the northeast.",
               "url": "https://doi.org/10.1038/s41467-020-15269-x"
             },
             {
@@ -605,7 +605,7 @@
               "url": "https://doi.org/10.1126/science.adk4868"
             },
             {
-              "cite": "The impact winter — NOTE these figures were revised recently and the episode uses the current ones:."
+              "cite": "The impact winter - NOTE these figures were revised recently and the episode uses the current ones:."
             },
             {
               "cite": "Senel, C.B. et al. 2023. Chicxulub impact winter sustained by fine silicate dust. Nature Geoscience 16:1033-1040.",
@@ -632,7 +632,7 @@
               "noteKind": "plain"
             },
             {
-              "cite": "Tabor, C.R. et al. 2020. Causes and climatic consequences of the impact winter at the Cretaceous-Paleogene boundary. Geophysical Research Letters 47:e2019GL085572. — the case for soot.",
+              "cite": "Tabor, C.R. et al. 2020. Causes and climatic consequences of the impact winter at the Cretaceous-Paleogene boundary. Geophysical Research Letters 47:e2019GL085572. - the case for soot.",
               "url": "https://doi.org/10.1029/2019GL085572"
             }
           ]
@@ -678,7 +678,7 @@
           ]
         },
         {
-          "label": "Why they survived — all of these are correlations, as the episode says",
+          "label": "Why they survived (all of these are correlations, as the episode says)",
           "tone": "plain",
           "sources": [
             {
@@ -730,7 +730,7 @@
               "noteKind": "plain"
             },
             {
-              "cite": "Slack, K.E. et al. 2006. Early penguin fossils, plus mitochondrial genomes, calibrate avian evolution. Molecular Biology and Evolution 23:1144-1155. — Waimanu, 60.5-61.6 Ma.",
+              "cite": "Slack, K.E. et al. 2006. Early penguin fossils, plus mitochondrial genomes, calibrate avian evolution. Molecular Biology and Evolution 23:1144-1155. - Waimanu, 60.5-61.6 Ma.",
               "url": "https://doi.org/10.1093/molbev/msj124"
             }
           ]
