@@ -66,13 +66,29 @@ export function prettyUrl(url: string): string {
   }
 }
 
-export function metaDescription(supplied: string | undefined, paragraphs: string[]): string {
-  if (supplied) return supplied;
-  const text = paragraphs[0] ?? "";
+function wholeSentences(text: string): string[] {
+  return (text.match(/[^.!?]+[.!?]+/g) ?? []).map((sentence) => sentence.trim()).filter(Boolean);
+}
+
+function cutAtWord(text: string): string {
   if (text.length < 150) return text;
   const head = text.slice(0, 149);
   const space = head.lastIndexOf(" ");
   return space > 0 ? head.slice(0, space) : head;
+}
+
+export function metaDescription(supplied: string | undefined, paragraphs: string[]): string {
+  if (supplied) return supplied;
+  const text = paragraphs[0] ?? "";
+  const sentences = wholeSentences(text);
+  let taken = "";
+  for (const sentence of sentences) {
+    const next = taken ? `${taken} ${sentence}` : sentence;
+    if (next.length > 155) break;
+    taken = next;
+  }
+  if (taken) return taken;
+  return cutAtWord(text);
 }
 
 export function youtubeWatch(id: string): string {
