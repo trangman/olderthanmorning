@@ -15,16 +15,18 @@ export default function HomePage() {
           "@context": "https://schema.org",
           "@graph": [
             {
+              "@type": "Organization",
+              "@id": SITE.organizationId,
+              name: SITE.name,
+              url: SITE.url,
+              sameAs: [SITE.youtube],
+            },
+            {
               "@type": "WebSite",
               name: SITE.name,
               url: SITE.url,
               description: SITE.tagline,
-              publisher: {
-                "@type": "Organization",
-                name: SITE.name,
-                url: SITE.url,
-                sameAs: [SITE.youtube],
-              },
+              publisher: { "@id": SITE.organizationId },
             },
             {
               "@type": "ItemList",
