@@ -1,0 +1,4100 @@
+[
+  {
+    "number": 1,
+    "slug": "the-age-of-dinosaurs",
+    "title": "The Age of Dinosaurs, Beginning to End",
+    "youtubeId": "Ra9SumKZ0wI",
+    "published": "2026-09-12T22:49:09-07:00",
+    "durationSeconds": 5763,
+    "era": "230–66 million years ago",
+    "description": [
+      "Tonight, the entire age of the dinosaurs, from the beginning of it to the end of it, in order, without hurrying. About a hundred and sixty-five million years, at a pace meant for falling asleep.",
+      "There is an asteroid in this story and you already know about it. It arrives near the end, it gets a short chapter — shorter than the chapter about ferns — and it is not the ending. The ending is the chapter after it, and that one is about birds.",
+      "No jeopardy, no countdown, nothing waiting in the dark. Everything here finished a very long time ago, and most of it did not finish at all.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "4:40",
+        "seconds": 280,
+        "title": "Where We Are"
+      },
+      {
+        "time": "10:14",
+        "seconds": 614,
+        "title": "The First Ones Were Small"
+      },
+      {
+        "time": "15:57",
+        "seconds": 957,
+        "title": "The Weather That Would Not Settle"
+      },
+      {
+        "time": "23:32",
+        "seconds": 1412,
+        "title": "The World Comes Apart"
+      },
+      {
+        "time": "28:39",
+        "seconds": 1719,
+        "title": "How You Build Something Very Large"
+      },
+      {
+        "time": "36:58",
+        "seconds": 2218,
+        "title": "The Jurassic Air"
+      },
+      {
+        "time": "41:44",
+        "seconds": 2504,
+        "title": "What There Was To Eat"
+      },
+      {
+        "time": "46:12",
+        "seconds": 2772,
+        "title": "The Flowers Arrive"
+      },
+      {
+        "time": "55:03",
+        "seconds": 3303,
+        "title": "The Continents Drift Apart"
+      },
+      {
+        "time": "58:51",
+        "seconds": 3531,
+        "title": "Feathers, And Some Of The Colours"
+      },
+      {
+        "time": "1:06:57",
+        "seconds": 4017,
+        "title": "Nests"
+      },
+      {
+        "time": "1:13:21",
+        "seconds": 4401,
+        "title": "An Ordinary Morning"
+      },
+      {
+        "time": "1:21:02",
+        "seconds": 4862,
+        "title": "The Day"
+      },
+      {
+        "time": "1:25:20",
+        "seconds": 5120,
+        "title": "The Ones That Kept Going"
+      },
+      {
+        "time": "1:32:53",
+        "seconds": 5573,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim in The Age of Dinosaurs, Beginning to End traces to one of these. Where researchers disagree — and in this episode they disagree about a great deal, including when flowers appeared and what colour any of these animals were — the episode says so, and both sides are listed here rather than only the tidier one.",
+    "sources": [
+      {
+        "title": "The First Ones Were Small",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Sereno, P.C., Forster, C.A., Rogers, R.R. & Monetta, A.M. 1993. Primitive dinosaur skeleton from Argentina and the early evolution of Dinosauria. Nature 361:64-66.",
+                "url": "https://doi.org/10.1038/361064a0"
+              },
+              {
+                "cite": "Martinez, R.N. et al. 2011. A basal dinosaur from the dawn of the dinosaur era in southwestern Pangaea. Science 331:206-210.",
+                "url": "https://doi.org/10.1126/science.1198467"
+              },
+              {
+                "cite": "Benton, M.J., Forth, J. & Langer, M.C. 2014. Models for the rise of the dinosaurs. Current Biology 24:R87-R95.",
+                "url": "https://doi.org/10.1016/j.cub.2013.11.063"
+              }
+            ]
+          }
+        ],
+        "age": "231–225 Ma"
+      },
+      {
+        "title": "The Weather That Would Not Settle",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "(the Carnian Pluvial Episode)."
+              }
+            ]
+          },
+          {
+            "label": "Timing, structure and cause",
+            "tone": "plain",
+            "sources": [
+              {
+                "cite": "Dal Corso, J. et al. 2020. Extinction and dawn of the modern world in the Carnian (Late Triassic). Science Advances 6:eaba0099.",
+                "url": "https://doi.org/10.1126/sciadv.aba0099"
+              },
+              {
+                "cite": "Dal Corso, J. 2025. Carnian Events. Albertiana 49:1-11.",
+                "url": "https://albertiana-sts.org/wp-content/uploads/2025/05/49_1_DalCorso.pdf",
+                "note": "the source for \"the vision of the CPE as a single pluvial episode is incorrect\", for the four pulses of 41-318 kyr, and for the 1.2-1.6 Myr duration.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Zhang, P. et al. 2025. Repeated pulses of volcanism drove the Late Triassic Carnian Pluvial episode. Global and Planetary Change 255:105112.",
+                "url": "https://doi.org/10.1016/j.gloplacha.2025.105112",
+                "note": "the four mercury pulses, and the 405-kyr orbital pacing.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Zhao, X. et al. 2025. Climate-carbon-cycle interactions and spatial heterogeneity of the late Triassic Carnian pluvial episode. Nature Communications 16:5404.",
+                "url": "https://doi.org/10.1038/s41467-025-61262-7",
+                "note": "rainfall rose at the equator and high latitudes and FELL in the subtropics.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Mazaheri-Johari, M. et al. 2021. Mercury deposition in Western Tethys during the Carnian Pluvial Episode. Scientific Reports 11:17339.",
+                "url": "https://doi.org/10.1038/s41598-021-96890-8"
+              },
+              {
+                "cite": "Simms, M.J. & Ruffell, A.H. 1989. Synchroneity of climatic change and extinctions in the Late Triassic. Geology 17:265-268."
+              }
+            ]
+          },
+          {
+            "label": "The dinosaur link — argued FOR",
+            "tone": "for",
+            "sources": [
+              {
+                "cite": "Bernardi, M., Gianolla, P., Petti, F.M., Mietto, P. & Benton, M.J. 2018. Dinosaur diversification linked with the Carnian Pluvial Episode. Nature Communications 9:1499.",
+                "url": "https://doi.org/10.1038/s41467-018-03996-1"
+              },
+              {
+                "cite": "Benton, M.J., Bernardi, M. & Kinsella, C. 2018. The Carnian Pluvial Episode and the origin of dinosaurs. Journal of the Geological Society 175:1019-1026.",
+                "url": "https://doi.org/10.1144/jgs2018-049"
+              }
+            ]
+          },
+          {
+            "label": "The dinosaur link — argued AGAINST, or complicated",
+            "tone": "against",
+            "sources": [
+              {
+                "cite": "Griffin, C.T. et al. 2022. Africa's oldest dinosaurs reveal early suppression of dinosaur distribution. Nature 609:313-319.",
+                "url": "https://doi.org/10.1038/s41586-022-05133-x"
+              },
+              {
+                "cite": "Dunne, E.M. et al. 2023. Climatic controls on the ecological ascendancy of dinosaurs. Current Biology 33:206-214.",
+                "url": "https://doi.org/10.1016/j.cub.2022.11.064"
+              },
+              {
+                "cite": "Heath, J.A., Cooper, N., Upchurch, P. & Mannion, P.D. 2025. Accounting for sampling heterogeneity suggests a low paleolatitude origin for dinosaurs. Current Biology 35:941-953.",
+                "url": "https://doi.org/10.1016/j.cub.2024.12.053"
+              },
+              {
+                "cite": "Lovelace, D.M. et al. 2025. Rethinking dinosaur origins: oldest known equatorial dinosaur-bearing assemblage. Zoological Journal of the Linnean Society 203:zlae153.",
+                "url": "https://doi.org/10.1093/zoolinnean/zlae153"
+              },
+              {
+                "cite": "Martinez, R.N. et al. 2025. A Carnian theropod with unexpectedly derived features during the first dinosaur radiation. Nature Ecology & Evolution 9:2238-2247.",
+                "url": "https://doi.org/10.1038/s41559-025-02868-4",
+                "note": "early dinosaurs diversifying under semi-arid conditions, with a gap in the record beginning at 228.91 Ma as it became more humid.",
+                "noteKind": "plain"
+              }
+            ]
+          }
+        ],
+        "age": "234–232 Ma"
+      },
+      {
+        "title": "The World Comes Apart",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "(end-Triassic extinction and the Central Atlantic Magmatic Province)."
+              },
+              {
+                "cite": "Blackburn, T.J. et al. 2013. Zircon U-Pb geochronology links the end-Triassic extinction with the Central Atlantic Magmatic Province. Science 340:941-945.",
+                "url": "https://doi.org/10.1126/science.1234204"
+              },
+              {
+                "cite": "Marzoli, A. et al. 1999. Extensive 200-million-year-old continental flood basalts of the Central Atlantic Magmatic Province. Science 284:616-618.",
+                "url": "https://doi.org/10.1126/science.284.5414.616"
+              }
+            ]
+          }
+        ],
+        "age": "201 Ma"
+      },
+      {
+        "title": "How You Build Something Very Large",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Sander, P.M. et al. 2011. Biology of the sauropod dinosaurs: the evolution of gigantism. Biological Reviews 86:117-155.",
+                "url": "https://doi.org/10.1111/j.1469-185X.2010.00137.x",
+                "note": "the standing source for not chewing, the fermenting gut, and the neck.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "O'Connor, P.M. & Claessens, L.P.A.M. 2005. Basic avian pulmonary design and flow-through ventilation in non-avian theropod dinosaurs. Nature 436:253-256.",
+                "url": "https://doi.org/10.1038/nature03716"
+              },
+              {
+                "cite": "Wedel, M.J. 2003. Vertebral pneumaticity, air sacs, and the physiology of sauropod dinosaurs. Paleobiology 29:243-255."
+              },
+              {
+                "cite": "Erickson, G.M. et al. 2001. Dinosaurian growth patterns and rapid avian growth rates. Nature 412:429-433.",
+                "url": "https://doi.org/10.1038/35086558"
+              }
+            ]
+          }
+        ],
+        "age": "200–150 Ma"
+      },
+      {
+        "title": "The Jurassic Air",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Xu, X., Zhou, Z., Dudley, R., Mackem, S., Chuong, C.-M., Erickson, G.M. & Varricchio, D.J. 2014. An integrative approach to understanding bird origins. Science 346:1253293.",
+                "url": "https://doi.org/10.1126/science.1253293",
+                "note": "\"nearly all published numerical phylogenetic analyses support\" birds as maniraptoran theropods.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Brusatte, S.L., O'Connor, J.K. & Jarvis, E.D. 2015. The origin and diversification of birds. Current Biology 25:R888-R898.",
+                "url": "https://doi.org/10.1016/j.cub.2015.08.003"
+              },
+              {
+                "cite": "Gauthier, J. 1986. Saurischian monophyly and the origin of birds. Memoirs of the California Academy of Sciences 8:1-55."
+              },
+              {
+                "cite": "Gauthier, J. & de Queiroz, K. 2001. Feathered dinosaurs, flying dinosaurs, crown dinosaurs, and the name \"Aves\". In: New Perspectives on the Origin and Early Evolution of Birds, Peabody Museum, pp. 7-41."
+              }
+            ]
+          },
+          {
+            "label": "On feathers in ornithischians, which is contested",
+            "tone": "against",
+            "sources": [
+              {
+                "cite": "Zheng, X.-T., You, H.-L., Xu, X. & Dong, Z.-M. 2009. An Early Cretaceous heterodontosaurid dinosaur with filamentous integumentary structures. Nature 458:333-336.",
+                "url": "https://doi.org/10.1038/nature07856"
+              },
+              {
+                "cite": "Godefroit, P. et al. 2014. A Jurassic ornithischian dinosaur from Siberia with both feathers and scales. Science 345:451-455.",
+                "url": "https://doi.org/10.1126/science.1253351"
+              }
+            ]
+          }
+        ],
+        "age": "165–150 Ma"
+      },
+      {
+        "title": "The Flowers Arrive",
+        "groups": [
+          {
+            "label": "The fossil position",
+            "tone": "for",
+            "sources": [
+              {
+                "cite": "Herendeen, P.S., Friis, E.M., Pedersen, K.R. & Crane, P.R. 2017. Palaeobotanical redux: revisiting the age of the angiosperms. Nature Plants 3:17015.",
+                "url": "https://doi.org/10.1038/nplants.2017.15"
+              },
+              {
+                "cite": "Gravendyck, J., Krencker, F.-N., Riding, J.B., Coimbra, R. & Heimhofer, U. 2025. Rise of angiosperms. PNAS 122:e2421470122.",
+                "url": "https://doi.org/10.1073/pnas.2421470122",
+                "note": "earliest high-confidence eudicot pollen dated to ~123.0 Ma, Portugal.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Coiro, M., Doyle, J.A. & Hilton, J. 2019. How deep is the conflict between molecular and fossil evidence on the age of angiosperms? New Phytologist 223:83-99.",
+                "url": "https://doi.org/10.1111/nph.15708"
+              }
+            ]
+          },
+          {
+            "label": "The molecular position, and the size of the disagreement",
+            "tone": "against",
+            "sources": [
+              {
+                "cite": "Sauquet, H., Ramirez-Barahona, S. & Magallon, S. 2022. What is the age of flowering plants? Journal of Experimental Botany 73:3840-3853.",
+                "url": "https://doi.org/10.1093/jxb/erac130",
+                "note": "the 140-270 Ma span, and the finding that disagreements \"mostly reflect conflicting prior distributions\" rather than conflicting data.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Magallon, S. et al. 2015. A metacalibrated time-tree documents the early rise of flowering plant phylogenetic diversity. New Phytologist 207:437-453.",
+                "url": "https://doi.org/10.1111/nph.13264",
+                "note": "a molecular study that agrees with the palaeobotanists.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Silvestro, D. et al. 2021. Fossil data support a pre-Cretaceous origin of flowering plants. Nature Ecology & Evolution 5:449-457.",
+                "url": "https://doi.org/10.1038/s41559-020-01387-8",
+                "note": "a FOSSIL-ONLY study that supports a pre-Cretaceous origin.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Li, H.-T. et al. 2019. Origin of angiosperms and the puzzle of the Jurassic gap. Nature Plants 5:461-470.",
+                "url": "https://doi.org/10.1038/s41477-019-0421-0"
+              }
+            ]
+          },
+          {
+            "label": "Recent narrowing, and the study that disagrees with the narrowing",
+            "tone": "against",
+            "sources": [
+              {
+                "cite": "Wu, S. et al. 2026. [Bayesian Brownian bridge analysis of 25,685 fossil occurrences]. Nature Plants 12:1242-1251. — origin ~153-151 Ma.",
+                "url": "https://doi.org/10.1038/s41477-026-02311-x"
+              },
+              {
+                "cite": "Clark, J.W. & Donoghue, P.C.J. 2025. Royal Society Open Science 12:242158. — latest Jurassic to Early Cretaceous.",
+                "url": "https://doi.org/10.1098/rsos.242158"
+              },
+              {
+                "cite": "Ma, X. et al. 2025. Nature Communications 16:2265. — still recovers a Triassic origin.",
+                "url": "https://doi.org/10.1038/s41467-025-57687-9"
+              }
+            ]
+          },
+          {
+            "label": "Disputed early fossils",
+            "tone": "against",
+            "sources": [
+              {
+                "cite": "Fu, Q. et al. 2018. An unexpected noncarpellate epigynous flower from the Jurassic of China. eLife 7:e38827.",
+                "url": "https://doi.org/10.7554/eLife.38827"
+              },
+              {
+                "cite": "Sokoloff, D.D., Remizowa, M.V., El, E.S., Rudall, P.J. & Bateman, R.M. 2020. Supposed Jurassic angiosperms lack pentamery, an important angiosperm-specific feature. New Phytologist 228:420-426.",
+                "url": "https://doi.org/10.1111/nph.15974"
+              }
+            ]
+          },
+          {
+            "label": "Darwin's phrase",
+            "tone": "plain",
+            "sources": [
+              {
+                "cite": "Darwin, C. Letter to J.D. Hooker, 22 July 1879. Darwin Correspondence Project, letter no. 12167.",
+                "url": "https://www.darwinproject.ac.uk/letter/DCP-LETT-12167.xml"
+              }
+            ]
+          },
+          {
+            "label": "Ecological dominance, and what it did to the animals",
+            "tone": "plain",
+            "sources": [
+              {
+                "cite": "Benton, M.J., Wilf, P. & Sauquet, H. 2022. The Angiosperm Terrestrial Revolution and the origins of modern biodiversity. New Phytologist 233:2017-2035.",
+                "url": "https://doi.org/10.1111/nph.17822"
+              },
+              {
+                "cite": "Lee, S. et al. 2026. [Late Campanian angiosperm-dominated closed-canopy forest, New Mexico]. Science 392:1380-1383.",
+                "url": "https://doi.org/10.1126/science.adw9457",
+                "note": "~80 diaspore morphotypes at 74.6 Ma, nine million years before the impact.",
+                "noteKind": "plain"
+              }
+            ]
+          }
+        ],
+        "age": "130–90 Ma"
+      },
+      {
+        "title": "Feathers, and Some of the Colours",
+        "groups": [
+          {
+            "label": "The method",
+            "tone": "plain",
+            "sources": [
+              {
+                "cite": "Vinther, J., Briggs, D.E.G., Prum, R.O. & Saranathan, V. 2008. The colour of fossil feathers. Biology Letters 4:522-525.",
+                "url": "https://doi.org/10.1098/rsbl.2008.0302"
+              },
+              {
+                "cite": "Vinther, J. 2020. Reconstructing vertebrate paleocolor. Annual Review of Earth and Planetary Sciences 48:345-375.",
+                "url": "https://doi.org/10.1146/annurev-earth-073019-045641"
+              }
+            ]
+          },
+          {
+            "label": "The reconstructions named in the episode",
+            "tone": "plain",
+            "sources": [
+              {
+                "cite": "Zhang, F. et al. 2010. Fossilized melanosomes and the colour of Cretaceous dinosaurs and birds. Nature 463:1075-1078. (Sinosauropteryx).",
+                "url": "https://doi.org/10.1038/nature08740"
+              },
+              {
+                "cite": "Li, Q. et al. 2010. Plumage color patterns of an extinct dinosaur. Science 327:1369-1372. (Anchiornis).",
+                "url": "https://doi.org/10.1126/science.1186290"
+              },
+              {
+                "cite": "Li, Q. et al. 2012. Reconstruction of Microraptor and the evolution of iridescent plumage. Science 335:1215-1219.",
+                "url": "https://doi.org/10.1126/science.1213780"
+              },
+              {
+                "cite": "Hu, D. et al. 2018. A bony-crested Jurassic dinosaur with evidence of iridescent plumage. Nature Communications 9:217. (Caihong — the authors state that hue \"cannot be reconstructed\").",
+                "url": "https://doi.org/10.1038/s41467-017-02515-y"
+              },
+              {
+                "cite": "Vinther, J. et al. 2016. 3D camouflage in an ornithischian dinosaur. Current Biology 26:2456-2462. (Psittacosaurus, and the closed-canopy habitat inference).",
+                "url": "https://doi.org/10.1016/j.cub.2016.06.065"
+              },
+              {
+                "cite": "Smithwick, F.M., Nicholls, R., Cuthill, I.C. & Vinther, J. 2017. Countershading and stripes in the theropod dinosaur Sinosauropteryx reveal heterogeneous habitats in the Early Cretaceous Jehol Biota. Current Biology 27:3337-3343. (the bandit mask, and the open-habitat inference).",
+                "url": "https://doi.org/10.1016/j.cub.2017.09.032"
+              }
+            ]
+          },
+          {
+            "label": "The criticisms, which the episode gives at length",
+            "tone": "against",
+            "sources": [
+              {
+                "cite": "Moyer, A.E. et al. 2014. Melanosomes or microbes: testing an alternative hypothesis for the origin of microbodies in fossil feathers. Scientific Reports 4:4233.",
+                "url": "https://doi.org/10.1038/srep04233"
+              },
+              {
+                "cite": "Schweitzer, M.H., Lindgren, J. & Moyer, A.E. 2015. Melanosomes and ancient coloration re-examined. BioEssays 37:1174-1183.",
+                "url": "https://doi.org/10.1002/bies.201500061"
+              },
+              {
+                "cite": "McNamara, M.E., Briggs, D.E.G., Orr, P.J., Field, D.J. & Wang, Z. 2013. Experimental maturation of feathers: implications for reconstructions of fossil feather colour. Biology Letters 9:20130184. — the 18-20% shrinkage figure.",
+                "url": "https://doi.org/10.1098/rsbl.2013.0184"
+              },
+              {
+                "cite": "Pinheiro, F.L. et al. 2019. Chemical characterization of pterosaur melanin challenges color inferences in extinct animals. Scientific Reports 9:15947. — eumelanin found inside phaeomelanosome-shaped bodies.",
+                "url": "https://doi.org/10.1038/s41598-019-52318-y"
+              },
+              {
+                "cite": "Li, X. et al. 2025. High melanosome diversity exhibits weak correlation with color. Science Advances 11:eadw8707.",
+                "url": "https://doi.org/10.1126/sciadv.adw8707"
+              },
+              {
+                "cite": "Colleary, C. et al. 2015. Chemical, experimental, and morphological evidence for diagenetically altered melanin in exceptionally preserved fossils. PNAS 112:12592-12597.",
+                "url": "https://doi.org/10.1073/pnas.1509831112"
+              }
+            ]
+          },
+          {
+            "label": "The deposits, and their dating",
+            "tone": "plain",
+            "sources": [
+              {
+                "cite": "Zhou, Z. 2014. The Jehol Biota, an Early Cretaceous terrestrial Lagerstatte. National Science Review 1:543-559.",
+                "url": "https://doi.org/10.1093/nsr/nwu055"
+              },
+              {
+                "cite": "Yang, Z. et al. 2020. Was the Jehol Biota a modern-type ecosystem? PNAS 117:14299-14305.",
+                "url": "https://doi.org/10.1073/pnas.1918272117",
+                "note": "Jehol ~135-120 Ma.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Jiang, B. et al. 2014. Pyroclastic density currents are responsible for exquisite preservation of the Jehol Biota. Nature Communications 5:3151.",
+                "url": "https://doi.org/10.1038/ncomms4151"
+              }
+            ]
+          }
+        ],
+        "age": "160–120 Ma"
+      },
+      {
+        "title": "Nests",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Horner, J.R. & Makela, R. 1979. Nest of juveniles provides evidence of family structure among dinosaurs. Nature 282:296-298.",
+                "url": "https://doi.org/10.1038/282296a0"
+              },
+              {
+                "cite": "Horner, J.R. 1982. Evidence of colonial nesting and site fidelity among ornithischian dinosaurs. Nature 297:675-676.",
+                "url": "https://doi.org/10.1038/297675a0"
+              },
+              {
+                "cite": "Norell, M.A., Clark, J.M., Chiappe, L.M. & Dashzeveg, D. 1995. A nesting dinosaur. Nature 378:774-776.",
+                "url": "https://doi.org/10.1038/378774a0",
+                "note": "the brooding oviraptorosaur, and the correction of the egg-thief story.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Deeming, D.C. 2006. Ultrastructural and functional morphology of eggshells supports idea that dinosaur eggs were incubated buried in a substrate. Palaeontology 49:171-185. — the eggshell pore method.",
+                "url": "https://doi.org/10.1111/j.1475-4983.2005.00536.x"
+              },
+              {
+                "cite": "Wiemann, J. et al. 2017. Dinosaur origin of egg color: oviraptors laid blue-green eggs. PeerJ 5:e3706.",
+                "url": "https://doi.org/10.7717/peerj.3706"
+              },
+              {
+                "cite": "Erickson, G.M. et al. 2001. Dinosaurian growth patterns and rapid avian growth rates. Nature 412:429-433.",
+                "url": "https://doi.org/10.1038/35086558"
+              }
+            ]
+          }
+        ],
+        "age": "80–70 Ma"
+      },
+      {
+        "title": "An Ordinary Morning",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "(Hell Creek, and the large predator)."
+              },
+              {
+                "cite": "Erickson, G.M. et al. 2004. Gigantism and comparative life-history parameters of tyrannosaurid dinosaurs. Nature 430:772-775. — the growth curve, and ~2 kg/day.",
+                "url": "https://doi.org/10.1038/nature02699"
+              },
+              {
+                "cite": "Brusatte, S.L. et al. 2010. Tyrannosaur paleobiology: new research on ancient exemplar organisms. Science 329:1481-1485.",
+                "url": "https://doi.org/10.1126/science.1193304"
+              },
+              {
+                "cite": "Witmer, L.M. & Ridgely, R.C. 2009. New insights into the brain, braincase, and ear region of tyrannosaurs. The Anatomical Record 292:1266-1296. — olfactory regions and low-frequency hearing.",
+                "url": "https://doi.org/10.1002/ar.20983"
+              },
+              {
+                "cite": "Bell, P.R. et al. 2017. Tyrannosauroid integument reveals conflicting patterns of gigantism and feather evolution. Biology Letters 13:20170092. — the scale impressions, and why the feather question is still open.",
+                "url": "https://doi.org/10.1098/rsbl.2017.0092"
+              },
+              {
+                "cite": "Woodward, H.N. et al. 2020. Growing up Tyrannosaurus rex. Science Advances 6:eaax6250.",
+                "url": "https://doi.org/10.1126/sciadv.aax6250",
+                "note": "the juveniles as ecologically distinct animals.",
+                "noteKind": "plain"
+              }
+            ]
+          }
+        ],
+        "age": "66.5 Ma"
+      },
+      {
+        "title": "The Day",
+        "groups": [
+          {
+            "label": "Date, size, angle, impactor",
+            "tone": "plain",
+            "sources": [
+              {
+                "cite": "Renne, P.R. et al. 2013. Time scales of critical events around the Cretaceous-Paleogene boundary. Science 339:684-687.",
+                "url": "https://doi.org/10.1126/science.1230492"
+              },
+              {
+                "cite": "Schmieder, M. & Kring, D.A. 2020. Earth's impact events through geologic time. Astrobiology 20:91-141.",
+                "url": "https://doi.org/10.1089/ast.2019.2085",
+                "note": "66.052 +/- 0.043 Ma.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Collins, G.S. et al. 2020. A steeply-inclined trajectory for the Chicxulub impact. Nature Communications 11:1480. — ~60 degrees, from the northeast.",
+                "url": "https://doi.org/10.1038/s41467-020-15269-x"
+              },
+              {
+                "cite": "Fischer-Godde, M. et al. 2024. Ruthenium isotopes show the Chicxulub impactor was a carbonaceous-type asteroid. Science 385:752-756.",
+                "url": "https://doi.org/10.1126/science.adk4868"
+              },
+              {
+                "cite": "The impact winter — NOTE these figures were revised recently and the episode uses the current ones:."
+              },
+              {
+                "cite": "Senel, C.B. et al. 2023. Chicxulub impact winter sustained by fine silicate dust. Nature Geoscience 16:1033-1040.",
+                "url": "https://doi.org/10.1038/s41561-023-01290-4",
+                "note": "~2 years of photosynthetic shutdown; cooling up to 15 C.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Ying, T., Monteiro, F. & Schmidt, D.N. 2026. Nature 655:957-962.",
+                "url": "https://doi.org/10.1038/s41586-026-10541-4",
+                "note": "sea surface temperature 26.4 C to 12.3 C within 3 years; ~30 year recovery; marine primary production down 99.5%.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Rodiouchkina, K. et al. 2025. Nature Communications 16:620.",
+                "url": "https://doi.org/10.1038/s41467-024-55145-6",
+                "note": "sulphur release revised down to 67 +/- 39 Gt, roughly five times lower than previously modelled.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Brugger, J., Feulner, G. & Petri, S. 2017. Baby, it's cold outside. Geophysical Research Letters 44:419-427.",
+                "url": "https://doi.org/10.1002/2016GL072241",
+                "note": "the superseded ~26 C figure, listed because the episode mentions it.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Tabor, C.R. et al. 2020. Causes and climatic consequences of the impact winter at the Cretaceous-Paleogene boundary. Geophysical Research Letters 47:e2019GL085572. — the case for soot.",
+                "url": "https://doi.org/10.1029/2019GL085572"
+              }
+            ]
+          },
+          {
+            "label": "Deccan volcanism",
+            "tone": "plain",
+            "sources": [
+              {
+                "cite": "Hull, P.M. et al. 2020. On impact and volcanism across the Cretaceous-Paleogene boundary. Science 367:266-272.",
+                "url": "https://doi.org/10.1126/science.aay5055"
+              },
+              {
+                "cite": "O'Connor, L.K. et al. 2024. Science Advances 10:eado5478.",
+                "url": "https://doi.org/10.1126/sciadv.ado5478"
+              }
+            ]
+          }
+        ],
+        "age": "66 Ma"
+      },
+      {
+        "title": "The Ones That Kept Going",
+        "groups": [
+          {
+            "label": "The Cretaceous crown birds",
+            "tone": "plain",
+            "sources": [
+              {
+                "cite": "Field, D.J., Benito, J., Chen, A., Jagt, J.W.M. & Ksepka, D.T. 2020. Late Cretaceous neornithine from Europe illuminates the origins of crown birds. Nature 579:397-401. (Asteriornis).",
+                "url": "https://doi.org/10.1038/s41586-020-2096-0"
+              },
+              {
+                "cite": "Torres, C.R. et al. 2025. Cretaceous Antarctic bird skull elucidates early avian ecological diversity. Nature 638:146-151. (Vegavis).",
+                "url": "https://doi.org/10.1038/s41586-024-08390-0"
+              },
+              {
+                "cite": "Crane, A.H., Benito, J., Chen, A., Ksepka, D.T. & Field, D.J. 2026. Mandibular morphology clarifies phylogenetic relationships near the origin of crown birds. BMC Ecology and Evolution 26:11.",
+                "url": "https://doi.org/10.1186/s12862-025-02487-4",
+                "note": "raises questions about the position of Vegavis. Cited because the episode says the argument is not over.",
+                "noteKind": "plain"
+              }
+            ]
+          },
+          {
+            "label": "Why they survived — all of these are correlations, as the episode says",
+            "tone": "plain",
+            "sources": [
+              {
+                "cite": "Field, D.J. et al. 2018. Early evolution of modern birds structured by global forest collapse at the end-Cretaceous mass extinction. Current Biology 28:1825-1831.",
+                "url": "https://doi.org/10.1016/j.cub.2018.04.062",
+                "note": "the best-supported explanation, and the source for the fern spike and the ground-dwelling survivors.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Berv, J.S. & Field, D.J. 2018. Genomic signature of an avian Lilliput effect across the K-Pg extinction. Systematic Biology 67:1-13.",
+                "url": "https://doi.org/10.1093/sysbio/syx064"
+              },
+              {
+                "cite": "Larson, D.W., Brown, C.M. & Evans, D.C. 2016. Dental disparity and ecological stability in bird-like dinosaurs prior to the end-Cretaceous mass extinction. Current Biology 26:1325-1333.",
+                "url": "https://doi.org/10.1016/j.cub.2016.03.039",
+                "note": "toothed birds vanish abruptly rather than declining.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Torres, C.R., Norell, M.A. & Clarke, J.A. 2021. Bird neurocranial and body mass evolution across the end-Cretaceous mass extinction. Science Advances 7:eabg7099.",
+                "url": "https://doi.org/10.1126/sciadv.abg7099",
+                "note": "the brain-size argument, which the episode calls the weakest.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Longrich, N.R., Tokaryk, T. & Field, D.J. 2011. Mass extinction of birds at the Cretaceous-Paleogene boundary. PNAS 108:15253-15257.",
+                "url": "https://doi.org/10.1073/pnas.1110395108"
+              }
+            ]
+          },
+          {
+            "label": "How narrow the gap was, and how fast the recovery",
+            "tone": "plain",
+            "sources": [
+              {
+                "cite": "Stiller, J. et al. 2024. Complexity of avian evolution revealed by family-level genomes. Nature 629:851-860.",
+                "url": "https://doi.org/10.1038/s41586-024-07323-1",
+                "note": "only two divergences within Neoaves predate the boundary.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Claramunt, S. et al. 2024. Calibrating the genomic clock of modern birds using fossils. PNAS 121:e2405887121.",
+                "url": "https://doi.org/10.1073/pnas.2405887121"
+              },
+              {
+                "cite": "Ksepka, D.T., Stidham, T.A. & Williamson, T.E. 2017. Early Paleocene landbird supports rapid phylogenetic and morphological diversification of crown birds after the K-Pg mass extinction. PNAS 114:8047-8052.",
+                "url": "https://doi.org/10.1073/pnas.1700188114",
+                "note": "Tsidiiyazhi abini, 62.2-62.5 Ma, with semizygodactyl perching feet.",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Slack, K.E. et al. 2006. Early penguin fossils, plus mitochondrial genomes, calibrate avian evolution. Molecular Biology and Evolution 23:1144-1155. — Waimanu, 60.5-61.6 Ma.",
+                "url": "https://doi.org/10.1093/molbev/msj124"
+              }
+            ]
+          }
+        ],
+        "age": "66 Ma – now"
+      }
+    ],
+    "legacy": "ep01"
+  },
+  {
+    "number": 2,
+    "slug": "the-first-forests",
+    "title": "The First Forests on Earth",
+    "youtubeId": "dIW4i_ZZSgs",
+    "published": "2026-09-16T16:30:16-07:00",
+    "durationSeconds": 6107,
+    "era": "385 million years ago",
+    "description": [
+      "Tonight, the first forests. Roughly three hundred and eighty-five million years ago, on a coastline in what is now New York State, plants worked out how to stand up.",
+      "Nothing happens in this story. There is nothing to brace for. It is about trees learning to be tall, which took about twenty-five million years, had no day on which it happened, and made no noise at all. The tallest living thing on land at the time was not a plant, and nobody is sure what it was.",
+      "You do not need to follow closely or remember any of the names. If you drift off in the middle and wake up at the end with no idea how you got there, that is the intended use.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "5:01",
+        "seconds": 301,
+        "title": "Where We Are"
+      },
+      {
+        "time": "13:35",
+        "seconds": 815,
+        "title": "The Land Before Trees"
+      },
+      {
+        "time": "20:08",
+        "seconds": 1208,
+        "title": "The Hot Spring"
+      },
+      {
+        "time": "29:07",
+        "seconds": 1747,
+        "title": "The Tallest Thing Alive"
+      },
+      {
+        "time": "36:39",
+        "seconds": 2199,
+        "title": "The Invention Of Wood"
+      },
+      {
+        "time": "45:01",
+        "seconds": 2701,
+        "title": "Gilboa"
+      },
+      {
+        "time": "55:06",
+        "seconds": 3306,
+        "title": "The Roots Go Down"
+      },
+      {
+        "time": "1:02:49",
+        "seconds": 3769,
+        "title": "What The Roots Did"
+      },
+      {
+        "time": "1:12:24",
+        "seconds": 4344,
+        "title": "Rivers"
+      },
+      {
+        "time": "1:17:29",
+        "seconds": 4649,
+        "title": "The Animals, And The Quiet"
+      },
+      {
+        "time": "1:25:55",
+        "seconds": 5155,
+        "title": "The Sea"
+      },
+      {
+        "time": "1:31:58",
+        "seconds": 5518,
+        "title": "How Long It Took, And What Came After"
+      },
+      {
+        "time": "1:41:36",
+        "seconds": 6096,
+        "title": "The People Who Found It"
+      },
+      {
+        "time": "1:46:51",
+        "seconds": 6411,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim in The First Forests traces to one of these. Where researchers disagree — and about this period they disagree a great deal — the episode says so, and both sides are listed here rather than only the tidier one.",
+    "sources": [
+      {
+        "title": "The Forest Floors",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Stein, Mannolini, Hernick, Landing & Berry (2007), \"Giant cladoxylopsid trees resolve the enigma of the Earth's earliest forest stumps at Gilboa,\" Nature 446:904.",
+                "url": "https://www.nature.com/articles/nature05705"
+              },
+              {
+                "cite": "Stein, Berry, Hernick & Mannolini (2012), \"Surprisingly complex community discovered in the mid-Devonian fossil forest at Gilboa,\" Nature 483:78.",
+                "url": "https://www.nature.com/articles/nature10819"
+              },
+              {
+                "cite": "Stein et al. (2019), \"Mid-Devonian Archaeopteris roots signal revolutionary change in earliest fossil forests,\" Current Biology.",
+                "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(19)31569-6"
+              },
+              {
+                "cite": "Davies, McMahon & Berry (2024), \"Earth's earliest forest, Hangman Sandstone Formation,\" Journal of the Geological Society.",
+                "url": "https://www.lyellcollection.org/doi/full/10.1144/jgs2023-204"
+              },
+              {
+                "cite": "Goldring, W. (1927), \"The oldest known petrified forest,\" Scientific Monthly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Trees and Wood",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Meyer-Berthaud, Scheckler & Wendt (1999), \"Archaeopteris is the earliest known modern tree,\" Nature 398:700 https://www.nature.com/articles/19516."
+              },
+              {
+                "cite": "Strullu-Derrien et al. (2014), \"The earliest wood and its hydraulic properties,\" Botanical Journal of the Linnean Society 175:423.",
+                "url": "https://academic.oup.com/botlinnean/article/175/3/423/2416393"
+              },
+              {
+                "cite": "Xu et al. (2017), \"Unique growth strategy in the Earth's first trees,\" PNAS.",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5692553/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Rhynie Chert",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Garwood et al. (2020), \"The Rhynie chert,\" Current Biology.",
+                "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(19)31370-3"
+              },
+              {
+                "cite": "University of Aberdeen, Rhynie chert resources.",
+                "url": "https://www.abdn.ac.uk/rhynie/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Prototaxites",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Boyce et al. (2007), \"Devonian landscape heterogeneity recorded by a giant fungus,\" Geology 35:399."
+              },
+              {
+                "cite": "Loron et al. (2026), \"Prototaxites fossils are structurally and chemically distinct from extinct and extant Fungi,\" Science Advances 12(4).",
+                "url": "https://www.science.org/doi/10.1126/sciadv.aec6277"
+              }
+            ]
+          }
+        ],
+        "age": "and why the script hedges"
+      },
+      {
+        "title": "Carbon Dioxide, Weathering and Climate",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Berner, R. (1997), \"The Rise of Plants and Their Effect on Weathering and Atmospheric CO2,\" Science 276:544.",
+                "note": "the classic account",
+                "noteKind": "for"
+              },
+              {
+                "cite": "Dahl et al. (2022), \"Low atmospheric CO2 levels before the rise of forested ecosystems,\" Nature Communications.",
+                "url": "https://www.nature.com/articles/s41467-022-35085-9",
+                "note": "the challenge to it",
+                "noteKind": "against"
+              },
+              {
+                "cite": "Le Hir et al. (2011), \"The climate change caused by the land plant invasion in the Devonian,\" Earth and Planetary Science Letters.",
+                "note": "the albedo objection",
+                "noteKind": "against"
+              },
+              {
+                "cite": "Joachimski & Buggisch (2002), \"Conodont apatite d18O signatures indicate climatic cooling,\" Geology.",
+                "note": "the cooling itself",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Quirk, Leake, Beerling et al. (2012), \"Evolution of trees and mycorrhizal fungi intensifies silicate mineral weathering,\" Biology Letters."
+              }
+            ]
+          }
+        ],
+        "age": "the disputed part"
+      },
+      {
+        "title": "Rivers",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Davies & Gibling (2011), \"Evolution of fixed-channel alluvial plains in response to Carboniferous vegetation,\" Nature Geoscience.",
+                "url": "https://www.nature.com/articles/ngeo1237"
+              },
+              {
+                "cite": "Gibling & Davies (2012), \"Palaeozoic landscapes shaped by plant evolution,\" Nature Geoscience https://www.nature.com/articles/ngeo1376."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Animals",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Shear et al. (1984), \"Early land animals in North America: evidence from Devonian age arthropods from Gilboa,\" Science 224:492."
+              },
+              {
+                "cite": "Selden, Shear & Sutton (2008), \"Fossil evidence for the origin of spider spinnerets,\" PNAS.",
+                "note": "why Attercopus is no longer called a spider",
+                "noteKind": "against"
+              },
+              {
+                "cite": "Haug & Haug (2017), \"The presumed oldest flying insect: more likely a myriapod?\" PeerJ."
+              },
+              {
+                "cite": "Niedzwiedzki et al. (2010), \"Tetrapod trackways from the early Middle Devonian period of Poland,\" Nature 463:43."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Late Devonian, and What Came After",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Algeo & Scheckler (1998), \"Terrestrial-marine teleconnections in the Devonian,\" Philosophical Transactions of the Royal Society B.",
+                "note": "the land-plant hypothesis",
+                "noteKind": "for"
+              },
+              {
+                "cite": "Smart et al. (2023), \"The expansion of land plants during the Late Devonian contributed to the marine mass extinction,\" Communications Earth & Environment.",
+                "url": "https://www.nature.com/articles/s43247-023-01087-8",
+                "note": "the supporting dataset",
+                "noteKind": "for"
+              },
+              {
+                "cite": "Nelsen, DiMichele et al. (2016), \"Delayed fungal evolution did not cause the Paleozoic peak in coal production,\" PNAS.",
+                "url": "https://www.pnas.org/doi/10.1073/pnas.1517943113",
+                "note": "why the coal story is wrong",
+                "noteKind": "against"
+              },
+              {
+                "cite": "Krause et al. (2022), \"Evolution of Atmospheric O2 Through the Phanerozoic, Revisited,\" Annual Review of Earth and Planetary Sciences.",
+                "note": "why it probably was not 35 percent",
+                "noteKind": "against"
+              },
+              {
+                "cite": "Davies et al. (2022), \"The largest arthropod in Earth history,\" Journal of the Geological Society."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Day Length",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wells, J. W. (1963), \"Coral Growth and Geochronometry,\" Nature 197:948."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Chronology",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "International Commission on Stratigraphy, International Chronostratigraphic Chart.",
+                "url": "https://stratigraphy.org/chart"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "leftOut": "Four things this episode deliberately does not repeat, because specialists dispute them: that forests caused the Devonian CO2 collapse; that Prototaxites was definitely a fungus; that wood evolved to hold trees up; and that Carboniferous coal exists because nothing could yet digest lignin.",
+    "legacy": "ep02"
+  },
+  {
+    "number": 3,
+    "slug": "sauropods",
+    "title": "Sauropods, the Largest Animals on Land",
+    "youtubeId": "gdSwFAd00Y8",
+    "published": "2026-09-20T16:30:30-07:00",
+    "durationSeconds": 6663,
+    "era": "230–66 million years ago",
+    "description": [
+      "Tonight, the largest animals that have ever walked on land, taken slowly and in no particular hurry. About a hundred and forty million years of them, at a pace meant for falling asleep.",
+      "Nothing happens in this one. Nothing hunts anything. There are animals in this episode that could have eaten the animals in this episode, and they are not invited, because the moment a predator appears you start waiting for something.",
+      "It is not a story that runs from a beginning to an end. It is a hundred quiet facts, gathered into groups, told in order, and the number is never counted out loud.",
+      "An egg the size of a grapefruit, from an animal the length of a tennis court. A neck bone taller than your table is long. Two of the largest creatures ever found, both of which have gone missing. And, at the end, a hole in a riverbed in Texas that you can put your own foot inside.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "3:43",
+        "seconds": 223,
+        "title": "The Animals"
+      },
+      {
+        "time": "10:57",
+        "seconds": 657,
+        "title": "The Neck"
+      },
+      {
+        "time": "20:23",
+        "seconds": 1223,
+        "title": "How Big, And How We Know"
+      },
+      {
+        "time": "28:25",
+        "seconds": 1705,
+        "title": "The Ones That Got Away"
+      },
+      {
+        "time": "34:58",
+        "seconds": 2098,
+        "title": "The Eggs"
+      },
+      {
+        "time": "46:04",
+        "seconds": 2764,
+        "title": "Being Small"
+      },
+      {
+        "time": "50:47",
+        "seconds": 3047,
+        "title": "Growing"
+      },
+      {
+        "time": "57:18",
+        "seconds": 3438,
+        "title": "The Air Inside"
+      },
+      {
+        "time": "1:04:16",
+        "seconds": 3856,
+        "title": "Eating"
+      },
+      {
+        "time": "1:13:15",
+        "seconds": 4395,
+        "title": "What Was Worth Eating"
+      },
+      {
+        "time": "1:21:10",
+        "seconds": 4870,
+        "title": "Together, Or Not"
+      },
+      {
+        "time": "1:27:56",
+        "seconds": 5276,
+        "title": "The Prints"
+      },
+      {
+        "time": "1:34:31",
+        "seconds": 5671,
+        "title": "The Small Ones"
+      },
+      {
+        "time": "1:40:15",
+        "seconds": 6015,
+        "title": "The Last Of Them"
+      },
+      {
+        "time": "1:46:00",
+        "seconds": 6360,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim in A Hundred Quiet Facts About Sauropods traces to one of these. Where researchers disagree — and about these animals they disagree about almost everything, including how much they weighed and how they held their necks — the episode says so, and both sides are listed here rather than only the tidier one.",
+    "sources": [
+      {
+        "title": "Origins and the Early Story",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Sander, Christian, Clauss, Fechner, Gee, Griebeler, Gunga, Hummel, Mallison, Perry, Preuschoft, Rauhut, Remes, Tütken, Wings & Witzel (2011), \"Biology of the sauropod dinosaurs: the evolution of gigantism,\" Biological Reviews 86:117.",
+                "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1469-185X.2010.00137.x"
+              },
+              {
+                "cite": "McPhee, Benson, Botha-Brink, Bordy & Choiniere (2018), \"A Giant Dinosaur from the Earliest Jurassic of South Africa and the Transition to Quadrupedality in Early Sauropodomorphs,\" Current Biology 28:3143.",
+                "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(18)30993-X"
+              },
+              {
+                "cite": "Pol, Ramezani, Gomez, Carballido, Paulina Carabajal, Rauhut, Escapa & Cúneo (2020), \"Extinction of herbivorous dinosaurs linked to Early Jurassic global warming event,\" Proceedings of the Royal Society B 287:20202310.",
+                "note": "the Bagualia hypothesis",
+                "noteKind": "for"
+              },
+              {
+                "cite": "Buffetaut, Suteethorn, Cuny, Tong, Le Loeuff, Khansubha & Jongautchariyakul (2000), \"The earliest known sauropod dinosaur,\" Nature 407:72.",
+                "url": "https://www.nature.com/articles/35024060",
+                "note": "the Triassic claim",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Peyre de Fabrègues & Allain (2020), reassessment of Isanosaurus.",
+                "note": "why that claim no longer holds",
+                "noteKind": "against"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Neck",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Taylor, Wedel & Naish (2009), \"Head and Neck Posture in Sauropod Dinosaurs Inferred from Extant Animals,\" Acta Palaeontologica Polonica 54:213.",
+                "url": "https://www.app.pan.pl/article/item/app54-213.html"
+              },
+              {
+                "cite": "Taylor & Wedel (2013), \"The Effect of Intervertebral Cartilage on Neutral Posture and Range of Motion in the Necks of Sauropod Dinosaurs,\" PLOS ONE.",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078214"
+              },
+              {
+                "cite": "Stevens (2013), \"The Articulation of Sauropod Necks: Methodology and Mythology,\" PLOS ONE.",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078572",
+                "note": "the reply, and the concession",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Cobley, Rayfield & Barrett (2013), \"Inter-vertebral flexibility of the ostrich neck,\" PLOS ONE.",
+                "note": "soft tissue restricts rather than frees",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Vidal, Mocho, Aberasturi, Sanz & Ortega (2020), \"High browsing skeletal adaptations in Spinophorosaurus,\" Scientific Reports.",
+                "url": "https://www.nature.com/articles/s41598-020-63439-0",
+                "note": "the tilted torso",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Taylor (2022), \"Almost all known sauropod necks are incomplete and distorted,\" PeerJ 10:e12810.",
+                "note": "the constraint on everybody",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Taylor & Wedel (2013), \"Why sauropods had long necks; and why giraffes have short necks,\" PeerJ 1:e36."
+              },
+              {
+                "cite": "Seymour (2009), \"Raising the sauropod neck: it costs more to get less,\" Biology Letters.",
+                "note": "the metabolic objection",
+                "noteKind": "against"
+              },
+              {
+                "cite": "Christian (2010), \"Some sauropods raised their necks,\" Biology Letters.",
+                "note": "the counter",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Taylor, Hone, Wedel & Naish (2011), \"The long necks of sauropods did not evolve primarily through sexual selection,\" Journal of Zoology."
+              },
+              {
+                "cite": "Henderson (2013), \"Sauropod Necks: Are They Really for Heat Loss?\" PLOS ONE."
+              },
+              {
+                "cite": "Moore et al. (2023), mamenchisaurid osteology and the evolution of the sauropod neck, Journal of Systematic Palaeontology.",
+                "note": "the fifteen-metre neck",
+                "noteKind": "plain"
+              }
+            ]
+          }
+        ],
+        "age": "and why nobody can answer the obvious question"
+      },
+      {
+        "title": "How Big, and How We Know",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Lacovara et al. (2014), \"A Gigantic, Exceptionally Complete Titanosaurian Sauropod Dinosaur from Southern Patagonia,\" Scientific Reports.",
+                "note": "Dreadnoughtus at 59.3 t",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Bates, Falkingham, Macaulay, Brassey & Maidment (2015), \"Downsizing a giant: re-evaluating Dreadnoughtus body mass,\" Biology Letters.",
+                "note": "the same animal at 22–38 t",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Campione & Evans (2020), \"The accuracy and precision of body mass estimation in non-avian dinosaurs,\" Biological Reviews.",
+                "url": "https://onlinelibrary.wiley.com/doi/10.1111/brv.12638"
+              },
+              {
+                "cite": "Bonaparte & Coria (1994), original description of Argentinosaurus, Ameghiniana."
+              },
+              {
+                "cite": "Carballido et al. (2017), \"A new giant titanosaur sheds light on body mass evolution among sauropod dinosaurs,\" Proceedings of the Royal Society B.",
+                "note": "Patagotitan",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Paul (2019), \"Determining the Largest Known Land Animal,\" Annals of Carnegie Museum."
+              },
+              {
+                "cite": "Woodruff, Curtice & Foster (2025), \"Seis-ing up the Super-Morrison Formation sauropods,\" Journal of Anatomy.",
+                "note": "Supersaurus, and the 225-year figure its own authors disown",
+                "noteKind": "plain"
+              }
+            ]
+          }
+        ],
+        "age": "the disputed part"
+      },
+      {
+        "title": "The Lost Giants",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Cope (1878), \"On the Vertebrata of the Dakota Epoch of Colorado,\" Proceedings of the American Philosophical Society.",
+                "note": "the original, and the vanished vertebra",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Carpenter (2018), \"Maraapunisaurus fragillimus, N.G.,\" Geology of the Intermountain West.",
+                "note": "the reassessment",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Woodruff & Foster (2015), \"The fragile legacy of Amphicoelias fragillimus,\" PalArch's Journal of Vertebrate Palaeontology.",
+                "note": "the argument that it was a typing error",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Paul & Larramendi (2023), \"Body mass estimate of Bruhathkayosaurus and other fragmentary sauropod remains,\" Lethaia.",
+                "note": "the 110–170 t claim",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Galton & Ayyasami (2017), \"Sauropod dinosaurs from the Late Cretaceous of India,\" Neues Jahrbuch für Geologie und Paläontologie.",
+                "note": "how the material was lost",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Mohabey et al. (2024).",
+                "note": "why the identity is still unresolved",
+                "noteKind": "against"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Eggs and Nests",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Chiappe, Coria, Dingus, Jackson, Chinsamy & Fox (1998), \"Sauropod dinosaur embryos from the Late Cretaceous of Patagonia,\" Nature 396:258.",
+                "url": "https://www.nature.com/articles/24370"
+              },
+              {
+                "cite": "Chiappe, Salgado & Coria (2001), \"Embryonic skulls of titanosaur sauropod dinosaurs,\" Science 293:2444."
+              },
+              {
+                "cite": "Salgado, Coria & Chiappe (2005), \"Osteology of the sauropod embryos from the Upper Cretaceous of Patagonia,\" Acta Palaeontologica Polonica 50:79.",
+                "url": "https://www.app.pan.pl/archive/published/app50/app50-079.pdf"
+              },
+              {
+                "cite": "Coria & Chiappe (2007), \"Embryonic skin from Late Cretaceous sauropods of Auca Mahuevo,\" Journal of Paleontology 81:1528."
+              },
+              {
+                "cite": "Chiappe, Schmitt, Jackson, Garrido, Dingus & Grellet-Tinner (2004), \"Nest structure for sauropods,\" PALAIOS 19:89.",
+                "note": "the excavated depressions",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Jackson, Schmitt & Oser (2013), \"Influence of Vertisol development on sauropod egg taphonomy at Auca Mahuevo,\" Palaeogeography, Palaeoclimatology, Palaeoecology.",
+                "note": "the same researcher qualifying his own earlier work",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Vila, Jackson, Fortuny, Sellés & Galobart (2010), \"3-D modelling of megaloolithid clutches,\" PLOS ONE.",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010362",
+                "note": "the asymmetric nest and the hind foot",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Jackson, Varricchio, Jackson, Vila & Chiappe (2008), \"Comparison of water vapor conductance in a titanosaur egg from Argentina and a Megaloolithus siruguei egg from Spain,\" Paleobiology 34:229.",
+                "note": "argues against full burial",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Tanaka, Zelenitsky & Therrien (2015), \"Eggshell porosity provides insight on evolution of nesting in dinosaurs,\" PLOS ONE.",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142829",
+                "note": "argues for covered nests",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Tanaka, Novas, Manabe et al. (2026), \"Titanosaur eggshells from the latest Cretaceous of Patagonia: implications for nesting at high latitude,\" Royal Society Open Science 13:260333.",
+                "note": "the compost-heap nests near the Antarctic",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Ruxton, Birchard & Deeming (2014), \"Incubation time as an important influence on egg production and distribution into clutches for sauropod dinosaurs,\" Paleobiology 40:323."
+              },
+              {
+                "cite": "Werner & Griebeler (2013), \"New insights into non-avian dinosaur reproduction,\" PLOS ONE.",
+                "note": "egg mass against body mass",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Sanguino, de Celis, de la Horra et al. (2025), \"A unique association of fusioolithid dinosaur eggs from the Upper Cretaceous of Spain (Poyos),\" Cretaceous Research 174.",
+                "note": "the large thin-shelled egg",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Dhiman, Verma, Singh et al. (2023), \"New Late Cretaceous titanosaur sauropod dinosaur egg clutches from lower Narmada valley, India,\" PLOS ONE.",
+                "note": "and the time-averaging objection to its conclusions",
+                "noteKind": "against"
+              },
+              {
+                "cite": "Pu, Zelenitsky, Lü, Currie et al. (2017), Macroelongatoolithus and giant caenagnathid eggs, Nature Communications.",
+                "note": "why sauropods did not lay the largest dinosaur eggs",
+                "noteKind": "plain"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Hatchlings, Growth and What the Bone Remembers",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Curry Rogers, Whitney, D'Emic & Bagley (2016), \"Precocity in a tiny titanosaur from the Cretaceous of Madagascar,\" Science 352:450."
+              },
+              {
+                "cite": "Schade, Knötschke, Hanke, Stumpf et al. (2022), \"Neurovascular anatomy of dwarf dinosaur implies precociality in sauropods,\" eLife 11:e82190.",
+                "url": "https://elifesciences.org/articles/82190"
+              },
+              {
+                "cite": "Erickson, Rogers & Yerby (2001), \"Dinosaurian growth patterns and rapid avian growth rates,\" Nature 412:429.",
+                "note": "the fast end, and the fifteen-year figure",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Lehman & Woodward (2008), \"Modeling growth rates for sauropod dinosaurs,\" Paleobiology 34:264.",
+                "note": "the slow end, and seventy years",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Griebeler, Klein & Sander (2013), \"Aging, maturation and growth of sauropodomorph dinosaurs as deduced from growth curves using long bone histological data,\" PLOS ONE.",
+                "note": "the middle ground, and the authors' own warning",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Cullen et al. (2021), \"What's my age again? On the ambiguity of histology-based skeletochronology,\" Proceedings of the Royal Society B 288:20211166."
+              },
+              {
+                "cite": "van der Linden et al. (2024), \"Ardetosaurus viator, a new diplodocine sauropod,\" Palaeontologia Electronica 27:a50.",
+                "note": "nineteen growth cycles in one rib",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Botha, Choiniere & Benson (2022), \"Rapid growth preceded gigantism in sauropodomorph evolution,\" Current Biology 32:4501."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Air, Bones and a Lung Nobody Has Seen",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wedel (2003), \"Vertebral pneumaticity, air sacs, and the physiology of sauropod dinosaurs,\" Paleobiology 29:243.",
+                "note": "including what is and is not speculative",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Wedel (2005), \"Postcranial skeletal pneumaticity in sauropods and its implications for mass estimates,\" in Curry Rogers & Wilson (eds.), The Sauropods, UC Press."
+              },
+              {
+                "cite": "Burton, Benito, Mellor, Smith, Martin-Silverstone, O'Connor & Field (2025), \"The influence of soft tissue volume on estimates of skeletal pneumaticity,\" Philosophical Transactions of the Royal Society B 380:20230428.",
+                "note": "why the sixty percent figure is an upper bound",
+                "noteKind": "against"
+              },
+              {
+                "cite": "Aureliano, Ghilardi, Navarro, Fernandes, Ricardi-Branco & Wedel (2021), \"Exquisite air sac histological traces in a hyperpneumatized nanoid sauropod dinosaur,\" Scientific Reports https://www.nature.com/articles/s41598-021-03689-8."
+              },
+              {
+                "cite": "Farmer & Sanders (2010), \"Unidirectional airflow in the lungs of alligators,\" Science.",
+                "note": "why \"bird-like\" may be the wrong word",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Schachner, Hutchinson & Farmer (2013), \"Pulmonary anatomy in the Nile crocodile and the evolution of unidirectional airflow in Archosauria,\" PeerJ."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Eating",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Poropat et al. (2025), \"Fossilized gut contents elucidate the feeding habits of sauropod dinosaurs,\" Current Biology.",
+                "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(25)00550-0",
+                "note": "the first sauropod gut contents ever found",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "D'Emic, Whitlock, Smith, Fisher & Wilson (2013), \"Evolution of high tooth replacement rates in sauropod dinosaurs,\" PLOS ONE 8:e69235.",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069235",
+                "note": "the lines of von Ebner",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Melstrom, Chiappe & Smith (2021), \"Exceptionally simple, rapidly replaced teeth in sauropod dinosaurs,\" BMC Ecology and Evolution."
+              },
+              {
+                "cite": "Wings & Sander (2007), \"No gastric mill in sauropod dinosaurs: new evidence from analysis of gastrolith mass and function in ostriches,\" Proceedings of the Royal Society B 274:635 https://royalsocietypublishing.org/doi/10.1098/rspb.2006.3763."
+              },
+              {
+                "cite": "Wings (2007), \"A review of gastrolith function with implications for fossil vertebrates,\" Acta Palaeontologica Polonica 52:1."
+              },
+              {
+                "cite": "Takasaki, Kobayashi, Fiorillo, Chinzorig & Funston (2026), \"Gastrolith shape as an indicator of digestive function,\" Paleobiology.",
+                "note": "the same conclusion from a different direction",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Hummel, Gee, Südekum, Sander, Nogge & Clauss (2008), \"In vitro digestibility of fern and gymnosperm foliage,\" Proceedings of the Royal Society B 275:1015.",
+                "url": "https://royalsocietypublishing.org/doi/full/10.1098/rspb.2007.1728",
+                "note": "horsetails beat grass, cycads are poor",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Whitlock (2011), \"Inferences of diplodocoid feeding behavior from snout shape and microwear analyses,\" PLOS ONE."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Herds",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Myers & Fiorillo (2009), \"Evidence for gregarious behavior and age segregation in sauropod dinosaurs,\" Palaeogeography, Palaeoclimatology, Palaeoecology 274:96."
+              },
+              {
+                "cite": "Torcida Fernández-Baldor et al. (2021), \"Enigmatic tracks of solitary sauropods roaming an extensive lacustrine megatracksite in Iberia,\" Scientific Reports 11:16939.",
+                "note": "the counter-case https://www.nature.com/articles/s41598-021-95675-3",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Pol, Mancuso, Smith, Nesbitt, Ramezani, Cerda, Otero & Fernandez (2021), \"Earliest evidence of herd-living and age segregation amongst dinosaurs,\" Scientific Reports 11:20023.",
+                "url": "https://www.nature.com/articles/s41598-021-99176-1",
+                "note": "spectacular, and about a sauropodomorph rather than a sauropod",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Lockley, Meyer & dos Santos (1994), \"Trackway evidence for a herd of juvenile sauropods from the Late Jurassic of Portugal,\" Gaia 10:27."
+              }
+            ]
+          }
+        ],
+        "age": "and the evidence that is thinner than you think"
+      },
+      {
+        "title": "Footprints",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Mazin, Hantzpergue & Olivier (2017), \"The dinosaur tracksite of Plagne (early Tithonian, Late Jurassic; Jura Mountains, France): The longest known sauropod trackway,\" Geobios 50:279.",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S0016699516301334"
+              },
+              {
+                "cite": "Vila, Oms, Galobart, Bates, Egerton & Manning (2013), \"Dynamic Similarity in Titanosaur Sauropods: Ichnological Evidence from the Fumanya Dinosaur Tracksite,\" PLOS ONE 8:e57408.",
+                "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0057408"
+              },
+              {
+                "cite": "Vila et al. (2005), \"Manus-only titanosaurid trackway from Fumanya: further evidence for an underprint origin,\" Lethaia.",
+                "note": "why footprints are not photographs",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Farlow, Pittman & Hawthorne (1989), \"Brontopodus birdi, Lower Cretaceous sauropod footprints from the U.S. Gulf Coastal Plain,\" in Gillette & Lockley (eds.), Dinosaur Tracks and Traces."
+              },
+              {
+                "cite": "Lockley (1991), Tracking Dinosaurs, Cambridge University Press."
+              },
+              {
+                "cite": "Meyer, Marty, Thüring, Thüring & Belvedere (2021), \"The Late Cretaceous dinosaur track record of Bolivia,\" Journal of South American Earth Sciences 106:102992.",
+                "note": "Cal Orck'o",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "The Oxfordshire trackway referred to in the episode (Dewars Farm Quarry, ~220 m) is described in university and press material from 2024–2025 and has not, as of September 2026, been formally published. It is presented in the episode as unpublished for that reason."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Small Ones",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Sander, Mateus, Laven & Knötschke (2006), \"Bone histology indicates insular dwarfism in a new Late Jurassic sauropod dinosaur,\" Nature 441:739.",
+                "url": "https://www.nature.com/articles/nature04633",
+                "note": "Europasaurus",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Stein, Csiki, Curry Rogers, Weishampel, Redelstorff, Carballido & Sander (2010), \"Small body size and extreme cortical bone remodeling indicate phyletic dwarfism in Magyarosaurus dacus,\" PNAS 107:9258.",
+                "url": "https://www.pnas.org/doi/10.1073/pnas.1000781107"
+              },
+              {
+                "cite": "Benton, Csiki, Grigorescu, Redelstorff, Sander, Stein & Weishampel (2010), \"Dinosaurs and the island rule: the dwarfed dinosaurs from Hațeg Island,\" Palaeogeography, Palaeoclimatology, Palaeoecology 293:273."
+              },
+              {
+                "cite": "Díez Díaz, Mannion, Csiki-Sava & Upchurch (2024), \"Revision of Romanian sauropod dinosaurs reveals high titanosaur diversity and body-size disparity on the latest Cretaceous Hațeg Island,\" Journal of Systematic Palaeontology.",
+                "note": "the large sauropod that complicates the story",
+                "noteKind": "plain"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The World They Stood in",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Parrish, Peterson & Turner (2004), \"Jurassic 'savannah'.",
+                "note": "plant taphonomy and climate of the Morrison Formation,\" Sedimentary Geology 167:137",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Coiffard, Gomez, Daviero-Gomez & Dilcher (2012), \"Rise to dominance of angiosperm pioneers in European Cretaceous environments,\" PNAS 109:20955."
+              },
+              {
+                "cite": "Benton, Wilf & Sauquet (2022), \"The Angiosperm Terrestrial Revolution and the origins of modern biodiversity,\" New Phytologist 233:2017.",
+                "note": "why dominance came later",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Prasad, Strömberg, Alimohammadian & Sahni (2005), \"Dinosaur Coprolites and the Early Evolution of Grasses and Grazers,\" Science 310:1177.",
+                "url": "https://www.science.org/doi/abs/10.1126/science.1118806",
+                "note": "the grass phytoliths",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Prasad, Strömberg, Leaché, Samant, Patnaik, Tang, Mohabey, Ge & Sahni (2011), \"Late Cretaceous origin of the rice tribe,\" Nature Communications 2:480.",
+                "url": "https://www.nature.com/articles/ncomms1482"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The End",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Vila, Galobart, Canudo, Le Loeuff, Dinarès-Turell, Riera, Oms, Tortosa & Gaete (2012), \"The diversity of sauropod dinosaurs and their first taxonomic succession from the latest Cretaceous of southwestern Europe,\" Palaeogeography, Palaeoclimatology, Palaeoecology 350:19.",
+                "note": "rules out a decline in sauropods",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Flynn et al. (2025), \"Late-surviving New Mexican dinosaurs illuminate high end-Cretaceous diversity and provinciality,\" Science 390:400.",
+                "url": "https://www.science.org/doi/10.1126/science.adw3282"
+              },
+              {
+                "cite": "Sakamoto, Benton & Venditti (2016), \"Dinosaurs in decline tens of millions of years before their final extinction,\" PNAS.",
+                "note": "argued FOR a long decline",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Condamine, Guinot, Benton & Currie (2021), \"Dinosaur biodiversity declined well before the asteroid impact,\" Nature Communications 12:3833.",
+                "note": "argued FOR",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Chiarenza et al. (2019), \"Ecological niche modelling does not support climatically- driven dinosaur diversity decline before the Cretaceous/Paleogene mass extinction,\" Nature Communications.",
+                "note": "argued AGAINST; the decline is sampling bias",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Bonsor, Barrett, Raven & Cooper (2020), \"Dinosaur diversification rates were not in decline prior to the K-Pg boundary,\" Royal Society Open Science 7:201195.",
+                "note": "argued AGAINST",
+                "noteKind": "plain"
+              },
+              {
+                "cite": "Allen, Volkova Oliveira, Stadler, Vaughan & Warnock (2024), \"Mechanistic phylodynamic models do not provide conclusive evidence that non-avian dinosaurs were in decline before their final extinction,\" Cambridge Prisms: Extinction 2:e6.",
+                "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11895757/",
+                "note": "the same data, two models, opposite answers",
+                "noteKind": "plain"
+              }
+            ]
+          }
+        ],
+        "age": "were they declining, or not"
+      }
+    ],
+    "leftOut": "Four things this episode deliberately does not repeat, because specialists dispute them or have abandoned them: that sauropods held their necks in any one known posture; that a hard eggshell-thickness limit explains why sauropod eggs were small; that stomach stones served as a gastric mill; and that sauropods were already in decline before the asteroid arrived.",
+    "legacy": "ep03"
+  },
+  {
+    "number": 4,
+    "slug": "the-western-interior-seaway",
+    "title": "The Western Interior Seaway, the Inland Sea That Split America in Two",
+    "youtubeId": "o1tArxIYqrE",
+    "published": "2026-09-23T17:00:15-07:00",
+    "durationSeconds": 5419,
+    "era": "100–66 million years ago",
+    "description": [
+      "Tonight, a sea that doesn't exist anymore, in a place where there is no sea at all. Kansas. Nebraska. For about thirty-four million years, a warm, shallow ocean ran straight through the middle of North America, from the Arctic Ocean to the Gulf of Mexico, and split the continent in two.",
+      "Nothing hunts anything in this one. There are two entirely unrelated kinds of large animal beneath the surface, a coiled shell and a straight one drifting through open water, and something gliding low over it at night, and none of them are in any danger, because the moment a predator appears you start waiting for something.",
+      "It is not a chase and it is not a countdown. It's a sea arriving from two directions and meeting in the middle, a floor built by a snowfall that never stopped for five million years, and then, slowly, over twenty million more, a sea leaving the same way it came, until there was nothing left of it but the shape of the ground.",
+      "You do not need to follow closely. If you drift off before it's over and wake up with no idea how you got there, that is the intended use.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "6:49",
+        "seconds": 409,
+        "title": "Where We Are"
+      },
+      {
+        "time": "12:02",
+        "seconds": 722,
+        "title": "How A Sea Gets Into The Middle Of A Continent"
+      },
+      {
+        "time": "18:40",
+        "seconds": 1120,
+        "title": "The Coiled Ones, And The Straight One"
+      },
+      {
+        "time": "25:25",
+        "seconds": 1525,
+        "title": "What Flew Above It"
+      },
+      {
+        "time": "31:02",
+        "seconds": 1862,
+        "title": "The Long Shadows Beneath"
+      },
+      {
+        "time": "39:19",
+        "seconds": 2359,
+        "title": "The Ordinary Schools"
+      },
+      {
+        "time": "43:55",
+        "seconds": 2635,
+        "title": "Snow That Never Melts"
+      },
+      {
+        "time": "47:47",
+        "seconds": 2867,
+        "title": "The Quiet Floor"
+      },
+      {
+        "time": "52:48",
+        "seconds": 3168,
+        "title": "How A Shell Becomes Stone"
+      },
+      {
+        "time": "57:44",
+        "seconds": 3464,
+        "title": "The Sea Grows Restless"
+      },
+      {
+        "time": "1:03:34",
+        "seconds": 3814,
+        "title": "The Water Pulls Back"
+      },
+      {
+        "time": "1:07:54",
+        "seconds": 4074,
+        "title": "The Last Pool"
+      },
+      {
+        "time": "1:11:55",
+        "seconds": 4315,
+        "title": "What The Sea Left Behind"
+      },
+      {
+        "time": "1:17:01",
+        "seconds": 4621,
+        "title": "What We Dig Up Now"
+      },
+      {
+        "time": "1:23:46",
+        "seconds": 5026,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim in this episode traces to a named, published source, and they are all listed below. Where researchers disagree — and in this episode they disagree about several things, including exactly when the sea's two arms first joined into one, precisely what raised the land back up underneath it at the end, and how some of these animals are related to one another in fine detail — the episode says so rather than picking the tidier answer.",
+    "sources": [
+      {
+        "title": "The Seaway Itself",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wikipedia, \"Western Interior Seaway\" — extent, formation, the Mowry Sea and Gulf-connected arms, the final Pierre Seaway phase",
+                "url": "https://en.wikipedia.org/wiki/Western_Interior_Seaway"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Formation, and the Laramide Orogeny",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wikipedia, \"Laramide orogeny\" — flat-slab subduction of the Farallon plate, the uplift that helped end the seaway",
+                "url": "https://en.wikipedia.org/wiki/Laramide_orogeny"
+              },
+              {
+                "cite": "Zhou et al. 2024, \"Late Cretaceous Sevier Versus Laramide Orogenies in Wyoming-Utah-Colorado, USA: New Insights From Basin Subsidence History,\" Tectonics"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Niobrara Chalk and Smoky Hill Chalk",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wikipedia, \"Niobrara Formation\" — coccolith accumulation, age span, the Smoky Hill Chalk Member over the Fort Hays Limestone",
+                "url": "https://en.wikipedia.org/wiki/Niobrara_Formation"
+              },
+              {
+                "cite": "Wikipedia, \"Smoky Hill Chalk\" — fossil taxa, the Xiphactinus \"fish within a fish\"",
+                "url": "https://en.wikipedia.org/wiki/Smoky_Hill_Chalk"
+              },
+              {
+                "cite": "Kansas Geological Survey, Bulletin 225, \"Smoky Hill Chalk Member, Niobrara Chalk (Upper Cretaceous) of the Type Area, Western Kansas\"",
+                "url": "https://www.kgs.ku.edu/Publications/Bulletins/225/index.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Anoxic Seafloor and the Chalk-shale Rhythm",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Western Interior Seaway bottom-water anoxia and the alternating chalk/shale bedding, building on the foundational work of Erle G. Kauffman on the Niobrara and Greenhorn cycles",
+                "url": "https://en.wikipedia.org/wiki/Western_Interior_Seaway_anoxia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Animals",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wikipedia, \"Mosasaur\" and \"Plesiosaur\" — anatomy, live birth in both groups, the separate ancestry of the two lineages",
+                "url": "https://en.wikipedia.org/wiki/Mosasaur"
+              },
+              {
+                "cite": "https://en.wikipedia.org/wiki/Plesiosaur",
+                "url": "https://en.wikipedia.org/wiki/Plesiosaur"
+              },
+              {
+                "cite": "Lindgren et al. 2014, \"Skin pigmentation provides evidence of convergent melanism in extinct marine reptiles,\" Nature — the mosasaur countershading finding"
+              },
+              {
+                "cite": "Habib, M. B. — published work on pterosaur quadrupedal launch biomechanics"
+              },
+              {
+                "cite": "Cope, E. D. (1868) and the well-documented Elasmosaurus skull-reversal episode, from the general history of the Bone Wars"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Discovery History",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wikipedia, \"Smoky Hill Chalk\" — O. C. Marsh's 1870 Yale expedition, B. F. Mudge, S. W. Williston, George F. Sternberg and Charles H. Sternberg"
+              },
+              {
+                "cite": "Kansas Historical Society, Kansapedia, \"State Fossils\" — Pteranodon and Tylosaurus as Kansas's official state fossils",
+                "url": "https://www.kansashistory.gov/kansapedia/state-fossils/18626"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "slug": "the-coal-forests",
+    "title": "The Coal Forests, When Insects Grew as Big as Gulls",
+    "youtubeId": "8gy_kc3DAr8",
+    "published": "2026-09-27T18:58:21-07:00",
+    "durationSeconds": 5631,
+    "era": "359–299 million years ago",
+    "description": [
+      "Tonight, a world breathing air richer than the air in the room you're lying in right now. For about sixty million years, huge tracts of the land near the equator stood as forest — dense, strange, built nothing like a modern one — and huge tracts of that forest were, one way or another, on their way to becoming something else entirely.",
+      "There are some very large animals in this one. An insect with a gull's wingspan. A millipede longer than you are tall. Neither is anything to be wary of. The insect eats other insects, calmly, the way insects always have. The millipede almost certainly ate old leaves. Nothing tonight hunts, or is hunted, or is described that way, however large it gets.",
+      "It's a story about an atmosphere thick enough to grow giants, a forest that photosynthesised through its bark, and a small, dry-skinned animal that quietly worked out how to leave water behind for good — found inside the hollow stump of one of this episode's own trees. Underneath it all, a swamp turning slowly into the single largest fuel reserve this planet has ever laid down, one drowned forest at a time.",
+      "You do not need to follow closely. If you drift off before the forest does, and wake up with no idea how you got there, that is the intended use.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "9:15",
+        "seconds": 555,
+        "title": "Where We Are"
+      },
+      {
+        "time": "16:07",
+        "seconds": 967,
+        "title": "The Air Itself"
+      },
+      {
+        "time": "24:42",
+        "seconds": 1482,
+        "title": "The Standing Forests"
+      },
+      {
+        "time": "30:00",
+        "seconds": 1800,
+        "title": "What Grew Beneath Them"
+      },
+      {
+        "time": "34:24",
+        "seconds": 2064,
+        "title": "The Dragonfly"
+      },
+      {
+        "time": "38:29",
+        "seconds": 2309,
+        "title": "The Armoured Millipede"
+      },
+      {
+        "time": "44:16",
+        "seconds": 2656,
+        "title": "Life That Still Needed Water"
+      },
+      {
+        "time": "47:57",
+        "seconds": 2877,
+        "title": "The First Dry Egg"
+      },
+      {
+        "time": "54:37",
+        "seconds": 3277,
+        "title": "How A Swamp Becomes Coal"
+      },
+      {
+        "time": "1:02:25",
+        "seconds": 3745,
+        "title": "A Sea That Keeps Coming Back"
+      },
+      {
+        "time": "1:07:16",
+        "seconds": 4036,
+        "title": "The Forests Thin Out"
+      },
+      {
+        "time": "1:12:13",
+        "seconds": 4333,
+        "title": "What The Drier Patches Favoured"
+      },
+      {
+        "time": "1:17:17",
+        "seconds": 4637,
+        "title": "What The Forests Left Behind"
+      },
+      {
+        "time": "1:21:12",
+        "seconds": 4872,
+        "title": "What We Dig Up Now"
+      },
+      {
+        "time": "1:25:38",
+        "seconds": 5138,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim traces to a named, published source, listed below. Where researchers disagree — how much of these animals' size the air really explains, what the largest actually ate and where it lived, whether the \"first reptile\" still earns that title, how patchy the forest's decline really was — the episode says so rather than picking the tidier answer.",
+    "sources": [
+      {
+        "title": "The Carboniferous World",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wikipedia, \"Carboniferous\" — the Euramerica/Gondwana collision, the equatorial coal belt, the \"everwet\" climate",
+                "url": "https://en.wikipedia.org/wiki/Carboniferous"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Oxygen and Insect Gigantism",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wikipedia, \"Meganisoptera\" — the 30–35% oxygen estimate, Meganeura's wingspan, and the history of the gigantism debate",
+                "url": "https://en.wikipedia.org/wiki/Meganisoptera"
+              },
+              {
+                "cite": "Ellers & Gordon (2024), \"Induced Power Scaling Alone Cannot Explain Griffenfly Gigantism\" — a recent challenge to a pure-oxygen explanation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Standing Forest",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wikipedia, \"Lepidodendron,\" \"Sigillaria,\" \"Calamites,\" \"Cordaites\" — growth habit, photosynthetic bark, spore reproduction",
+                "url": "https://en.wikipedia.org/wiki/Lepidodendron"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Arthropleura",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Davies et al. (2021), Journal of the Geological Society — the 2018 Howick Bay find and revised maximum size",
+                "url": "https://pubs.geoscienceworld.org/gsl/jgs/article-abstract/179/3/jgs2021-115/610403"
+              },
+              {
+                "cite": "Natural History Museum news coverage, and Wikipedia, \"Arthropleura\" — on the genuine uncertainty over diet and habitat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Hylonomus and the First Dry Egg",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wikipedia, \"Hylonomus\" — the 1852 Joggins discovery and its traditional \"first reptile\" status",
+                "url": "https://en.wikipedia.org/wiki/Hylonomus"
+              },
+              {
+                "cite": "Jenkins et al. (2025), Peer Community Journal, and Carroll (1988), Nature — the original claim and this year's challenge to it"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Coal Formation",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Nelsen, DiMichele, Peters & Boyce (2016), PNAS 113(9):2442-2447, \"Delayed fungal evolution did not cause the Paleozoic peak in coal production\" — rejecting the old lignin-lag explanation",
+                "url": "https://www.pnas.org/doi/10.1073/pnas.1517943113"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sea-level Cycles",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wikipedia, \"Cyclothem\" and \"Late Paleozoic Icehouse\" — the repeating forest/sea sequence and its glacial driver",
+                "url": "https://en.wikipedia.org/wiki/Cyclothem"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Rainforest Collapse",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wikipedia, \"Carboniferous rainforest collapse\" — timing and the staged, regionally patchy decline",
+                "url": "https://en.wikipedia.org/wiki/Carboniferous_rainforest_collapse"
+              },
+              {
+                "cite": "Sahney, Benton & Falcon-Lang (2010), Geology, and Dunne et al. (2018), Proceedings of the Royal Society B — the original pattern and a later challenge to it"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Discovery and Modern Sites",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wikipedia, \"Joggins Fossil Cliffs\" — UNESCO status, the Bay of Fundy's tidal range",
+                "url": "https://en.wikipedia.org/wiki/Joggins_Fossil_Cliffs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "slug": "what-came-after-the-asteroid",
+    "title": "What Came After the Asteroid, How Earth Recovered in 10 Million Years",
+    "youtubeId": "_CkxK5q5H_Y",
+    "published": "2026-09-30T17:00:00-07:00",
+    "durationSeconds": 5160,
+    "era": "66–56 million years ago",
+    "description": [
+      "Tonight, a world that has just lost three out of every four species it had only a few days before, waking up in the ash and starting, almost immediately, to grow back. Nothing tonight happens at the moment of the asteroid — that story already happened, on an earlier evening — this one begins in the quiet afterward, and stays there for the next ten million years.",
+      "It's a story about ferns pushing up through burned ground before almost anything else does, a bird finding somewhere to nest again after nearly every one of its cousins didn't make it through, and a mammal the size of a mouse growing, within about a million years, into something the size of a large dog. Nothing tonight is in danger. Everything you hear about is already living on the far side of the worst of it.",
+      "Some of this is unusually well documented — the fern spike sits in the very same layer of rock, worldwide, as the iridium that first gave this event away. Other parts are genuinely still argued about by the people who study them: exactly how narrow the surviving line of birds was, and exactly how long a forest or an ocean needs before it counts as properly recovered. The episode says so, rather than picking the tidy answer.",
+      "You do not need to follow closely. If you're asleep before the forests are grown back, that's the intended use.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "8:59",
+        "seconds": 539,
+        "title": "Where We Pick Up"
+      },
+      {
+        "time": "13:49",
+        "seconds": 829,
+        "title": "The Darkened World"
+      },
+      {
+        "time": "18:39",
+        "seconds": 1119,
+        "title": "Who Was Left"
+      },
+      {
+        "time": "26:23",
+        "seconds": 1583,
+        "title": "The Ferns Come First"
+      },
+      {
+        "time": "30:45",
+        "seconds": 1845,
+        "title": "The Quiet Forests Return"
+      },
+      {
+        "time": "37:46",
+        "seconds": 2266,
+        "title": "The Birds That Made It"
+      },
+      {
+        "time": "45:14",
+        "seconds": 2714,
+        "title": "Small Things In The Undergrowth"
+      },
+      {
+        "time": "48:42",
+        "seconds": 2922,
+        "title": "The Speed Of It"
+      },
+      {
+        "time": "55:21",
+        "seconds": 3321,
+        "title": "New Kinds Of Teeth"
+      },
+      {
+        "time": "1:00:15",
+        "seconds": 3615,
+        "title": "The Ocean'S Own Recovery"
+      },
+      {
+        "time": "1:06:54",
+        "seconds": 4014,
+        "title": "The Layer In The Rock"
+      },
+      {
+        "time": "1:11:01",
+        "seconds": 4261,
+        "title": "A World Warming Again"
+      },
+      {
+        "time": "1:13:10",
+        "seconds": 4390,
+        "title": "What This Emptiness Made Room For"
+      },
+      {
+        "time": "1:16:44",
+        "seconds": 4604,
+        "title": "Ten Million Years, Measured"
+      },
+      {
+        "time": "1:19:16",
+        "seconds": 4756,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim traces to a named, published source, listed below. This episode leans on more recent and more actively disputed research than most — how narrow the bird bottleneck really was, how long full forest and ocean recovery actually took — and where researchers disagree, the episode says so rather than choosing the tidier answer.",
+    "sources": [
+      {
+        "title": "Survivorship — Who Made It Through",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wilson (2013), Paleobiology — survival was continuous and size-selective, not a sharp cutoff; small, unfussy generalists came through disproportionately",
+                "url": "https://faculty.washington.edu/gpwilson/Reprints/2013%20Wilson%20Paleobio.pdf"
+              },
+              {
+                "cite": "Longrich et al. (2012), PNAS, and García-Girón et al. (2022), Science Advances — squamate losses, and dietary flexibility as the deciding trait",
+                "url": "https://www.pnas.org/doi/10.1073/pnas.1211526110"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Ferns and the Forests",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Lyson et al. (2019), Science — the Colorado record behind the fern-to-forest succession this episode follows",
+                "url": "https://www.science.org/doi/10.1126/science.aay2268"
+              },
+              {
+                "cite": "Labandeira, Johnson & Wilf (2002), PNAS, and Donovan et al. (2016), Nature Ecology & Evolution — the disputed recovery timescale, roughly 9 million years in one hemisphere against roughly 4 in another",
+                "url": "https://personal.ems.psu.edu/~pwilf/LabandeiraJohnsonWilf%202002PNAS.pdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Mammals of Corral Bluffs",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Lyson et al. (2019), Science, again — the single most important source in this episode: the dated sequence behind the hundredfold mammal body-size increase",
+                "url": "https://www.science.org/doi/10.1126/science.aay2268"
+              },
+              {
+                "cite": "Bertrand, Brusatte et al. (2022), Science — body size outpacing brain size for roughly ten million years afterward",
+                "url": "https://www.science.org/doi/10.1126/science.abl5584"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Birds and the Bottleneck",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Field et al. (2018), Current Biology — the ground-dwelling bottleneck hypothesis",
+                "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(18)30534-7"
+              },
+              {
+                "cite": "Wu et al. (2023) and Claramunt et al. (2024), both PNAS — an active, unresolved dispute over how narrow that bottleneck really was",
+                "url": "https://www.pnas.org/doi/10.1073/pnas.2405887121"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Ocean's Own Recovery",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Henehan et al. (2019), PNAS — ocean chemistry recovering within under 100,000 years",
+                "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1905989116"
+              },
+              {
+                "cite": "Alvarez, Gibbs, Bown et al. (2019), Nature — diversity and ecosystem function decoupled, full diverse recovery taking roughly 1.8 million years",
+                "url": "https://www.nature.com/articles/s41586-019-1590-8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Evidence Itself",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Alvarez, Alvarez, Asaro & Michel (1980), Science — the original iridium anomaly discovery, the physical basis for the impact hypothesis this whole collection rests on"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "slug": "the-cambrian-explosion",
+    "title": "The Cambrian Explosion, When the First Eyes Arrived",
+    "youtubeId": "ODcnWD0Z_bE",
+    "published": "2026-10-04T17:00:34-07:00",
+    "durationSeconds": 4811,
+    "era": "539–485 million years ago",
+    "description": [
+      "Tonight goes back further than this collection ever has — past the dinosaurs, past the coal forests, to a stretch of ocean more than half a billion years old, when almost nothing alive could tell one shape from another at any distance. In a little over fifty million years, that changes completely: shells appear almost everywhere within a short window of time, an eye arrives good enough to actually see with, and an ocean that had spent three billion years mostly sitting still becomes a world of animals noticing one another for the first time.",
+      "This one touches something the channel hasn't had to touch this directly before — real predators, real defences. It's told entirely through the noticing and the answering: a shell thickening, a body curling shut, a burrow going a little deeper. Nothing here describes the moment anything actually gets caught.",
+      "Some of tonight rests on work only a year or two old, including a genuine correction to one of the most famous animals in this whole story — its classic \"armoured hunter\" reputation doesn't survive contact with current evidence. Other parts are honestly, actively disputed right now: what actually set this whole event in motion is one of the oldest open questions in evolutionary biology, and nobody studying it today claims to have closed it.",
+      "You do not need to follow any of it closely. If you're asleep before the shells finish arriving, that's the intended use.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "8:50",
+        "seconds": 530,
+        "title": "An Ocean, Mostly Soft"
+      },
+      {
+        "time": "12:23",
+        "seconds": 743,
+        "title": "An Explosion, Named Carefully"
+      },
+      {
+        "time": "16:59",
+        "seconds": 1019,
+        "title": "Why Now"
+      },
+      {
+        "time": "23:30",
+        "seconds": 1410,
+        "title": "The First Hard Parts"
+      },
+      {
+        "time": "26:34",
+        "seconds": 1594,
+        "title": "An Eye, Arrives"
+      },
+      {
+        "time": "31:42",
+        "seconds": 1902,
+        "title": "Sensing And Answering"
+      },
+      {
+        "time": "40:03",
+        "seconds": 2403,
+        "title": "The First Great Success"
+      },
+      {
+        "time": "44:13",
+        "seconds": 2653,
+        "title": "A Window Opens"
+      },
+      {
+        "time": "47:22",
+        "seconds": 2842,
+        "title": "The Strangest Shapes"
+      },
+      {
+        "time": "57:15",
+        "seconds": 3435,
+        "title": "A Second Window, In China"
+      },
+      {
+        "time": "59:58",
+        "seconds": 3598,
+        "title": "Who Is Still Here"
+      },
+      {
+        "time": "1:05:08",
+        "seconds": 3908,
+        "title": "A Debt To Colder, Older Times"
+      },
+      {
+        "time": "1:07:46",
+        "seconds": 4066,
+        "title": "What Seeing Changed Forever"
+      },
+      {
+        "time": "1:10:03",
+        "seconds": 4203,
+        "title": "Five Hundred Million Years, Measured"
+      },
+      {
+        "time": "1:12:32",
+        "seconds": 4352,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim traces to a named, published source, listed below. This episode leans on more recent and more actively disputed research than most, and where researchers disagree, it says so rather than picking the tidier answer.",
+    "sources": [
+      {
+        "title": "Why the Explosion Happened When It Did",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Stockey, Cole, Farrell et al. (2024), Nature Geoscience — a modest, threshold-crossing rise in shallow-water oxygen, refining rather than overturning the oxygen hypothesis"
+              },
+              {
+                "cite": "Sperling & Stockey (2018), Integrative and Comparative Biology — rejects single-cause explanations; oxygen, food supply, temperature and genetics arriving together"
+              },
+              {
+                "cite": "Wood, Liu, Bowyer et al. (2019), Nature Ecology & Evolution — questions the \"explosion\" framing itself, arguing for a series of successive radiations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "An Eye, Arrives",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Parker (1998), Proc. Royal Society B, and Parker (2003), In the Blink of an Eye — the original \"Light Switch Theory,\" that vision triggered the wider explosion"
+              },
+              {
+                "cite": "Schoenemann, Pärnaste & Clarkson (2017), PNAS — the oldest well-documented image-forming eye, ~530 million years old"
+              },
+              {
+                "cite": "Current standing: a contested, largely marginalised framing now, folded into the broader predation story rather than credited as the one mechanism"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sensing and Answering",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Bicknell & Paterson (2018), Biological Reviews — the most direct Cambrian-focused study of predation's role, and a genuinely cautious one"
+              },
+              {
+                "cite": "Bicknell et al. (2024/2025), Current Biology — direct fossil evidence: over 200 shells showing thickness increasing in step with predator-drilling frequency"
+              },
+              {
+                "cite": "Note: \"escalation\" as a named concept belongs to Vermeij's much later work on the Mesozoic Marine Revolution, not the Cambrian — the episode is careful not to misattribute it"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Strangest Shapes",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Daley & Edgecombe (2014), Journal of Paleontology — Anomalocaris's real size (mostly ~25cm, not the old \"2 metres\" figure)"
+              },
+              {
+                "cite": "Bicknell, Smith, Marshall et al. (2023), Proc. Royal Society B — the recent correction: its grasping arms were too fragile to crack a shell, built for soft prey and speed, not crushing trilobites"
+              },
+              {
+                "cite": "Smith & Caron (2015), Nature — Hallucigenia's head, fully resolved after decades reconstructed the wrong way up"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Who Is Still Here",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Briggs & Fortey (2005), Paleobiology — the rebuttal to Gould's \"Wonderful Life\": most \"weird wonders\" are extinct stem-group members of phyla still alive today, not separate vanished phyla"
+              },
+              {
+                "cite": "Briggs (2015), Current Biology — \"they do not represent extinct higher taxa, but are early offshoots of the lineages leading to modern groups\""
+              },
+              {
+                "cite": "Zhang & Shu (2021), PalZ — \"most fossils can be comfortably placed into a stem or crown group of a living phylum\""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "slug": "the-first-animals-on-land",
+    "title": "The First Animals on Land, as Told by Their Footprints",
+    "youtubeId": "C3v1Vpjwuuk",
+    "published": "2026-10-07T17:00:36-07:00",
+    "durationSeconds": 6586,
+    "era": "470–370 million years ago",
+    "description": [
+      "Tonight is about the first steps out of the sea — and the first thing to take them, as far as anyone can currently tell, was not a fish. Over roughly a hundred million years, from a bare shore to one with forests behind it, small many-legged animals were coming and going at the water's edge long before anything with a backbone.",
+      "It is told through those tracks: rows of tiny dents in ancient sand, a small millipede in Scotland whose breathing pores say it breathed air, a lung that turns out to be older than the land, and a fin that became a limb underwater. Not one heroic crossing, but many, most of which left almost nothing behind.",
+      "A good deal of tonight is honestly unsettled. Two research teams still disagree by about fourteen million years on how old that millipede is. The famous Polish trackways have been read three different ways. Whether the earliest footprints were made on land, or only beside it, is an open question. Where researchers disagree, the episode says so.",
+      "It stays gentle throughout: no hunting, no peril, and it ends, deliberately, at the water's edge. The egg, and the first fully land-living animals, belong to a later evening.",
+      "You do not need to follow any of it closely. If you're asleep before the shore turns green, that's the intended use.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "8:47",
+        "seconds": 527,
+        "title": "Where We Are"
+      },
+      {
+        "time": "14:57",
+        "seconds": 897,
+        "title": "An Empty Shore"
+      },
+      {
+        "time": "22:02",
+        "seconds": 1322,
+        "title": "The Problem Of Air"
+      },
+      {
+        "time": "28:18",
+        "seconds": 1698,
+        "title": "The First Tracks"
+      },
+      {
+        "time": "37:21",
+        "seconds": 2241,
+        "title": "The Ground Getting Ready"
+      },
+      {
+        "time": "41:56",
+        "seconds": 2516,
+        "title": "The First Breather"
+      },
+      {
+        "time": "49:38",
+        "seconds": 2978,
+        "title": "The Crossings That Left Nothing"
+      },
+      {
+        "time": "56:06",
+        "seconds": 3366,
+        "title": "The Lung Came First"
+      },
+      {
+        "time": "1:05:14",
+        "seconds": 3914,
+        "title": "Fins Become Limbs"
+      },
+      {
+        "time": "1:14:31",
+        "seconds": 4471,
+        "title": "Seeing In Air"
+      },
+      {
+        "time": "1:21:29",
+        "seconds": 4889,
+        "title": "The First Steps Were Small"
+      },
+      {
+        "time": "1:27:21",
+        "seconds": 5241,
+        "title": "The Shore Fills Up"
+      },
+      {
+        "time": "1:33:54",
+        "seconds": 5634,
+        "title": "How Anyone Knows"
+      },
+      {
+        "time": "1:40:18",
+        "seconds": 6018,
+        "title": "A Hundred Million Years, Measured"
+      },
+      {
+        "time": "1:44:31",
+        "seconds": 6271,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim traces to a named, published source, listed below. This is a young and actively argued field, and several figures here (dates especially) are given as ranges because the sources themselves disagree. Some sources were checked at abstract level.",
+    "sources": [
+      {
+        "title": "The Shore Before the Land Animals",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Rubinstein et al. (2010), New Phytologist — Ordovician spores, the earliest evidence of land plants"
+              },
+              {
+                "cite": "Wellman, Cascales-Miñana & Servais (2023), Geol. Soc. Special Publication — the earliest land ecosystems were mostly microbial mats"
+              },
+              {
+                "cite": "Gibling & Davies (2012), Nature Geoscience — rivers before roots"
+              },
+              {
+                "cite": "Stein et al. (2020), Current Biology — the oldest known forest"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The First Tracks (age and setting disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Collette, Gass & Hagadorn (2012), J. Paleontology — Wisconsin trackways"
+              },
+              {
+                "cite": "Buatois et al. (2022), Integrative and Comparative Biology — Ontario tracks read as short visits from the sea margin"
+              },
+              {
+                "cite": "McNamara (2014), J. Royal Society of Western Australia; Shillito & Davies (2020), Geol. Magazine — Tumblagooda: age and environment both disputed"
+              },
+              {
+                "cite": "Shillito & Davies (2019), Geology — Borrowdale tracks re-read as made in shallow water"
+              },
+              {
+                "cite": "Braddy & Gass (2023), J. Paleontology — a trackway read as shoreline moulting and mating"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The First Breather and the Other Crossings",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Wilson & Anderson (2004), J. Paleontology; Wellman et al. (2024), J. Geol. Soc.; Suarez et al. (2017), Biology Letters; Brookfield et al. (2025), Fossil Studies — Pneumodesmus, dated between about 430 and 414 million years ago depending on the team"
+              },
+              {
+                "cite": "Lozano-Fernandez et al. (2016), Phil. Trans. R. Soc. B; (2020), Frontiers in Genetics — several independent crossings; clocks and fossils disagree"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Lung, Fin and Eye",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Tatsumi et al. (2016), Sci. Reports; Cupello et al. (2022), eLife — lungs predate land (genetic inference)"
+              },
+              {
+                "cite": "Goujet (2011), C. R. Palevol; Trinajstic et al. (2022), Science — armoured fishes did not have lungs"
+              },
+              {
+                "cite": "Cloutier et al. (2020), Nature — Elpistostege and the digit-like bones inside a fin"
+              },
+              {
+                "cite": "Daeschler et al. (2006); Stewart et al. (2022); Beznosov et al. (2019); Coates & Clack (1991); Pierce et al. (2012), all Nature — Tiktaalik and its relatives"
+              },
+              {
+                "cite": "MacIver et al. (2017), PNAS — eyes enlarged before limbs (a hypothesis)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The First Steps, and How Anyone Knows",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Niedźwiedzki et al. (2010), Nature; Narkiewicz et al. (2015); Qvarnström et al. (2018), Sci. Reports; Lucas (2015) — Zachełmie, Poland, and its competing readings"
+              },
+              {
+                "cite": "Stössel, Williams & Higgs (2016) — Valentia Island, Ireland"
+              },
+              {
+                "cite": "Clack (2002); Clack et al. (2016); Brocklehurst (2021) — early Carboniferous tetrapods, first amniotes"
+              },
+              {
+                "cite": "Noffke et al. (2019), J. Sedimentary Research — microbial mats and footprint preservation"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "slug": "snowball-earth",
+    "title": "Snowball Earth, When Ice Reached the Equator",
+    "youtubeId": "b9bgWL7XAno",
+    "published": "2026-10-11T17:00:01-07:00",
+    "durationSeconds": 5748,
+    "era": "720–635 million years ago",
+    "description": [
+      "Tonight is about a winter that lasted tens of millions of years. By the strongest reading of the evidence, twice, for millions of years at a stretch, ice reached the equator and a great deal of the ocean lay under it. And as far as anyone can currently show, nothing with a nervous system was alive to notice. The cast is microbes, algae, stone and ice, and the slow weather of a very long time.",
+      "It is told through what the stone kept: stones dropped into fine mud by melting ice, magnetism in old rock that puts glaciers near the equator, and a pale carbonate rock laid over the ice's debris on many continents. It is also, quietly, a story about the thaw, and about a warm sea afterwards.",
+      "A good deal of tonight is honestly unsettled. Whether the ocean was ever sealed from pole to pole is still argued between careful people, and the episode gives both sides their best case. What set the first freeze off is a leading idea, not a settled answer. How fast the thaw came, how long the pale rock took to form, and whether anything like an animal was already here are all open. Where researchers disagree, it says so.",
+      "It stays gentle throughout: nothing hunts, nothing is in peril, and it ends on the far side of the ice.",
+      "You do not need to follow any of it closely. If you're asleep before the ice melts, that's the intended use.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "7:43",
+        "seconds": 463,
+        "title": "Where We Are"
+      },
+      {
+        "time": "11:42",
+        "seconds": 702,
+        "title": "A World Without Plants Or Animals"
+      },
+      {
+        "time": "16:21",
+        "seconds": 981,
+        "title": "A Dimmer Sun"
+      },
+      {
+        "time": "18:34",
+        "seconds": 1114,
+        "title": "Why The Ice Kept Going"
+      },
+      {
+        "time": "26:31",
+        "seconds": 1591,
+        "title": "The Freeze"
+      },
+      {
+        "time": "30:26",
+        "seconds": 1826,
+        "title": "What The Stone Kept"
+      },
+      {
+        "time": "40:30",
+        "seconds": 2430,
+        "title": "Under The Ice"
+      },
+      {
+        "time": "49:14",
+        "seconds": 2954,
+        "title": "A Very Long Winter"
+      },
+      {
+        "time": "54:43",
+        "seconds": 3283,
+        "title": "The Thaw"
+      },
+      {
+        "time": "1:01:17",
+        "seconds": 3677,
+        "title": "A Pale Rock On Many Continents"
+      },
+      {
+        "time": "1:07:21",
+        "seconds": 4041,
+        "title": "A Warmer Pause, And Another Freeze"
+      },
+      {
+        "time": "1:12:59",
+        "seconds": 4379,
+        "title": "Did It Freeze All The Way"
+      },
+      {
+        "time": "1:21:44",
+        "seconds": 4904,
+        "title": "How Anyone Knows"
+      },
+      {
+        "time": "1:27:16",
+        "seconds": 5236,
+        "title": "Eighty-Five Million Years, Measured"
+      },
+      {
+        "time": "1:31:16",
+        "seconds": 5476,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim traces to a named, published source, listed below. Snowball Earth is a well-supported idea with real, ongoing disputes, and where the sources disagree the episode gives the range rather than the tidier answer. Some sources were checked at abstract level.",
+    "sources": [
+      {
+        "title": "The World Before the Ice, and Why It Ran Away",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Macdonald & Swanson-Hysell (2023), Elements — Rodinia's breakup and the Franklin volcanic province"
+              },
+              {
+                "cite": "Pierrehumbert et al. (2011), Annual Review of Earth and Planetary Sciences — a Sun about 94% as bright as today's"
+              },
+              {
+                "cite": "Hoffman et al. (2017), Science Advances — the main review: ice-albedo feedback, durations, the thaw"
+              },
+              {
+                "cite": "Rooney et al. (2014), PNAS; Macdonald et al. (2010), Science — dating the first glaciation"
+              },
+              {
+                "cite": "Prave et al. (2016), Geology; Tasistro-Hart et al. (2025), PNAS — the second glaciation, at least about four million years"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What the Stone Kept",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Sohl, Christie-Blick & Kent (1999), GSA Bulletin; Evans & Raub (2011), Geol. Soc. Memoir 36 — magnetism puts glacial rock at low latitudes"
+              },
+              {
+                "cite": "Hoffman & Schrag (2002), Terra Nova — dropstones, striated stones, the case for a snowball"
+              },
+              {
+                "cite": "Cox et al. (2013), Chemical Geology — iron-rich layers of the first glaciation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Under the Ice (a hypothesis)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Hoffman et al. (2017); Husain et al. (2025), Nature Communications — meltwater ponds, with a living modern comparison"
+              },
+              {
+                "cite": "Nettersheim et al. (2019); Bobrovskiy et al. (2021), both Nature Ecol. & Evol. — the disputed sponge biomarkers"
+              },
+              {
+                "cite": "Brocks et al. (2017), Nature — algae rise between the glaciations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Thaw and the Pale Rock",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Hoffman et al. (1998), Science; Hu et al. (2011), Climate of the Past — how much carbon dioxide (model-dependent)"
+              },
+              {
+                "cite": "Ramme, Ilyina & Marotzke (2024), Nature Communications — the warm ocean after"
+              },
+              {
+                "cite": "Hoffman, Macdonald & Halverson (2011), Geol. Soc. Memoir 36; Thomas & Catling (2024), Nature Communications — cap carbonates, how thick, how long (disputed)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Did It Freeze All the Way (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Hyde et al. (2000), Nature; Pollard & Kasting (2005), J. Geophys. Research — open-water models"
+              },
+              {
+                "cite": "Allen & Etienne (2008), Nature Geoscience; Le Heron (2012), Geosciences — the sedimentary challenge"
+              },
+              {
+                "cite": "Braun et al. (2022), Nature Geoscience; Hörner & Voigt (2024), Earth System Dynamics — newer models"
+              },
+              {
+                "cite": "Song et al. (2026), Science China Earth Sciences — a recent review"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "How Anyone Knows",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Harland & Bidgood (1959), Nature; Kirschvink (1992), in The Proterozoic Biosphere — the origin of the idea"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "slug": "whale-evolution",
+    "title": "Whale Evolution, When Whales Still Walked",
+    "youtubeId": "dJ9NBLTvA1I",
+    "published": "2026-10-14T17:00:24-07:00",
+    "durationSeconds": 6520,
+    "era": "53–34 million years ago",
+    "description": [
+      "Tonight is about a family of animals that changed its way of life, over roughly ten million years, from living beside rivers to swimming in the open sea. It begins on the shore of an old, warm sea in what is now Pakistan and India.",
+      "It is told through what the bones and rocks kept: one small bone in the ear, a mother and her young preserved together in Pakistani stone, a four-legged traveller in Peru, and a valley in the Egyptian desert where about five hundred skeletons lie in what was once the floor of a sea.",
+      "A good deal of tonight is honestly unsettled. \"Whale\" is a loose word here, and \"walked\" describes only the first half of the story. Whether the animal named for walking could walk well, or at all, is disputed. Most ages are ranges. How the whales reached the Americas is a favoured hypothesis, and which hoofed animal is their nearest living relative is still argued. Where researchers disagree, it says so.",
+      "It stays gentle throughout: nothing hunts, nothing is in peril, and it ends in a valley of sand that was once a warm sea.",
+      "You do not need to follow any of it closely. If you're asleep before the valley, that's the intended use.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "9:32",
+        "seconds": 572,
+        "title": "A Warm Sea, A Quiet Shore"
+      },
+      {
+        "time": "15:49",
+        "seconds": 949,
+        "title": "A Small Hoofed Cousin"
+      },
+      {
+        "time": "23:29",
+        "seconds": 1409,
+        "title": "The First Ones By The River"
+      },
+      {
+        "time": "32:27",
+        "seconds": 1947,
+        "title": "An Ear That Tells You"
+      },
+      {
+        "time": "43:04",
+        "seconds": 2584,
+        "title": "A Body That Swims And Walks"
+      },
+      {
+        "time": "50:58",
+        "seconds": 3058,
+        "title": "Learning The Coast"
+      },
+      {
+        "time": "58:44",
+        "seconds": 3524,
+        "title": "A Four-Legged Traveller In Peru"
+      },
+      {
+        "time": "1:06:22",
+        "seconds": 3982,
+        "title": "How A Whale Is Born"
+      },
+      {
+        "time": "1:10:25",
+        "seconds": 4225,
+        "title": "The Legs Get Smaller"
+      },
+      {
+        "time": "1:16:58",
+        "seconds": 4618,
+        "title": "The Valley Of The Whales"
+      },
+      {
+        "time": "1:23:36",
+        "seconds": 5016,
+        "title": "An Old Idea, Changed"
+      },
+      {
+        "time": "1:31:10",
+        "seconds": 5470,
+        "title": "Not A Ladder"
+      },
+      {
+        "time": "1:35:18",
+        "seconds": 5718,
+        "title": "What Came Next"
+      },
+      {
+        "time": "1:40:20",
+        "seconds": 6020,
+        "title": "Twenty Million Years, Measured"
+      },
+      {
+        "time": "1:44:27",
+        "seconds": 6267,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim traces to a named, published source, listed below. Where sources disagree, the episode gives the range or both views. Many were checked at abstract level, and a few only through citing papers or press summaries; the narration says where that matters.",
+    "sources": [
+      {
+        "title": "The Warm World and the Old Sea",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Inglis et al. (2020); Cramwinckel et al. (2018), Nature; Evans et al. (2018), PNAS — how warm the early Eocene was"
+              },
+              {
+                "cite": "Najman et al. (2010); Shahzad et al. (2024); Gingerich et al. (1983), Science — the closing sea and its shore"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Small Cousin and the Riverside Whales",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Thewissen et al. (2007), Nature; Cooper et al. (2016) — Indohyus"
+              },
+              {
+                "cite": "Thewissen et al. (2001), Nature; Madar (2007); Clementz et al. (2006) — the pakicetids"
+              },
+              {
+                "cite": "Bajpai & Gingerich (1998), PNAS; Waqas et al. (2026), Nature Ecol. & Evol. — the oldest jaw, and a new find"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Ear (hypotheses)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Nummela et al. (2004), Nature; Nummela et al. (2007); Kim et al. (2014); Peacock et al. (2025), Paleobiology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Bodies",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Thewissen, Hussain & Arif (1994), Science; Ando & Fujiwara (2016), J. Anatomy — Ambulocetus, and whether it walked (disputed)"
+              },
+              {
+                "cite": "Thewissen et al. (2009); Thewissen & Bajpai (2009); Houssaye et al. (2015), PLoS ONE; Hulbert et al. (1998) — the coastal whales"
+              },
+              {
+                "cite": "Lambert et al. (2019), Current Biology; Gohar et al. (2021) — Peregocetus, and how whales reached the Americas (a hypothesis)"
+              },
+              {
+                "cite": "Gingerich et al. (2009), PLoS ONE — Maiacetus"
+              },
+              {
+                "cite": "Antar et al. (2023); Gingerich (2007) — Tutcetus, and the small legs of the later whales"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Valley",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Peters et al. (2009), PALAIOS — the sea floor at Wadi Al-Hitan, and how the whales were kept"
+              },
+              {
+                "cite": "Egypt's World Heritage nomination for Wadi Al-Hitan — the valley's later history (a state document, not a geological paper)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Old Idea and the New",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Van Valen (1966), Bulletin of the AMNH; Luo & Gingerich (1999) — whales from mesonychids"
+              },
+              {
+                "cite": "Graur & Higgins (1994); Gatesy et al. (1996); Montgelard et al. (1997); Shimamura et al. (1997); Nikaido et al. (1999) — the DNA"
+              },
+              {
+                "cite": "Gingerich et al. (2001), Science; Geisler & Theodor (2009), Nature; Spaulding et al. (2009); Prothero et al. (2022) — the fossils, and the hippo question (disputed)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Not a Ladder, and What Came Next",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Berger et al. (2025), Evolution — protocetids are probably not one natural group"
+              },
+              {
+                "cite": "Lambert et al. (2017); Fordyce & Marx (2018), Current Biology — the first baleen whales"
+              },
+              {
+                "cite": "Bianucci et al. (2023), Nature; Motani & Pyenson (2024), PeerJ — Perucetus (its weight is disputed)"
+              },
+              {
+                "cite": "McClain et al. (2015), PeerJ; NOAA Fisheries; Smithsonian Ocean — the largest blue whale"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "slug": "the-ediacaran",
+    "title": "The Ediacaran Period, Life Before the Cambrian",
+    "youtubeId": "cAh0qQBa3qc",
+    "published": "2026-10-18T17:00:38-07:00",
+    "durationSeconds": 6340,
+    "era": "635–539 million years ago",
+    "description": [
+      "Tonight is about the long stretch of time before the Cambrian, about ninety-six million years of it, and about the first large bodies that left a mark in the rock. It begins at a pale band of limestone in a creek bed in South Australia, and it ends at a single trail in Newfoundland.",
+      "It is told through places: a deep, dark sea floor at Mistaken Point, where fronds were kept under volcanic ash; a quarry in Leicestershire, where a schoolgirl and then three schoolboys found a fossil in rock that was thought too old to hold one; a flat, ribbed oval called Dickinsonia; a trail the width of a grain of rice at Nilpena; and a few small white funnels in Namibia, among the first animals to build hard parts.",
+      "A good deal of tonight is honestly unsettled. Whether the branching fronds were animals is not known. Whether Dickinsonia was an animal rests on a chemical argument that others have questioned. What made some small round holes in the first shells, whether the Namibian reefs grew where they lie, how far the cold spell reached, and why the large bodies thin out near the end are all argued over. Where researchers disagree, it says so.",
+      "It stays gentle throughout. Nothing hunts, nothing is in peril, and the end of the period is told only as a before and an after, in the rock.",
+      "You do not need to follow any of it closely. If you're asleep before the trail, that's the intended use.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "8:19",
+        "seconds": 499,
+        "title": "A Pale Cap In South Australia"
+      },
+      {
+        "time": "14:13",
+        "seconds": 853,
+        "title": "The Last Cold, And After"
+      },
+      {
+        "time": "20:55",
+        "seconds": 1255,
+        "title": "A Puzzle From Darwin"
+      },
+      {
+        "time": "30:48",
+        "seconds": 1848,
+        "title": "The Deep Sea At Mistaken Point"
+      },
+      {
+        "time": "37:34",
+        "seconds": 2254,
+        "title": "A Body Made Of Branches"
+      },
+      {
+        "time": "43:00",
+        "seconds": 2580,
+        "title": "A Community, Mapped"
+      },
+      {
+        "time": "48:20",
+        "seconds": 2900,
+        "title": "The Flat Giants"
+      },
+      {
+        "time": "53:34",
+        "seconds": 3214,
+        "title": "Animal Or Not"
+      },
+      {
+        "time": "1:01:21",
+        "seconds": 3681,
+        "title": "The First Small Traveller"
+      },
+      {
+        "time": "1:08:34",
+        "seconds": 4114,
+        "title": "Scratches On The Mat"
+      },
+      {
+        "time": "1:15:55",
+        "seconds": 4555,
+        "title": "The First Hard Parts"
+      },
+      {
+        "time": "1:23:46",
+        "seconds": 5026,
+        "title": "The Last Of The Big Soft Bodies"
+      },
+      {
+        "time": "1:32:23",
+        "seconds": 5543,
+        "title": "A Trail In Newfoundland"
+      },
+      {
+        "time": "1:36:52",
+        "seconds": 5812,
+        "title": "Ninety-Six Million Years"
+      },
+      {
+        "time": "1:40:43",
+        "seconds": 6043,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim traces to a named source, listed below. Where sources disagree, the episode gives the range or both views. Several of the papers could not be read in full, because publisher pages were blocked; for those the narration says aloud that only a summary, a press report or a general reference was read, and the list below marks them.",
+    "sources": [
+      {
+        "title": "The Period and Its Edges",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "International Commission on Stratigraphy, summary of the Ediacaran boundary stratotype (Enorama Creek, South Australia); the Fortune Head section, Newfoundland"
+              },
+              {
+                "cite": "Pu et al. (2016), Geology — the Gaskiers glaciation, the first large fossils, and the dating of the Mistaken Point ash"
+              },
+              {
+                "cite": "Wikipedia, \"Ediacaran\" and \"Ediacaran biota\" — general reference, used where papers could not be reached"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Discoveries",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Darwin (1859), On the Origin of Species — the puzzle of the missing older fossils (recalled, not re-read)"
+              },
+              {
+                "cite": "Ford (2011), Mercian Geologist — the Charnwood Forest discovery, a first-hand account"
+              },
+              {
+                "cite": "Wikipedia, \"Charnia\" and \"Tina Negus\"; Earth Archives magazine article on Ediacara — the quarry, the schoolgirl and the Ediacara Hills"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Mistaken Point and the Fronds",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "IUGS Geoheritage entry for Mistaken Point"
+              },
+              {
+                "cite": "Mitchell et al. (2015), Nature — the mapped community (university summary only)"
+              },
+              {
+                "cite": "Vixseboxse et al. (2021), Frontiers in Earth Science — how the fronds stood"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Dickinsonia, and Whether It Was an Animal (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Bobrovskiy et al. (2018), Science — the cholesterol evidence"
+              },
+              {
+                "cite": "Science News (2018); Love & Zumberge (2021), as summarised in a general reference — the response (paper not read)"
+              },
+              {
+                "cite": "Sperling & Vinther (2010), Evolution & Development — the placozoan idea (title only)"
+              },
+              {
+                "cite": "Hakai Magazine (2019), on the Nilpena excavation and the Slime travelers paper (magazine report only)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Small Traveller and the Scratches",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Evans et al. (2020), PNAS; UC Riverside news (2020) — Ikaria wariootia (press release and general reference only)"
+              },
+              {
+                "cite": "Gehling, Runnegar & Droser (2014), Journal of Paleontology — the scratch traces"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The First Hard Parts",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Penny et al. (2014), Science — the Namibian reefs (summary only); Mehra & Maloof (2018) — the dispute (disputed)"
+              },
+              {
+                "cite": "Schiffbauer et al. (2024), Journal of Paleontology — the terminal Ediacaran tubes, and earlier work on the small holes (the 2003 Hua et al. paper itself was not read)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The End of the Period (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Darroch et al. (2015), Proceedings of the Royal Society B — the thinning (press summary only)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "slug": "the-mediterranean-salt-crisis",
+    "title": "The Mediterranean Salt Crisis, When the Door Closed",
+    "youtubeId": "Zrbrhzlt8c4",
+    "published": "2026-10-21T17:00:26-07:00",
+    "durationSeconds": 6033,
+    "era": "6–5 million years ago",
+    "description": [
+      "Tonight is about a sea and its door. About six million years ago the Mediterranean was cut off, or nearly cut off, from the Atlantic, and the rocks under its floor keep what followed: gypsum around its edges, a layer of salt a kilometre or more thick in its deep basins, and then, a little over five million years ago, the return of the Atlantic. It begins at the Strait of Gibraltar as it is today, and it ends at the same strait.",
+      "It is told through places and rock: a drilling ship in the early nineteen seventies; a filament no longer than two millimetres, lying in a crystal of gypsum in Piedmont; a last stage that may have been a lake or a sea; a channel under the strait, two hundred kilometres long; a low white cliff in Sicily where one kind of rock stops and another begins; and caves in the Italian hills.",
+      "A good deal of tonight is honestly unsettled. How far the water fell, whether about fifteen hundred metres or about six hundred, whether the deep basins ever dried, how long the salt took to form, what closed and opened the door, whether the last stage was a lake or a sea, and how fast the sea came back are all argued over. The famous version, that the Mediterranean dried up and was quickly refilled, is only one picture, and the episode says so.",
+      "It stays gentle throughout. Nothing hunts, nothing is in peril, no one stands on a shore, and the refilling is told only through what the rock keeps: a groove, a field of smooth ridges, a line in a cliff.",
+      "You do not need to follow any of it closely. If you're asleep before the cliff in Sicily, that's the intended use.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "7:00",
+        "seconds": 420,
+        "title": "A Sea That Needs A Door"
+      },
+      {
+        "time": "11:22",
+        "seconds": 682,
+        "title": "The Old Sea, Seven Million Years Ago"
+      },
+      {
+        "time": "15:47",
+        "seconds": 947,
+        "title": "A Surprise In The Cores"
+      },
+      {
+        "time": "21:23",
+        "seconds": 1283,
+        "title": "The Door Begins To Close"
+      },
+      {
+        "time": "27:34",
+        "seconds": 1654,
+        "title": "The Salt"
+      },
+      {
+        "time": "32:50",
+        "seconds": 1970,
+        "title": "How Low Did It Go"
+      },
+      {
+        "time": "39:01",
+        "seconds": 2341,
+        "title": "Small Life In The Brine"
+      },
+      {
+        "time": "43:16",
+        "seconds": 2596,
+        "title": "The Lake-Sea"
+      },
+      {
+        "time": "51:55",
+        "seconds": 3115,
+        "title": "The Door At Gibraltar"
+      },
+      {
+        "time": "58:57",
+        "seconds": 3537,
+        "title": "The Refilling"
+      },
+      {
+        "time": "1:07:56",
+        "seconds": 4076,
+        "title": "The First Sea After"
+      },
+      {
+        "time": "1:14:00",
+        "seconds": 4440,
+        "title": "The Salt You Can Still Touch"
+      },
+      {
+        "time": "1:21:22",
+        "seconds": 4882,
+        "title": "A Line Drawn In Sicily"
+      },
+      {
+        "time": "1:27:39",
+        "seconds": 5259,
+        "title": "Six Hundred Thousand Years"
+      },
+      {
+        "time": "1:33:47",
+        "seconds": 5627,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim traces to a named source, listed below. Where sources disagree, the episode gives both views. Several could not be read in full, and the narration says so aloud where it leans on them; the list marks each one.",
+    "sources": [
+      {
+        "title": "The Sea and Its Door",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Ocean Science (2018), paper on the Strait of Gibraltar (summary only)"
+              },
+              {
+                "cite": "Mascle & Mascle (2019), \"The Messinian Salinity Legacy,\" CIESM review"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Discovery",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Hsü, Ryan & Cita (1973), Nature, \"Late Miocene Desiccation of the Mediterranean\" (first sentence only)"
+              },
+              {
+                "cite": "Geoscientist magazine feature by a scientist on the drilling leg (magazine account)"
+              },
+              {
+                "cite": "Wikipedia, \"Messinian\" (general reference)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Crisis, in Order",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "CIESM Monograph 33, consensus report of the 2007 Almeria workshop (summary)"
+              },
+              {
+                "cite": "Roveri et al. (2014), Marine Geology (abstract only)"
+              },
+              {
+                "cite": "Manzi et al. (2018), Terra Nova — boreholes in the Levant Basin"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "How Low the Water Went (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Gvirtzman et al. (2022), Communications Earth & Environment — the buried Nile canyon"
+              },
+              {
+                "cite": "Garcia-Castellanos et al. (2009), Nature — the larger estimate"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Small Life",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Dela Pierre et al. (2015), Geology — filaments in Piedmont gypsum"
+              },
+              {
+                "cite": "Gibert et al. (2013), Geology, as reported by Earth magazine (magazine report only)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Lake-sea (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Carnevale et al. — fish ear stones from the final stage (preprint only)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Door and the Refilling (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Garcia-Castellanos et al. (2009), Nature — the channel and the refilling model"
+              },
+              {
+                "cite": "Garcia-Castellanos et al. (2020), Earth-Science Reviews (abstract only)"
+              },
+              {
+                "cite": "University of Southampton news summary (2025) on the Sicily ridges (news summary only)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "After, and Today",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "IUGS Geoheritage, Scala dei Turchi (Punta di Maiata), Sicily"
+              },
+              {
+                "cite": "International Commission on Stratigraphy, Zanclean boundary at Eraclea Minoa"
+              },
+              {
+                "cite": "IUCN World Heritage Outlook, Northern Apennines gypsum caves (assessment page)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "slug": "the-great-oxidation-event",
+    "title": "The Great Oxidation Event, The Rusting of the Sea",
+    "youtubeId": "mBtOyJAqgTM",
+    "published": "2026-10-25T17:00:08-07:00",
+    "durationSeconds": 6188,
+    "era": "2.5–2.0 billion years ago",
+    "description": [
+      "Tonight is about air, a sea, and the colour of some very old rock. About two and a half billion years ago the air held almost none of the oxygen that most living things now depend on, and many seas held a great deal of dissolved iron. Over the following half billion years the air changed, and the rock kept the record: stripes of iron on an old sea floor, red sandstone laid down on an old land, a black stone from a lake in Karelia, and a dark shale from Gabon. It begins in the air before the change and closes on the stripes the sea left behind.",
+      "It is told through places and rock rather than through creatures, because there is almost nothing living to show: a sulphur signal in ancient sediment, a hillside of ice-scratched stone in Ontario, a field of manganese in the Kalahari, a lake in the north of Russia, and the shales of Gabon.",
+      "A good deal of tonight is honestly unsettled. When the change began (the papers put it anywhere from about 2.5 to about 2.43 billion years ago), how fast it went, whether it was one event or a long rise and fall, how early the oxygen-makers were at work, whether ice reached the equator, whether the long high in the carbon record was global, whether the structures in Gabon are early multicellular life, and what ended the iron stripes are all argued over. The popular story that oxygen poisoned most life on Earth is told near the end as a story, with what could and could not be found.",
+      "It stays gentle throughout. Nothing hunts, nothing is in peril, and no one is harmed in the telling.",
+      "You do not need to follow any of it closely. If you're asleep before the black rock at Lake Onega, that's the intended use.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "7:32",
+        "seconds": 452,
+        "title": "The Air Before"
+      },
+      {
+        "time": "13:03",
+        "seconds": 783,
+        "title": "A Sea The Colour Of Iron"
+      },
+      {
+        "time": "19:27",
+        "seconds": 1167,
+        "title": "Small Green Makers"
+      },
+      {
+        "time": "26:41",
+        "seconds": 1601,
+        "title": "The First Signs In The Rock"
+      },
+      {
+        "time": "34:46",
+        "seconds": 2086,
+        "title": "Red Rock On Old Land"
+      },
+      {
+        "time": "41:43",
+        "seconds": 2503,
+        "title": "The Cold In The Rock"
+      },
+      {
+        "time": "52:22",
+        "seconds": 3142,
+        "title": "The Sea Catches Up"
+      },
+      {
+        "time": "58:05",
+        "seconds": 3485,
+        "title": "The Long High"
+      },
+      {
+        "time": "1:05:27",
+        "seconds": 3927,
+        "title": "After The High"
+      },
+      {
+        "time": "1:11:50",
+        "seconds": 4310,
+        "title": "The Black Rock At Lake Onega"
+      },
+      {
+        "time": "1:18:00",
+        "seconds": 4680,
+        "title": "The Shales Of Gabon"
+      },
+      {
+        "time": "1:24:09",
+        "seconds": 5049,
+        "title": "The Bands Stop"
+      },
+      {
+        "time": "1:28:57",
+        "seconds": 5337,
+        "title": "The Story That Is Told"
+      },
+      {
+        "time": "1:34:50",
+        "seconds": 5690,
+        "title": "A Long Slow Exhale"
+      },
+      {
+        "time": "1:40:40",
+        "seconds": 6040,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim traces to a named source, condensed below to those the narration leans on most. Where sources disagree, the episode gives both views. Many could only be read as abstracts, summaries or digests, and a few were behind bot checks and were not read; the narration says so aloud, and the list marks the thinner ones.",
+    "sources": [
+      {
+        "title": "The Air and the Iron",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Farquhar, Bao & Thiemens (2000), Science (abstract only)"
+              },
+              {
+                "cite": "Lyons, Reinhard & Planavsky (2014), Nature, \"The rise of oxygen in Earth's early ocean and atmosphere\""
+              },
+              {
+                "cite": "Catling & Zahnle (2020), Science Advances; Arney et al., \"The Pale Orange Dot\" (preprint)"
+              },
+              {
+                "cite": "Konhauser et al. (2017), Earth-Science Reviews; Bekker et al. (2010), Economic Geology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Small Green Makers (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Fournier et al. (2021), Proc. R. Soc. B; Oliver et al. (2021), BBA-Bioenergetics"
+              },
+              {
+                "cite": "Shih et al. (2017) and Magnabosco et al. (2018), Geobiology (abstracts only)"
+              },
+              {
+                "cite": "Kirschvink et al. (2000), PNAS (abstract only)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Dating (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Gumsley et al. (2017), PNAS (abstract only); Warke et al. (2020), PNAS"
+              },
+              {
+                "cite": "Luo et al. (2016), Science Advances (abstract only)"
+              },
+              {
+                "cite": "Poulton et al. (2021), Nature (abstract only)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Red Rock and Cold Rock (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Johnson et al. (2014), GSA Bulletin (abstract only); Hilburn et al. (2005), EPSL"
+              },
+              {
+                "cite": "Evans, Beukes & Kirschvink (1997), Nature (abstract only); Kopp et al. (2005), PNAS"
+              },
+              {
+                "cite": "Millikin et al. (2024), Geology; Le Heron et al. (2022), Frontiers in Earth Science"
+              },
+              {
+                "cite": "Master's theses, Lakehead and Western Universities (theses)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Sea and the Long High (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Canfield (1998), Nature (abstract only); Blättler et al. (2018), Science (abstract only)"
+              },
+              {
+                "cite": "Karhu & Holland (1996), Geology (abstract only); Martin et al. (2013), Earth-Science Reviews (abstract only)"
+              },
+              {
+                "cite": "Bakakas Mayika et al. (2020) and Bekker et al. (2021), Geology (abstracts only)"
+              },
+              {
+                "cite": "Hodgskiss et al. (2019), PNAS; Mänd et al. (2020), Nature Geoscience"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Karelia and Gabon (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Melezhik et al. (2004), Ore Geology Reviews (abstract only); EGU 2009 conference abstract"
+              },
+              {
+                "cite": "El Albani et al. (2010), Nature; El Albani et al. (2014), PLoS ONE"
+              },
+              {
+                "cite": "The Scientist (news report on the critics of the Gabon structures)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The End of the Stripes, and the Story",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Slack & Cannon (2009), Geology (abstract only); Poulton, Fralick & Canfield (2004), Nature (abstract only)"
+              },
+              {
+                "cite": "de Duve, Singularities (2005), chapter 16 (abstract only); a general reference for the Margulis name, whose book was not read"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "slug": "the-ice-ages",
+    "title": "The Ice Ages, What the Ice Left Behind",
+    "youtubeId": "prMrroxYwXE",
+    "published": "2026-10-28T17:00:34-07:00",
+    "durationSeconds": 6810,
+    "era": "2.6 million–11,700 years ago",
+    "description": [
+      "Tonight is about ice, and about what ice leaves behind. Not the ice itself, which is gone from nearly every place it once lay, but the traces: a hillside in Sicily with a dark layer in it, a core of mud from the bottom of the sea, a bubble of very old air, a boulder on a prairie, a shoreline on a mountainside above a salt flat, a cliff of wind-blown dust, and a single line in a column of Greenland ice. It runs from about two and a half million years ago to about eleven thousand seven hundred years ago, the formal start of the epoch we live in now, and it ends on a look back across the whole of it.",
+      "It is told through places and traces rather than through creatures. The large animals of the ice age are not in it, and neither is anyone who lived then. The cast is stone, mud, ice, air, water and the smallest traces of plants.",
+      "A good deal of tonight is honestly unsettled. What started the great ice in the north, whether the orbit of the Earth is the pacemaker of the ice or only a nudge, why the beat of the ice changed about a million years ago, how low the sea fell, what the word \"ice age\" should mean, and even a counting slip of 99 years against 69 at the base of the present epoch are all argued over, or differ between the pages. Where the sources disagree the episode says so aloud and keeps the voices apart.",
+      "It stays gentle throughout. Nothing hunts, nothing is in peril, and no one is harmed in the telling.",
+      "You do not need to follow any of it closely. If you're asleep before the line in the Greenland ice, that's the intended use.",
+      "Best with the lights off."
+    ],
+    "chapters": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "title": "Settling"
+      },
+      {
+        "time": "7:52",
+        "seconds": 472,
+        "title": "The First Cold In The North"
+      },
+      {
+        "time": "18:39",
+        "seconds": 1119,
+        "title": "A Clock In The Mud"
+      },
+      {
+        "time": "24:50",
+        "seconds": 1490,
+        "title": "The Orbit And Its Limits"
+      },
+      {
+        "time": "33:58",
+        "seconds": 2038,
+        "title": "The Long Lull And The Longer Beat"
+      },
+      {
+        "time": "41:51",
+        "seconds": 2511,
+        "title": "The Air In The Ice"
+      },
+      {
+        "time": "49:11",
+        "seconds": 2951,
+        "title": "A Boulder On The Prairie"
+      },
+      {
+        "time": "56:39",
+        "seconds": 3399,
+        "title": "The Weight"
+      },
+      {
+        "time": "1:02:35",
+        "seconds": 3755,
+        "title": "The Yellow Dust"
+      },
+      {
+        "time": "1:08:58",
+        "seconds": 4138,
+        "title": "The Low Sea"
+      },
+      {
+        "time": "1:15:13",
+        "seconds": 4513,
+        "title": "Lakes That Are Not There"
+      },
+      {
+        "time": "1:21:47",
+        "seconds": 4907,
+        "title": "What Grew There"
+      },
+      {
+        "time": "1:28:44",
+        "seconds": 5324,
+        "title": "The Warm Gap"
+      },
+      {
+        "time": "1:35:10",
+        "seconds": 5710,
+        "title": "The Line In The Greenland Ice"
+      },
+      {
+        "time": "1:42:40",
+        "seconds": 6160,
+        "title": "Two And A Half Million Years, Measured"
+      },
+      {
+        "time": "1:51:30",
+        "seconds": 6690,
+        "title": "Wind-down"
+      }
+    ],
+    "accuracy": "Every factual claim traces to a named source, condensed below to those the narration leans on most. Where sources disagree, the episode gives both views. Many could only be read as abstracts, summaries or digests, and a few were behind bot checks and were not read; the narration says so aloud, and the list marks the thinner ones.",
+    "sources": [
+      {
+        "title": "The Sea Floor and the Orbit (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Lisiecki & Raymo (2005), Paleoceanography; Hays et al. (1976), Science"
+              },
+              {
+                "cite": "Winograd et al. (1992), Science (abstract only)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Change of Beat (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Clark et al. (2006), Quaternary Science Reviews; Willeit et al. (2019), Science Advances (abstracts only)"
+              },
+              {
+                "cite": "Berends et al. (2021), Reviews of Geophysics (abstract only)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Ice Cores (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Luthi et al. (2008), Nature; Jouzel et al. (2007), Science"
+              },
+              {
+                "cite": "EPICA community members (2004), Nature (abstract only)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Loess (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Schaetzl et al. (2018), Quaternary Research; Zhu et al. (2018), Surveys in Geophysics"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Boulder and the Rising Land (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Government of Alberta page; Guinness World Records (records page)"
+              },
+              {
+                "cite": "Poutanen & Steffen (2014), Geophysica"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Low Sea and the Lakes (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Peltier & Fairbanks (2006), Quaternary Science Reviews; Oviatt (2020), Geology of the Intermountain West"
+              },
+              {
+                "cite": "Lambeck et al. (2014), PNAS; Belanger et al. (2022), J. Quaternary Science (abstracts only)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Plants (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "NOAA and University of Arizona packrat slide set; Elias, \"Rodent Middens\" (review)"
+              },
+              {
+                "cite": "Whitlock & Bartlein (1997), Nature (abstract only)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Warm Gap (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "NEEM community members (2013), Nature; Dutton et al. (2015), Science"
+              },
+              {
+                "cite": "Rohling et al. (2019), Nature Communications"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Greenland Line (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Walker et al. (2009), J. Quaternary Science; Steffensen et al. (2008), Science"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Sicily Boundary (disputed)",
+        "groups": [
+          {
+            "sources": [
+              {
+                "cite": "Capraro et al. (2026), Quaternary Science Reviews; ICS Gelasian GSSP page"
+              },
+              {
+                "cite": "Shackleton et al. (1984), Nature (abstract only)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "sourceNote": "Unmarked papers: full text, read through a summary tool."
+  }
+]

@@ -1,0 +1,44 @@
+# Older Than Morning — Netlify config.
+# Next.js builds a static site into out/. The old source URLs
+# linked from the first three YouTube descriptions still resolve.
+
+[build]
+  command = "npm run build"
+  publish = "out"
+
+[[redirects]]
+  from = "/sources/ep01"
+  to = "/episodes/the-age-of-dinosaurs/#sources"
+  status = 301
+
+[[redirects]]
+  from = "/sources/ep01/"
+  to = "/episodes/the-age-of-dinosaurs/#sources"
+  status = 301
+
+[[redirects]]
+  from = "/sources/ep02"
+  to = "/episodes/the-first-forests/#sources"
+  status = 301
+
+[[redirects]]
+  from = "/sources/ep02/"
+  to = "/episodes/the-first-forests/#sources"
+  status = 301
+
+[[redirects]]
+  from = "/sources/ep03"
+  to = "/episodes/sauropods/#sources"
+  status = 301
+
+[[redirects]]
+  from = "/sources/ep03/"
+  to = "/episodes/sauropods/#sources"
+  status = 301
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "SAMEORIGIN"
