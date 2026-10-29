@@ -1,0 +1,191 @@
+{
+  "number": 7,
+  "slug": "the-cambrian-explosion",
+  "title": "The Cambrian Explosion, When the First Eyes Arrived",
+  "youtubeId": "ODcnWD0Z_bE",
+  "published": "2026-10-04T17:00:34-07:00",
+  "durationSeconds": 4811,
+  "era": "539–485 million years ago",
+  "description": [
+    "Tonight goes back further than this collection ever has — past the dinosaurs, past the coal forests, to a stretch of ocean more than half a billion years old, when almost nothing alive could tell one shape from another at any distance. In a little over fifty million years, that changes completely: shells appear almost everywhere within a short window of time, an eye arrives good enough to actually see with, and an ocean that had spent three billion years mostly sitting still becomes a world of animals noticing one another for the first time.",
+    "This one touches something the channel hasn't had to touch this directly before — real predators, real defences. It's told entirely through the noticing and the answering: a shell thickening, a body curling shut, a burrow going a little deeper. Nothing here describes the moment anything actually gets caught.",
+    "Some of tonight rests on work only a year or two old, including a genuine correction to one of the most famous animals in this whole story — its classic \"armoured hunter\" reputation doesn't survive contact with current evidence. Other parts are honestly, actively disputed right now: what actually set this whole event in motion is one of the oldest open questions in evolutionary biology, and nobody studying it today claims to have closed it.",
+    "You do not need to follow any of it closely. If you're asleep before the shells finish arriving, that's the intended use.",
+    "Best with the lights off."
+  ],
+  "chapters": [
+    {
+      "time": "0:00",
+      "seconds": 0,
+      "title": "Settling"
+    },
+    {
+      "time": "8:50",
+      "seconds": 530,
+      "title": "An Ocean, Mostly Soft"
+    },
+    {
+      "time": "12:23",
+      "seconds": 743,
+      "title": "An Explosion, Named Carefully"
+    },
+    {
+      "time": "16:59",
+      "seconds": 1019,
+      "title": "Why Now"
+    },
+    {
+      "time": "23:30",
+      "seconds": 1410,
+      "title": "The First Hard Parts"
+    },
+    {
+      "time": "26:34",
+      "seconds": 1594,
+      "title": "An Eye, Arrives"
+    },
+    {
+      "time": "31:42",
+      "seconds": 1902,
+      "title": "Sensing And Answering"
+    },
+    {
+      "time": "40:03",
+      "seconds": 2403,
+      "title": "The First Great Success"
+    },
+    {
+      "time": "44:13",
+      "seconds": 2653,
+      "title": "A Window Opens"
+    },
+    {
+      "time": "47:22",
+      "seconds": 2842,
+      "title": "The Strangest Shapes"
+    },
+    {
+      "time": "57:15",
+      "seconds": 3435,
+      "title": "A Second Window, In China"
+    },
+    {
+      "time": "59:58",
+      "seconds": 3598,
+      "title": "Who Is Still Here"
+    },
+    {
+      "time": "1:05:08",
+      "seconds": 3908,
+      "title": "A Debt To Colder, Older Times"
+    },
+    {
+      "time": "1:07:46",
+      "seconds": 4066,
+      "title": "What Seeing Changed Forever"
+    },
+    {
+      "time": "1:10:03",
+      "seconds": 4203,
+      "title": "Five Hundred Million Years, Measured"
+    },
+    {
+      "time": "1:12:32",
+      "seconds": 4352,
+      "title": "Wind-down"
+    }
+  ],
+  "accuracy": "Every factual claim traces to a named, published source, listed below. This episode leans on more recent and more actively disputed research than most, and where researchers disagree, it says so rather than picking the tidier answer.",
+  "sources": [
+    {
+      "title": "Why the Explosion Happened When It Did",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Stockey, Cole, Farrell et al. (2024), Nature Geoscience — a modest, threshold-crossing rise in shallow-water oxygen, refining rather than overturning the oxygen hypothesis"
+            },
+            {
+              "cite": "Sperling & Stockey (2018), Integrative and Comparative Biology — rejects single-cause explanations; oxygen, food supply, temperature and genetics arriving together"
+            },
+            {
+              "cite": "Wood, Liu, Bowyer et al. (2019), Nature Ecology & Evolution — questions the \"explosion\" framing itself, arguing for a series of successive radiations"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "An Eye, Arrives",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Parker (1998), Proc. Royal Society B, and Parker (2003), In the Blink of an Eye — the original \"Light Switch Theory,\" that vision triggered the wider explosion"
+            },
+            {
+              "cite": "Schoenemann, Pärnaste & Clarkson (2017), PNAS — the oldest well-documented image-forming eye, ~530 million years old"
+            },
+            {
+              "cite": "Current standing: a contested, largely marginalised framing now, folded into the broader predation story rather than credited as the one mechanism"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sensing and Answering",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Bicknell & Paterson (2018), Biological Reviews — the most direct Cambrian-focused study of predation's role, and a genuinely cautious one"
+            },
+            {
+              "cite": "Bicknell et al. (2024/2025), Current Biology — direct fossil evidence: over 200 shells showing thickness increasing in step with predator-drilling frequency"
+            },
+            {
+              "cite": "Note: \"escalation\" as a named concept belongs to Vermeij's much later work on the Mesozoic Marine Revolution, not the Cambrian — the episode is careful not to misattribute it"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Strangest Shapes",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Daley & Edgecombe (2014), Journal of Paleontology — Anomalocaris's real size (mostly ~25cm, not the old \"2 metres\" figure)"
+            },
+            {
+              "cite": "Bicknell, Smith, Marshall et al. (2023), Proc. Royal Society B — the recent correction: its grasping arms were too fragile to crack a shell, built for soft prey and speed, not crushing trilobites"
+            },
+            {
+              "cite": "Smith & Caron (2015), Nature — Hallucigenia's head, fully resolved after decades reconstructed the wrong way up"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Who Is Still Here",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Briggs & Fortey (2005), Paleobiology — the rebuttal to Gould's \"Wonderful Life\": most \"weird wonders\" are extinct stem-group members of phyla still alive today, not separate vanished phyla"
+            },
+            {
+              "cite": "Briggs (2015), Current Biology — \"they do not represent extinct higher taxa, but are early offshoots of the lineages leading to modern groups\""
+            },
+            {
+              "cite": "Zhang & Shu (2021), PalZ — \"most fossils can be comfortably placed into a stem or crown group of a living phylum\""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

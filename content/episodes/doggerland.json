@@ -1,0 +1,1315 @@
+{
+  "number": 18,
+  "slug": "doggerland",
+  "title": "Doggerland, and the Other Drowned Countries",
+  "metaTitle": "Doggerland, the Land Under the North Sea - Older Than Morning",
+  "metaDescription": "Doggerland and the other land now under the sea, told gently for sleep. Every claim sourced, every date given in the system its source used.",
+  "era": "Roughly 20,000 to 7,000 years ago",
+  "eraShort": "20,000 - 7,000 years ago",
+  "publishedAt": "2026-11-11",
+  "durationSeconds": null,
+  "youtubeId": null,
+  "draft": true,
+  "image": "/episodes/doggerland/og.png",
+  "imageAlt": "A low, pale shore above a still, dark sea, with a paler shape faintly visible beneath the surface",
+  "summary": [
+    "Tonight is about land that is now under the sea, most of it beneath the North Sea, between Britain and the continent, and then other shelves on the far side of the world and at the edge of Arabia. There is no single date to point to. The land went under in different places at different times, and the sources do not agree on when it finished.",
+    "The evening is told through places: a sandbank far out at sea, an empty field in Yorkshire, a harbour at Rotterdam, a row of stones on the Baltic floor, and a layer of sand under a farm in Scotland. It runs from roughly 20,000 to 7,000 years ago, a frame and not a measurement. Every date is given in the system its source used, and one chapter explains why a radiocarbon year, a calendar year and a year B C are not the same ruler.",
+    "A good deal of it is unsettled: how low the sea stood, how much of the land has been mapped, when Britain became an island, whether a wave from a slide off Norway ended the last low ground, and whether a row of stones on the Baltic floor was set there or formed that way. The episode gives each figure with the name of whoever said it, and chooses none.",
+    "It stays gentle throughout. The cast is sand, clay, peat, stone, wood and water, with no animals and no people on screen, only what people left behind. It is meant for listening in the dark or while falling asleep."
+  ],
+  "chapters": [
+    {
+      "title": "Settling",
+      "start": "0:00",
+      "startSeconds": 0
+    },
+    {
+      "title": "A Sea One Hundred And Thirty Metres Lower",
+      "start": "8:20",
+      "startSeconds": 500
+    },
+    {
+      "title": "The Map From The Surveys",
+      "start": "15:21",
+      "startSeconds": 921
+    },
+    {
+      "title": "Peat From The Sea Floor",
+      "start": "21:45",
+      "startSeconds": 1305
+    },
+    {
+      "title": "Star Carr",
+      "start": "29:26",
+      "startSeconds": 1766
+    },
+    {
+      "title": "The Point From Leman And Ower",
+      "start": "37:13",
+      "startSeconds": 2233
+    },
+    {
+      "title": "The Dunes Under The Harbour",
+      "start": "44:29",
+      "startSeconds": 2669
+    },
+    {
+      "title": "A Row Of Stones On The Baltic Floor",
+      "start": "51:31",
+      "startSeconds": 3091
+    },
+    {
+      "title": "Wood From The Belts",
+      "start": "57:10",
+      "startSeconds": 3430
+    },
+    {
+      "title": "Which Year Counts As Now",
+      "start": "1:04:58",
+      "startSeconds": 3898
+    },
+    {
+      "title": "A Sand Layer In A Peat Gully",
+      "start": "1:12:11",
+      "startSeconds": 4331
+    },
+    {
+      "title": "When Britain Became An Island",
+      "start": "1:19:38",
+      "startSeconds": 4778
+    },
+    {
+      "title": "The Shelf That Was Sundaland",
+      "start": "1:27:02",
+      "startSeconds": 5222
+    },
+    {
+      "title": "The Land In Bass Strait",
+      "start": "1:34:05",
+      "startSeconds": 5645
+    },
+    {
+      "title": "The Gulf, And An Argued Sea",
+      "start": "1:40:37",
+      "startSeconds": 6037
+    },
+    {
+      "title": "Wind-down",
+      "start": "1:48:14",
+      "startSeconds": 6494
+    }
+  ],
+  "sourceGroups": [
+    {
+      "chapter": "ONE",
+      "number": 1,
+      "heading": "A Sea One Hundred And Thirty Metres Lower",
+      "disputed": true,
+      "sources": [
+        {
+          "label": "Clark et al. (2009), Science",
+          "url": "https://pubs.usgs.gov/publication/70036965",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Deschamps et al. (2012), Nature, Tahiti sea-level record (Oxford Polar Forum page carrying the abstract)",
+          "url": "https://www.polar.ox.ac.uk/?p=590",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Harff, Bailey and Luth (2016), introduction to a Geological Society volume",
+          "url": "https://disperse-project.org/sites/disperse-project.org/files/uploads/2016_Harff_etal_GeolSoc.pdf",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Lambeck (2004), Comptes Rendus Geoscience, Bonaparte Gulf sea level",
+          "url": "https://comptes-rendus.academie-sciences.fr/geoscience/articles/10.1016/j.crte.2003.12.017/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Lambeck, Rouby, Purcell, Sun and Sambridge (2014), Sea level and global ice volumes from the Last Glacial Maximum to the Holocene, Proceedings of the National Academy of Sciences",
+          "url": "https://researchportalplus.anu.edu.au/en/publications/sea-level-and-global-ice-volumes-from-the-last-glacial-maximum-to/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Yokoyama et al. (2000), ice volume at the Last Glacial Maximum, Bonaparte Gulf (Australian National University research repository)",
+          "url": "https://openresearch-repository.anu.edu.au/items/eeb1c749-2303-43a0-ba07-031624ffd392",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Yokoyama et al. (2001), sea level at the Bonaparte Gulf (record in the Archaeobib bibliography database)",
+          "url": "https://pennds.org/archaeobib/items/show/28481",
+          "reach": "abstract only",
+          "thin": true
+        },
+        {
+          "label": "Yokoyama et al. (2018), Nature",
+          "url": "https://link.springer.com/10.1038/s41586-018-0335-4",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Joint Nature Conservation Committee, Dogger Bank Marine Protected Area",
+          "url": "https://jncc.gov.uk/our-work/dogger-bank-mpa",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Joint Nature Conservation Committee, Dogger Bank Special Area of Conservation (UK0030352)",
+          "url": "https://sac.jncc.gov.uk/site/UK0030352",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Encyclopaedia Britannica, entry on the Dogger Bank",
+          "url": "https://britannica.com/print/article/167941",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Wikipedia, Last Glacial Maximum",
+          "url": "https://en.wikipedia.org/wiki/Last_Glacial_Maximum",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Wikipedia, Meltwater pulse 1B",
+          "url": "https://en.wikipedia.org/wiki/Meltwater_pulse_1B",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Trade page on the Dogger Bank Offshore Wind Farm, hosted at soe.org.uk (publisher not named on the page)",
+          "url": "https://www.soe.org.uk/resources/everything-you-need-to-about-the-dogger-bank-offshore-wind-farm.html",
+          "reach": "summary",
+          "thin": true
+        }
+      ],
+      "count": 14
+    },
+    {
+      "chapter": "TWO",
+      "number": 2,
+      "heading": "The Map From The Surveys",
+      "disputed": true,
+      "sources": [
+        {
+          "label": "Coles (1998), Doggerland: a speculative survey, Proceedings of the Prehistoric Society 64",
+          "url": "https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/abs/doggerland-a-speculative-survey/EB385EB842EADD38C07250C400040CC0",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Gaffney (2022), Europe's Lost Frontiers, Volume 1, open-access extract (OAPEN library)",
+          "url": "https://library.oapen.org/handle/20.500.12657/59013",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Archaeology Data Service, North Sea Palaeolandscapes Project archive",
+          "url": "https://archaeologydataservice.ac.uk/archives/view/nspp_eh_2011/",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Archaeology Data Service, Mesolithic research frameworks wiki, Mapping Doggerland",
+          "url": "https://archaeologydataservice.ac.uk/researchframeworks/mesolithic/wiki/Doggerland",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "CORDIS, European Commission, project article on Europe's Lost Frontiers",
+          "url": "https://cordis.europa.eu/article/id/436353-exploring-europe-s-lost-frontiers",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "University of Bradford, Europe's Lost Frontiers project page",
+          "url": "https://bradford.ac.uk/archaeological-forensic-sciences/research/europes-lost-frontiers",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "University of Bradford news page (2016) on Doggerland",
+          "url": "https://www.bradford.ac.uk/news/archive/2016/story-of-doggerland-europes-lost-world.php",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "The Past, review of Europe's Lost Frontiers, Volume 1: Context and Methodology",
+          "url": "https://the-past.com/review/books/europes-lost-frontiers-volume-1-context-and-methodology/",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Wessex Archaeology, The tale of the Dogger Bank",
+          "url": "https://wessexarch.co.uk/news/tale-dogger-bank",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Wikipedia, Doggerland",
+          "url": "https://en.wikipedia.org/wiki/Doggerland",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Mapping Doggerland (2007), bookseller page, ISD distribution",
+          "url": "https://isdistribution.com/?p=1425642",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Mapping Doggerland (2007), publisher description, Archaeopress",
+          "url": "https://main.archaeopress.com/Archaeopress/Products/9781905739141",
+          "reach": "summary",
+          "thin": true
+        }
+      ],
+      "count": 12
+    },
+    {
+      "chapter": "THREE",
+      "number": 3,
+      "heading": "Peat From The Sea Floor",
+      "disputed": true,
+      "sources": [
+        {
+          "label": "Allaby, Gaffney and colleagues (2026), Proceedings of the National Academy of Sciences (abstract read through the University of St Andrews research portal; the journal page was blocked)",
+          "url": "https://research-portal.st-andrews.ac.uk/en/publications/early-colonization-before-inundation-consistent-with-northern-gla/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Allaby, Gaffney and colleagues (2023), unreviewed preprint, Research Square",
+          "url": "https://researchsquare.com/article/rs-3296992/v1",
+          "reach": "preprint",
+          "thin": true
+        },
+        {
+          "label": "Hazell (2008), Coastal Peat Resource Database, North Sea, English Heritage (now Historic England)",
+          "url": "https://historicengland.org.uk/content/docs/research/peat-database-nseapdf",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Reid (1913), Submerged Forests (Project Gutenberg text)",
+          "url": "https://gutenberg.org/cache/epub/70654/pg70654-images.html",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Smith et al. (2015), Science, Bouldnor Cliff sedimentary DNA",
+          "url": "https://research-repository.st-andrews.ac.uk/handle/10023/6280",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Weiss et al. (2015), eLife, challenge to the Bouldnor wheat DNA",
+          "url": "https://elifesciences.org/articles/10005",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Maritime Archaeology Trust, Bouldnor Cliff page",
+          "url": "https://maritimearchaeologytrust.org/?p=801",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Maritime Archaeology Trust, Yarmouth Centre",
+          "url": "https://maritimearchaeologytrust.org/yarmouth-centre/",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Scottish Geology Trust GeoGuide, Borth and Ynyslas site page (Geological Conservation Review text, credited to the Joint Nature Conservation Committee)",
+          "url": "https://geoguide.scottishgeologytrust.org/page/94",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Scottish Geology Trust GeoGuide, Westward Ho! site page (Geological Conservation Review text)",
+          "url": "https://geoguide.scottishgeologytrust.org/page/1060",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Scottish Geology Trust GeoGuide, Hightown site page (Geological Conservation Review text)",
+          "url": "https://geoguide.scottishgeologytrust.org/page/2091",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Dyfed Archaeological Trust, Lost Landscapes, submerged forests",
+          "url": "https://heneb.org.uk/archive/dyfed/lostlandscapes/submergedforests.html",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Norfolk Heritage Explorer, Holme-next-the-Sea submerged forest record (NHER 55006)",
+          "url": "https://nhe.esdm.co.uk/Monument/MNF60318",
+          "reach": "record only",
+          "thin": false
+        },
+        {
+          "label": "Woollett (2024), blog post on moorlog and Doggerland, 19 February 2024",
+          "url": "https://lisawoollett.co.uk/2024/02/19/moorlog-doggerland/",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Northfolk Project, Doggerland page",
+          "url": "https://northfolk.org.uk/geology/doggerland.html",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "University of Warwick, press release on the North Sea lost world (2026)",
+          "url": "https://warwick.ac.uk/news/pressreleases/north-sea-lost-world/",
+          "reach": "press release",
+          "thin": true
+        },
+        {
+          "label": "University of Bradford, press release on habitable forests in the North Sea lost world (2026)",
+          "url": "https://www.bradford.ac.uk/news/archive/2026/north-sea-lost-worldhadhabitableforeststhousandsofyears-earlier-than-thought.php",
+          "reach": "press release",
+          "thin": true
+        },
+        {
+          "label": "CITiZAN blog, Three submerged forests (25 August 2016)",
+          "url": "https://citizan.org.uk/blog/2016/Aug/25/three-submerged-forests/",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Archaeology UK, Striding into round 2 on the foreshore (CITiZAN)",
+          "url": "https://www.archaeologyuk.org/resource/striding-into-round-2-on-the-foreshore.html",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "The Past, Fleeting finds: investigating intertidal discoveries in the Severn Estuary",
+          "url": "https://the-past.com/feature/fleeting-finds-investigating-intertidal-discoveries-in-the-severn-estuary",
+          "reach": "summary",
+          "thin": true
+        }
+      ],
+      "count": 20
+    },
+    {
+      "chapter": "FOUR",
+      "number": 4,
+      "heading": "Star Carr",
+      "disputed": true,
+      "sources": [
+        {
+          "label": "Cloutman and Smith (1988), Palaeoenvironments in the Vale of Pickering. Part 3: environmental history at Star Carr, Proceedings of the Prehistoric Society 54",
+          "url": "https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/abs/palaeoenvironments-in-the-vale-of-pickering-part-3-environmental-history-at-star-carr/EF536F404B84C5AE6129DE05A2971DD5",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Conneller, Milner and Taylor, chapter 11, British Academy (year not shown on the page)",
+          "url": "https://www.thebritishacademy.ac.uk/documents/562/11-ConnellerMilnerTaylor.pdf",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Milner, Taylor and Conneller (eds) (2018), Star Carr Volume 1: A Persistent Place in a Changing World, White Rose University Press",
+          "url": "https://library.oapen.org/handle/20.500.12657/30156",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Taylor, Elliott, Conneller, Milner, Bayliss, Knight and Bamforth (2017), Resolving the issue of artefact deposition at Star Carr, Proceedings of the Prehistoric Society",
+          "url": "https://storre.stir.ac.uk/bitstream/1893/28454/1/Taylor_et_al_Star_Carr_Deposition_2017_final.pdf",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Historic England, National Heritage List for England, Star Carr Early Mesolithic site, Seamer (list entry 1401425)",
+          "url": "https://historicengland.org.uk/listing/the-list/list-entry/1401425",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Historic England, Heritage at Risk Register, Star Carr (list entry 42118)",
+          "url": "https://historicengland.org.uk/listing/heritage-at-risk/search-register/list-entry/42118",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "University of York, research theme page, Star Carr",
+          "url": "https://york.ac.uk/research/themes/star-carr",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Yorkshire Museum, exhibition page, Star Carr: Life after the ice",
+          "url": "https://www.yorkshiremuseum.org.uk/exhibition/star-carr-life-after-the-ice/",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Art Fund, Rotunda Museum visitor information",
+          "url": "https://www.artfund.org/explore/museums-and-galleries/rotunda-museum/visitor-information",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "British Museum, collection object 1953,0208.1 (worked piece from Star Carr)",
+          "url": "https://www.britishmuseum.org/collection/object/H_1953-0208-1",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Wikipedia, Star Carr",
+          "url": "https://en.wikipedia.org/wiki/Star_Carr",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "The Modern Antiquarian, Star Carr site page",
+          "url": "https://www.themodernantiquarian.com/post/89831/misc/star_carr.html",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "The Past, A home for hunter-gatherers? Reconstructing Britain's oldest house at the Yorkshire Museum",
+          "url": "https://the-past.com/feature/a-home-for-hunter-gatherers-reconstructing-britains-oldest-house-at-the-yorkshire-museum/",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Yorkshire Evening Post (14 October 2020), report on the Star Carr display at the Rotunda Museum",
+          "url": "https://www.yorkshireeveningpost.co.uk/heritage-and-retro/heritage/remarkable-11000-year-old-artefacts-from-star-carr-go-on-show-at-scarboroughs-rotunda-museum-3002494",
+          "reach": "summary",
+          "thin": true
+        }
+      ],
+      "count": 14
+    },
+    {
+      "chapter": "FIVE",
+      "number": 5,
+      "heading": "The Point From Leman And Ower",
+      "disputed": true,
+      "sources": [
+        {
+          "label": "Aleo, Kozowyk, Baron, van Gijn and Langejans (2023), PLoS ONE 18(8), e0288629",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10395991",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Amkreutz and Van der Vaart-Verschoof (eds) (2021), Doggerland. Verdwenen wereld in de Noordzee (Sidestone Press open access)",
+          "url": "https://sidestone.com/openaccess/9789464260526.pdf",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Niekus et al. (2022), Grondboor en Hamer (art. 695)",
+          "url": "https://natuurtijdschriften.nl/pub/1024376/G-H2022nr3-4_art-695-Niekus-et-al.pdf",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Peeters and Amkreutz (2020), chapter in The Archaeology of Europe's Drowned Landscapes, Springer",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-030-37367-2_8",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Norfolk Heritage Explorer, barbed point from Leman and Ower (NHER 11171)",
+          "url": "https://nhe.esdm.co.uk/Monument/MNF11171",
+          "reach": "record only",
+          "thin": false
+        },
+        {
+          "label": "Norfolk Heritage Explorer, theme page TNF2323",
+          "url": "https://nhe.esdm.co.uk/theme/tnf2323",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Norfolk Museums Service, Archaeology collections",
+          "url": "https://www.museumscollections.norfolk.gov.uk/article/30243/Archaeology-collections",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Leiden University staff news (July 2021), interview with Luc Amkreutz",
+          "url": "https://staff.universiteitleiden.nl/news/2021/07/alumnus-luc-amkreutz-rmo?cd=luris",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Archaeology magazine (March/April 2022), Mapping a Vanished Landscape",
+          "url": "https://archaeology.org/issues/march-april-2022/letters-from/doggerland-mesolithic-submerged-landscape/",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "The Past, review, Doggerland and Malta (20 September 2021)",
+          "url": "https://the-past.com/review/museum/doggerland-and-malta/",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "The Modern Antiquarian, news post (18 March 2010) on the Norfolk barbed point",
+          "url": "https://www.themodernantiquarian.com/post/83732/news/norfolk",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Booth (2024), The search for Doggerland, North Sea Nexus (Substack), 4 October 2024",
+          "url": "https://northseanexus.substack.com/p/the-search-for-doggerland",
+          "reach": "summary",
+          "thin": true
+        }
+      ],
+      "count": 12
+    },
+    {
+      "chapter": "SIX",
+      "number": 6,
+      "heading": "The Dunes Under The Harbour",
+      "disputed": false,
+      "sources": [
+        {
+          "label": "Hijma, Cohen, Hoffmann, Van der Spek and Stouthamer (2009), Netherlands Journal of Geosciences 88",
+          "url": "https://njgjournal.nl/index.php/njg/article/view/11974",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Out (2009), Sowing the seed?, doctoral thesis, Leiden University, chapter 5 (Hoge Vaart)",
+          "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A3076393/view",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Schiltmans et al. (2014), Grondboor en Hamer 2014, nos. 4-5, article on the Yangtze Harbour (Maasvlakte 2)",
+          "url": "https://natuurtijdschriften.nl/pub/1018602/G-H2014nr4-5_art397-Schiltmans-MV2Yangztehaven.pdf",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Spek, Bisdom and Van Smeerdijk (1999), Verdronken dekzandgronden in Zuidelijk Flevoland, Staring Centrum Rapport 472.2",
+          "url": "https://research.wur.nl/en/publications/verdronken-dekzandgronden-in-zuidelijk-flevoland-archeologische-o/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Weerts et al. (2011), Maasvlakte 2 (Port of Rotterdam), a showcase of interdisciplinary research of drowned landscapes, INQUA Congress abstract",
+          "url": "https://research-portal.uu.nl/en/publications/maasvlakte-2-port-of-rotterdam-a-showcase-of-interdisciplinary-re/",
+          "reach": "abstract only",
+          "thin": true
+        },
+        {
+          "label": "Twenty metres deep! (abstract record), Utrecht University repository",
+          "url": "https://dspace.library.uu.nl/handle/1874/310252",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "BOOR report 566 (2015), Maasvlakte 2 programme, Part 1, Twenty metres deep! (English)",
+          "url": "https://www.vliz.be/projects/sea-arch/sites/sea-arch.be/files/public/BR566_Maasvlakte2_ENGLISH.pdf",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Rijksmuseum van Oudheden, Doggerland exhibition (listing on museum.nl)",
+          "url": "https://www.museum.nl/en/rijksmuseum-van-oudheden/exhibition/doggerland",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Rijksmuseum van Oudheden, staff page for Luc Amkreutz",
+          "url": "https://www.rmo.nl/en/research/scientific-staff/luc-amkreutz/",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Natuurhistorisch Museum Rotterdam, permanent exhibition Opgeraapt Opgevist Uitgehakt",
+          "url": "https://www.hetnatuurhistorisch.nl/exposities/vast/opgeraapt-opgevist-uitgehakt/",
+          "reach": "summary",
+          "thin": false
+        }
+      ],
+      "count": 10
+    },
+    {
+      "chapter": "SEVEN",
+      "number": 7,
+      "heading": "A Row Of Stones On The Baltic Floor",
+      "disputed": true,
+      "sources": [
+        {
+          "label": "Bailey and Jons (2020), The Baltic and Scandinavia: Introduction, in The Archaeology of Europe's Drowned Landscapes, Springer",
+          "url": "https://link.springer.com/10.1007/978-3-030-37367-2_2",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Geersen and 14 co-authors (year not stated), A submerged Stone Age hunting architecture from the Western Baltic Sea (repository copy, German Aerospace Center archive)",
+          "url": "https://elib.dlr.de/200850/1/A%20submerged%20Stone%20Age%20hunting%20architecture%20from%20the%20Western%20%20Baltic%20Sea.pdf",
+          "reach": "third-party copy",
+          "thin": true
+        },
+        {
+          "label": "University of Rostock, press release of 12 February 2024 on the Baltic stone wall",
+          "url": "https://www.uni-rostock.de/storages/uni-rostock/UniHome/Presse/Pressemeldungen/20240212_press_Ston_Age_Wall_Baltic_Sea_en_final.pdf",
+          "reach": "press release",
+          "thin": true
+        }
+      ],
+      "count": 3
+    },
+    {
+      "chapter": "EIGHT",
+      "number": 8,
+      "heading": "Wood From The Belts",
+      "disputed": false,
+      "sources": [
+        {
+          "label": "Andersen, Patterned Oar Blades from Tybrind Vig, Kuml (English translation; year not given in the notes)",
+          "url": "https://tidsskrift.dk/kuml/article/download/109133/158523/223654",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Andersen and Liversage (1994), Ertebolle canoes from Lystrup, Kuml",
+          "url": "https://tidsskrift.dk/kuml/article/view/111960",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Hjorungdal (2014), review of Andersen (ed.) (2013), Tybrind Vig: Submerged Mesolithic Settlements in Denmark, Germania",
+          "url": "https://journals.ub.uni-heidelberg.de/index.php/germania/article/view/97893/92861",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Klooss (2013), Timmendorf-Nordmole, Archaologische Informationen",
+          "url": "https://journals.ub.uni-heidelberg.de/index.php/arch-inf/article/view/15341/9214",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Koivisto et al. (published online January 2025), Fishing with stationary wooden structures ... (Syltholm), Cambridge University Press",
+          "url": "https://www.cambridge.org/core/product/5A369D414D231A844450162B300CD53D",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Nilsson, Hansson and Sjostrom (2020), chapter 4, in The Archaeology of Europe's Drowned Landscapes, Springer",
+          "url": "https://link.springer.com/10.1007/978-3-030-37367-2_4",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Kiel radiocarbon database (RADON), sample records 16144, 16142, 16135 and 16148",
+          "url": "https://radonb.ufg.uni-kiel.de/samples/16144",
+          "reach": "record only",
+          "thin": false
+        },
+        {
+          "label": "Lund University, news item on the underwater Stone Age site at Haval",
+          "url": "https://www.lunduniversity.lu.se/article/watch-underwater-stone-age-settlement-mapped-out",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Aarhus University, Centre for Advanced Visual Imaging news item on the opening of The First Immigrants exhibition, Moesgaard Museum",
+          "url": "https://cavi.au.dk/news/enkelt/artikel/congratulations-to-moesgaard-museum-on-the-opening-of-the-exhibition-the-first-immigrants",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Museum Lolland-Falster, page on the exhibition of finds from the Rodbyhavn excavations",
+          "url": "https://museumlollandfalster.dk/en/?p=25811",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "VisitDenmark, The First Immigrants: experience the Stone Age at Moesgaard",
+          "url": "https://www.visitdenmark.com/denmark/plan-your-trip/the-first-immigrants-experience-the-stone-age-at-moesgaard-gdk1083850",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "VisitDenmark, County Museum Maribo",
+          "url": "https://www.visitdenmark.com/denmark/plan-your-trip/county-museum-maribo-gdk616309",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "VisitDenmark, Stoneage Center Ertebolle",
+          "url": "https://www.visitdenmark.com/stoneage-center-ertebolle-gdk623593",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Sci.News, report on the submerged Mesolithic site in Sweden (Hansson et al. 2016)",
+          "url": "https://www.sci.news/archaeology/submerged-mesolithic-settlement-sweden-04366.html",
+          "reach": "summary",
+          "thin": true
+        }
+      ],
+      "count": 14
+    },
+    {
+      "chapter": "NINE",
+      "number": 9,
+      "heading": "Which Year Counts As Now",
+      "disputed": false,
+      "sources": [
+        {
+          "label": "Conneller, Milner, Taylor and Taylor (2012), Substantial settlement in the European Early Mesolithic: new research at Star Carr, Antiquity",
+          "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/substantial-settlement-in-the-european-early-mesolithic-new-research-at-star-carr/A0BF8A868E94C9CE299956BE79313EA3",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Lericolais, Popescu, Guichard, Popescu and Manolakakis (2007), chapter on the Black Sea (copy hosted on ancientportsantiques.com)",
+          "url": "https://www.ancientportsantiques.com/wp-content/uploads/Documents/ETUDESarchivees/BlackSeaInfill/BlackSeaLevel-Lericolais2007.pdf",
+          "reach": "third-party copy",
+          "thin": true
+        },
+        {
+          "label": "Rasmussen, Hede, Noe-Nygaard, Clarke and Vinebrooke (2008), GEUS Bulletin 15, 57-60",
+          "url": "https://www.geus.dk/media/13714/nr15_p57-60.pdf",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Swedish History Museum (Historiska museet), A 9000-year-old paddle",
+          "url": "https://historiska.se/en/explore-history/history-hub/a-9000-year-old-paddle/",
+          "reach": "summary",
+          "thin": true
+        }
+      ],
+      "count": 4
+    },
+    {
+      "chapter": "TEN",
+      "number": 10,
+      "heading": "A Sand Layer In A Peat Gully",
+      "disputed": true,
+      "sources": [
+        {
+          "label": "Bateman, Kinnaird, Hill, Ashurst, Mohan and Bateman (2021), tsunami modelling for Doggerland (White Rose repository copy)",
+          "url": "https://eprints.whiterose.ac.uk/174960/1/bor.12532.pdf",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Bondevik, Mangerud, Lohne, Dawson and Dawson (2005), Evidence for three North Sea tsunamis at the Shetland Islands between 8000 and 1500 years ago",
+          "url": "https://discovery.dundee.ac.uk/en/publications/evidence-for-three-north-sea-tsunamis-at-the-shetland-islands-bet/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Bondevik, Risebrobakken, Gibbons, Rasmussen and Lovholt (2024), Storegga tsunami moss dating (PubMed Central)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10995125/",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Bondevik, Stormo and Skjerdal (2012), Green mosses date the Storegga tsunami to the chilliest decades of the 8.2 ka cold event (citation page; abstract blocked)",
+          "url": "https://nofima.com/publication/962708/",
+          "reach": "blocked, not read",
+          "thin": true
+        },
+        {
+          "label": "Bondevik, Svendsen and Mangerud (1997), paper on tsunami sediment facies of the Storegga slide (copy hosted by the University of Washington)",
+          "url": "https://earthweb.ess.washington.edu/tsunami2/deposits/downloads/recommendedreading/1997_Bondevik_tsunami_sed_facies_by_storegga.pdf",
+          "reach": "third-party copy",
+          "thin": true
+        },
+        {
+          "label": "Dawson, Dawson, Bondevik, Costa, Hill and Stewart (2019), Reconciling Storegga tsunami sedimentation patterns with modelled wave heights",
+          "url": "https://researchportal.plymouth.ac.uk/en/publications/reconciling-storegga-tsunami-sedimentation-patterns-with-modelled/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Gaffney, Fitch, Bates, Ware, Kinnaird, Gearey, Hill and others (2020), Multi-proxy characterisation of the Storegga tsunami and its impact on the early Holocene landscapes of the southern North Sea",
+          "url": "https://research-repository.st-andrews.ac.uk/handle/10023/20254",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Haflidason, Sejrup, Nygard, Mienert, Bryn, Lien, Forsberg and others (2004), Storegga Slide",
+          "url": "https://eprints.soton.ac.uk/14883/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Hill, Avdis, Mouradian, Collins and Piggott (2017), Was Doggerland catastrophically inundated by the Storegga tsunami? (arXiv preprint 1707.05593)",
+          "url": "https://arxiv.org/pdf/1707.05593",
+          "reach": "preprint",
+          "thin": true
+        },
+        {
+          "label": "Nyland, Walker and Warren (2021), Frontiers in Earth Science",
+          "url": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2021.767460/pdf",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Smith, Shi, Cullingford, Dawson, Dawson, Firth and others (2004), The Holocene Storegga Slide tsunami in the United Kingdom",
+          "url": "https://discovery.dundee.ac.uk/en/publications/the-holocene-storegga-slide-tsunami-in-the-united-kingdom/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Tappin, Long and Carter (2015), Field survey, May 2014, British Geological Survey Internal Report OR/15/017",
+          "url": "https://earthwise.bgs.ac.uk/index.php/OR/15/017_Field_survey_-_May_2014",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Walker, Gaffney, Fitch, Muru, Fraser, Bates and Bates (2020), A great wave: the Storegga tsunami and the end of Doggerland?, Antiquity (main text read only through a copy on a law-school website)",
+          "url": "https://bradscholars.brad.ac.uk/entities/publication/85f2e315-dfa0-4378-bb66-45a88a2370df",
+          "reach": "third-party copy",
+          "thin": true
+        },
+        {
+          "label": "Walker, Nyland, Bergsvik, Kilhavn, Gibbons, Glimsdal and others (2024), Storegga tsunami evidence in Norway",
+          "url": "https://uis.brage.unit.no/uis-xmlui/handle/11250/3127925",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Weninger, Schulting, Bradtmoller, Clare, Collard, Edinborough and others (2008), Documenta Praehistorica",
+          "url": "https://eprints.soton.ac.uk/63901",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Scottish Geology Trust GeoGuide, Lochhouses (site ELC_24)",
+          "url": "https://geoguide.scottishgeologytrust.org/page/3781",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "British Geological Survey, Site assessment, ELC_24: Lochhouses (OR/14/063)",
+          "url": "https://earthwise.bgs.ac.uk/index.php/OR/14/063_Site_assessment_-_ELC_24:_Lochhouses",
+          "reach": "summary",
+          "thin": false
+        }
+      ],
+      "count": 17
+    },
+    {
+      "chapter": "ELEVEN",
+      "number": 11,
+      "heading": "When Britain Became An Island",
+      "disputed": true,
+      "sources": [
+        {
+          "label": "Alley and Agustsdottir (2005), Quaternary Science Reviews 24, 1123-1149",
+          "url": "https://www.whoi.edu/cms/files/Alley_Agustdottir_2005_283324.pdf",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Garcia-Moreno et al. (2019), Quaternary Science Reviews 203, 209-232",
+          "url": "https://www.vliz.be/imisdocs/publications/329534.pdf",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Hijma and Cohen (2010), Timing and magnitude of the sea-level jump preluding the 8200 yr event, Geology 38(3), 275-278",
+          "url": "https://marineinfo.org/id/publication/233810",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Hijma, Busschers and others (2025), Global sea-level rise in the early Holocene revealed from North Sea peats, Nature",
+          "url": "https://www.nature.com/articles/s41586-025-08769-7",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Hoebe, Cohen, Busschers, van Heteren and Peeters (2024), Quaternary International (full text read as a summary of a repository copy)",
+          "url": "https://www.sciencedirect.com/science/article/pii/S1040618224001538",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Reply to the comment by M.P. Hijma and K.M. Cohen on the paper by van de Plassche et al. 2010, Netherlands Journal of Geosciences",
+          "url": "https://core-cms.cambridgecore.org/core/journals/netherlands-journal-of-geosciences/article/reply-to-the-comment-by-mp-hijma-km-cohen-on-the-paper-by-van-de-plassche-et-al-2010/9CE276CCCD08E3FCAEC76DDA7CCF53F4",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Shennan, Lambeck, Flather, Horton, McArthur, Innes and others (2000), Modelling western North Sea palaeogeographies and tidal changes during the Holocene",
+          "url": "https://researchportalplus.anu.edu.au/en/publications/modelling-western-north-sea-palaeogeographies-and-tidal-changes-d/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Sturt, Garrow and Bradley (2013), New models of North West European Holocene palaeogeography and inundation, Journal of Archaeological Science",
+          "url": "https://eprints.soton.ac.uk/352981",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Thomas, Wolff, Mulvaney, Steffensen, Johnsen and others (2007), Quaternary Science Reviews 26 (Niels Bohr Institute abstract page)",
+          "url": "https://www.iceandclimate.nbi.ku.dk/publications/papers/abstracts/Abstract247/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Nature news report, Nature 454, 151 (9 July 2008)",
+          "url": "https://www.nature.com/news/2008/080709/pdf/454151a.pdf",
+          "reach": "summary",
+          "thin": true
+        }
+      ],
+      "count": 10
+    },
+    {
+      "chapter": "TWELVE",
+      "number": 12,
+      "heading": "The Shelf That Was Sundaland",
+      "disputed": false,
+      "sources": [
+        {
+          "label": "Bird, Fifield, Teh, Chang, Shirlaw and Lambeck (2007), Singapore sea-level curve, Estuarine, Coastal and Shelf Science 71, 523-536",
+          "url": "https://researchonline.jcu.edu.au/18844/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Bird, Taylor and Hunt (2005), Quaternary Science Reviews 24, 2228-2242",
+          "url": "https://researchonline.jcu.edu.au/18915/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Hanebuth, Stattegger and Grootes (2000), Rapid flooding of the Sunda Shelf: a late-glacial sea-level record, Science 288, 1033-1035 (abstract on a regional repository)",
+          "url": "https://adinet.ahacentre.org/repository/detail/rapid_flooding_of_the_sunda_shelf_a_late_glacial_sea_level_record_20000512",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Madon (2023), Paleo-Lupar river system, Warta Geologi 49(2), 45-54",
+          "url": "https://gsm.org.my/?p=9110",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Sathiamurthy and Rahman (2017), review of the Sunda Shelf palaeo-fluvial system, Bulletin of the Geological Society of Malaysia 64, 81-92",
+          "url": "https://gsm.org.my/?p=3537",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Sathiamurthy and Voris (2006), Maps of Holocene sea level transgression and submerged lakes on the Sunda Shelf, Tropical Natural History 6(2), supplement",
+          "url": "https://li01.tci-thaijo.org/index.php/tnh/article/view/102930",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Solihuddin (2014), review of the drowning of the Sunda Shelf, Indonesian Journal on Geoscience 1(2)",
+          "url": "https://ijog.geologi.esdm.go.id/index.php/IJOG/article/view/182",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Field Museum, Pleistocene sea level maps (maps by Voris, 2000)",
+          "url": "https://www.fieldmuseum.org/pleistocene-sea-level-maps",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "UNESCO World Heritage Centre, document on the Niah Caves",
+          "url": "https://whc.unesco.org/document/208433",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Wikipedia, Sundaland",
+          "url": "https://en.wikipedia.org/wiki/Sundaland",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Wikipedia, Sunda Shelf",
+          "url": "https://en.wikipedia.org/wiki/Sunda_Shelf",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "showcaves.com, Niah visitor guide (2021)",
+          "url": "https://showcaves.com/english/my/showcaves/Niah.html",
+          "reach": "summary",
+          "thin": true
+        }
+      ],
+      "count": 12
+    },
+    {
+      "chapter": "THIRTEEN",
+      "number": 13,
+      "heading": "The Land In Bass Strait",
+      "disputed": true,
+      "sources": [
+        {
+          "label": "Adeleye, Haberle, McWethy, Connor and Stevenson (2021), Journal of Biogeography 48(11), 2946-2960",
+          "url": "https://researchportalplus.anu.edu.au/en/publications/environmental-change-during-the-last-glacial-on-an-ancient-land-b/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Davidson and Roberts (2008), 14000 BP: On being alone, in Turning Points in Australian History, UNSW Press",
+          "url": "https://rune.une.edu.au/web/handle/1959.11/4240",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Frankham, Neaves and Eldridge (2020), Records of the Australian Museum 72(5), 263-270",
+          "url": "https://journals.australian.museum/media/dd/documents/1725.35216ff.pdf",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Hamacher et al. (2023), The archaeology of orality: dating Tasmanian Aboriginal oral traditions to the Late Pleistocene, Journal of Archaeological Science (journal page blocked)",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0305440323000997",
+          "reach": "blocked, not read",
+          "thin": true
+        },
+        {
+          "label": "Lewis, Sloss, Murray-Wallace, Woodroffe and Smithers (2013), Quaternary Science Reviews 74, 115-138",
+          "url": "https://researchonline.jcu.edu.au/28974/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Nunn and Reid (2016), Australian Geographer 47(1), 11-47",
+          "url": "https://rune.une.edu.au/entities/publication/f30d339b-0b7a-4860-a5ee-cf1a7ad32440",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Nunn (2019), conference slides, Coastal Conference 2019",
+          "url": "https://www.coastalconference.com/2019/papers2019/Nunn,%20Patrick.pdf",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Geoscience Australia, New seabed maps show Bass Strait in unprecedented detail (14 February 2023)",
+          "url": "https://www.ga.gov.au/news/new-seabed-maps-show-bass-strait-in-unprecedented-detail",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "National Museum of Australia, Defining Moments, Separation of Tasmania",
+          "url": "https://www.nma.gov.au/defining-moments/resources/separation-of-tasmania",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "The Land Bridge (thelandbridge.au), timeline page",
+          "url": "https://thelandbridge.au/timeline/",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Nunn, Do memories survive? (thelandbridge.au)",
+          "url": "https://thelandbridge.au/do-memories-survive/",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Story Archaeology, blog summary of Hamacher et al. (2023)",
+          "url": "https://storyarchaeology.com/?p=8194",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Science News, Handed-down tales tell of ancient sea level rise",
+          "url": "https://www.sciencenews.org/article/handed-down-tales-tell-ancient-sea-level-rise",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "ABC News, article of 2 March 2025 on the Bassian Plain",
+          "url": "https://www.abc.net.au/news/2025-03-02/bass-strait-history-of-bassian-plain/104978718",
+          "reach": "summary",
+          "thin": true
+        }
+      ],
+      "count": 14
+    },
+    {
+      "chapter": "FOURTEEN",
+      "number": 14,
+      "heading": "The Gulf, And An Argued Sea",
+      "disputed": true,
+      "sources": [
+        {
+          "label": "Aksu and Hiscott (2022), Earth-Science Reviews 227, 103960",
+          "url": "https://archimer.ifremer.fr/doc/00751/86342",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Galili et al. (1993), Atlit-Yam, Journal of Field Archaeology 20(2), 133-157 (copy on ancientportsantiques.com)",
+          "url": "https://www.ancientportsantiques.com/wp-content/uploads/Documents/PLACES/Levant/AtlitYam-Galili1993.pdf",
+          "reach": "third-party copy",
+          "thin": true
+        },
+        {
+          "label": "Giosan (2007), review of The Black Sea Flood Question, Quaternary Science Reviews",
+          "url": "https://www.whoi.edu/cms/files/review-black_sea_45589.pdf",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Gorur et al. (2001), Marine Geology 176, 65-73",
+          "url": "https://polen.itu.edu.tr/entities/publication/f759e95b-a68f-47b8-9fef-773fbcc3d736/full",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Hosseinyar, Behbahani, Moussavi-Harami, Lak and Kuijpers (2021), Holocene sea level changes of the Persian Gulf, Quaternary International (author copy on Academia.edu)",
+          "url": "https://www.academia.edu/97030620/Holocene_sea_level_changes_of_the_Persian_Gulf",
+          "reach": "third-party copy",
+          "thin": true
+        },
+        {
+          "label": "Huang, Zheng, Heng, Giosan and Coolen (2021), Earth and Planetary Science Letters 564, 116881",
+          "url": "https://par.nsf.gov/servlets/purl/10282673",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Ion, Briceag, Vasiliu, Lupascu and Melinte-Dobrinescu (2022), Marine Geology 443, 106648",
+          "url": "https://igr.ro/wp-content/uploads/2021/10/PaperMARINEGEOLOGY.pdf",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Lambeck (1996), Earth and Planetary Science Letters 142, 43-57",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/0012821X96000696",
+          "reach": "blocked, not read",
+          "thin": true
+        },
+        {
+          "label": "Ogloblin Ramirez, Grono, Zuckerman-Cooper, Langgut, Galili and Friesem (2023), Geoarchaeology 38(5), 534-564",
+          "url": "https://cris.biu.ac.il/en/publications/microarchaeological-approach-to-underwater-stratigraphy-of-submer/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Parker et al. (2020), Quaternary Science Reviews 249, 106618",
+          "url": "https://library.naturalsciences.be/pdfs-open-access/2020/Parker_et_al_2020_QSR.pdf",
+          "reach": "summary of full text",
+          "thin": false
+        },
+        {
+          "label": "Qatar Foundation Annual Research Conference (2014), conference abstract (authors not shown)",
+          "url": "https://www.qscience.com/content/papers/10.5339/qfarc.2014.EEPP0057",
+          "reach": "abstract only",
+          "thin": true
+        },
+        {
+          "label": "Rose (2010), New light on human prehistory in the Arabo-Persian Gulf Oasis, Current Anthropology 51(6), 849-868",
+          "url": "https://research.birmingham.ac.uk/en/publications/new-light-on-human-prehistory-in-the-arabo-persian-gulf-oasis/",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Rose, reply to comments on New light on human prehistory in the Arabo-Persian Gulf Oasis (ResearchGate record; blocked)",
+          "url": "https://www.researchgate.net/publication/241685555_New_Light_on_Human_Prehistory_in_the_Arabo-Persian_Gulf_Oasis_Reply",
+          "reach": "blocked, not read",
+          "thin": true
+        },
+        {
+          "label": "Ryan et al. (1997), Marine Geology 138, 119-126",
+          "url": "https://nosamsresearch.whoi.edu/node/819",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Stevens, Jestico, Evans and Kirkham (2014), Eustatic control of late Quaternary sea-level change in the Arabian/Persian Gulf, Quaternary Research 82(1), 175-184",
+          "url": "https://www.cambridge.org/core/journals/quaternary-research/article/abs/eustatic-control-of-late-quaternary-sealevel-change-in-the-arabianpersian-gulf/FE9E3F4E1A6E5C46EC0B1F5E5385C203",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Teller, Glennie, Lancaster and Singhvi (2000), Quaternary International 68-71, 297-308",
+          "url": "https://repository.ias.ac.in/47922",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "Wood et al. (2011), Quaternary Research (faculty-hosted copy, Southern Methodist University)",
+          "url": "https://smu.edu/lyle/departments/cee/faculty/~/media/3ABC718E899A459CB8B47052E484AB5B.ashx",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Yanchilina, Ryan, McManus and others (2017), Marine Geology 383, 14-34",
+          "url": "https://nosamsresearch.whoi.edu/node/2531",
+          "reach": "abstract only",
+          "thin": false
+        },
+        {
+          "label": "UNESCO World Heritage Centre, Tentative List entry for Failaka Island (submitted 29 January 2025)",
+          "url": "https://whc.unesco.org/en/tentativelists/6800/",
+          "reach": "summary",
+          "thin": false
+        },
+        {
+          "label": "Potts (2005), Persian Gulf i. In Antiquity, Encyclopaedia Iranica",
+          "url": "https://iranicaonline.org/articles/persian-gulf-i-in-antiquity",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Wikipedia, Atlit Yam",
+          "url": "https://en.wikipedia.org/wiki/Atlit_Yam",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Wikipedia, Dosariyah",
+          "url": "https://en.wikipedia.org/wiki/Dosariyah",
+          "reach": "summary",
+          "thin": true
+        },
+        {
+          "label": "Wikipedia, Ur Schatt",
+          "url": "https://en.wikipedia.org/wiki/Ur_Schatt",
+          "reach": "summary",
+          "thin": true
+        }
+      ],
+      "count": 23
+    }
+  ],
+  "sourceCount": 179,
+  "keywords": [
+    "Doggerland",
+    "North Sea",
+    "Mesolithic",
+    "sea level",
+    "Star Carr",
+    "Sundaland",
+    "submerged land"
+  ]
+}

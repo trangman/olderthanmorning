@@ -1,0 +1,311 @@
+{
+  "number": 2,
+  "slug": "the-first-forests",
+  "title": "The First Forests on Earth",
+  "youtubeId": "dIW4i_ZZSgs",
+  "published": "2026-09-16T16:30:16-07:00",
+  "durationSeconds": 6107,
+  "era": "385 million years ago",
+  "description": [
+    "Tonight, the first forests. Roughly three hundred and eighty-five million years ago, on a coastline in what is now New York State, plants worked out how to stand up.",
+    "Nothing happens in this story. There is nothing to brace for. It is about trees learning to be tall, which took about twenty-five million years, had no day on which it happened, and made no noise at all. The tallest living thing on land at the time was not a plant, and nobody is sure what it was.",
+    "You do not need to follow closely or remember any of the names. If you drift off in the middle and wake up at the end with no idea how you got there, that is the intended use.",
+    "Best with the lights off."
+  ],
+  "chapters": [
+    {
+      "time": "0:00",
+      "seconds": 0,
+      "title": "Settling"
+    },
+    {
+      "time": "5:01",
+      "seconds": 301,
+      "title": "Where We Are"
+    },
+    {
+      "time": "13:35",
+      "seconds": 815,
+      "title": "The Land Before Trees"
+    },
+    {
+      "time": "20:08",
+      "seconds": 1208,
+      "title": "The Hot Spring"
+    },
+    {
+      "time": "29:07",
+      "seconds": 1747,
+      "title": "The Tallest Thing Alive"
+    },
+    {
+      "time": "36:39",
+      "seconds": 2199,
+      "title": "The Invention Of Wood"
+    },
+    {
+      "time": "45:01",
+      "seconds": 2701,
+      "title": "Gilboa"
+    },
+    {
+      "time": "55:06",
+      "seconds": 3306,
+      "title": "The Roots Go Down"
+    },
+    {
+      "time": "1:02:49",
+      "seconds": 3769,
+      "title": "What The Roots Did"
+    },
+    {
+      "time": "1:12:24",
+      "seconds": 4344,
+      "title": "Rivers"
+    },
+    {
+      "time": "1:17:29",
+      "seconds": 4649,
+      "title": "The Animals, And The Quiet"
+    },
+    {
+      "time": "1:25:55",
+      "seconds": 5155,
+      "title": "The Sea"
+    },
+    {
+      "time": "1:31:58",
+      "seconds": 5518,
+      "title": "How Long It Took, And What Came After"
+    },
+    {
+      "time": "1:41:36",
+      "seconds": 6096,
+      "title": "The People Who Found It"
+    },
+    {
+      "time": "1:46:51",
+      "seconds": 6411,
+      "title": "Wind-down"
+    }
+  ],
+  "accuracy": "Every factual claim in The First Forests traces to one of these. Where researchers disagree — and about this period they disagree a great deal — the episode says so, and both sides are listed here rather than only the tidier one.",
+  "sources": [
+    {
+      "title": "The Forest Floors",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Stein, Mannolini, Hernick, Landing & Berry (2007), \"Giant cladoxylopsid trees resolve the enigma of the Earth's earliest forest stumps at Gilboa,\" Nature 446:904.",
+              "url": "https://www.nature.com/articles/nature05705"
+            },
+            {
+              "cite": "Stein, Berry, Hernick & Mannolini (2012), \"Surprisingly complex community discovered in the mid-Devonian fossil forest at Gilboa,\" Nature 483:78.",
+              "url": "https://www.nature.com/articles/nature10819"
+            },
+            {
+              "cite": "Stein et al. (2019), \"Mid-Devonian Archaeopteris roots signal revolutionary change in earliest fossil forests,\" Current Biology.",
+              "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(19)31569-6"
+            },
+            {
+              "cite": "Davies, McMahon & Berry (2024), \"Earth's earliest forest, Hangman Sandstone Formation,\" Journal of the Geological Society.",
+              "url": "https://www.lyellcollection.org/doi/full/10.1144/jgs2023-204"
+            },
+            {
+              "cite": "Goldring, W. (1927), \"The oldest known petrified forest,\" Scientific Monthly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Trees and Wood",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Meyer-Berthaud, Scheckler & Wendt (1999), \"Archaeopteris is the earliest known modern tree,\" Nature 398:700 https://www.nature.com/articles/19516."
+            },
+            {
+              "cite": "Strullu-Derrien et al. (2014), \"The earliest wood and its hydraulic properties,\" Botanical Journal of the Linnean Society 175:423.",
+              "url": "https://academic.oup.com/botlinnean/article/175/3/423/2416393"
+            },
+            {
+              "cite": "Xu et al. (2017), \"Unique growth strategy in the Earth's first trees,\" PNAS.",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5692553/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Rhynie Chert",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Garwood et al. (2020), \"The Rhynie chert,\" Current Biology.",
+              "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(19)31370-3"
+            },
+            {
+              "cite": "University of Aberdeen, Rhynie chert resources.",
+              "url": "https://www.abdn.ac.uk/rhynie/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Prototaxites",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Boyce et al. (2007), \"Devonian landscape heterogeneity recorded by a giant fungus,\" Geology 35:399."
+            },
+            {
+              "cite": "Loron et al. (2026), \"Prototaxites fossils are structurally and chemically distinct from extinct and extant Fungi,\" Science Advances 12(4).",
+              "url": "https://www.science.org/doi/10.1126/sciadv.aec6277"
+            }
+          ]
+        }
+      ],
+      "age": "and why the script hedges"
+    },
+    {
+      "title": "Carbon Dioxide, Weathering and Climate",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Berner, R. (1997), \"The Rise of Plants and Their Effect on Weathering and Atmospheric CO2,\" Science 276:544.",
+              "note": "the classic account",
+              "noteKind": "for"
+            },
+            {
+              "cite": "Dahl et al. (2022), \"Low atmospheric CO2 levels before the rise of forested ecosystems,\" Nature Communications.",
+              "url": "https://www.nature.com/articles/s41467-022-35085-9",
+              "note": "the challenge to it",
+              "noteKind": "against"
+            },
+            {
+              "cite": "Le Hir et al. (2011), \"The climate change caused by the land plant invasion in the Devonian,\" Earth and Planetary Science Letters.",
+              "note": "the albedo objection",
+              "noteKind": "against"
+            },
+            {
+              "cite": "Joachimski & Buggisch (2002), \"Conodont apatite d18O signatures indicate climatic cooling,\" Geology.",
+              "note": "the cooling itself",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Quirk, Leake, Beerling et al. (2012), \"Evolution of trees and mycorrhizal fungi intensifies silicate mineral weathering,\" Biology Letters."
+            }
+          ]
+        }
+      ],
+      "age": "the disputed part"
+    },
+    {
+      "title": "Rivers",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Davies & Gibling (2011), \"Evolution of fixed-channel alluvial plains in response to Carboniferous vegetation,\" Nature Geoscience.",
+              "url": "https://www.nature.com/articles/ngeo1237"
+            },
+            {
+              "cite": "Gibling & Davies (2012), \"Palaeozoic landscapes shaped by plant evolution,\" Nature Geoscience https://www.nature.com/articles/ngeo1376."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Animals",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Shear et al. (1984), \"Early land animals in North America: evidence from Devonian age arthropods from Gilboa,\" Science 224:492."
+            },
+            {
+              "cite": "Selden, Shear & Sutton (2008), \"Fossil evidence for the origin of spider spinnerets,\" PNAS.",
+              "note": "why Attercopus is no longer called a spider",
+              "noteKind": "against"
+            },
+            {
+              "cite": "Haug & Haug (2017), \"The presumed oldest flying insect: more likely a myriapod?\" PeerJ."
+            },
+            {
+              "cite": "Niedzwiedzki et al. (2010), \"Tetrapod trackways from the early Middle Devonian period of Poland,\" Nature 463:43."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Late Devonian, and What Came After",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Algeo & Scheckler (1998), \"Terrestrial-marine teleconnections in the Devonian,\" Philosophical Transactions of the Royal Society B.",
+              "note": "the land-plant hypothesis",
+              "noteKind": "for"
+            },
+            {
+              "cite": "Smart et al. (2023), \"The expansion of land plants during the Late Devonian contributed to the marine mass extinction,\" Communications Earth & Environment.",
+              "url": "https://www.nature.com/articles/s43247-023-01087-8",
+              "note": "the supporting dataset",
+              "noteKind": "for"
+            },
+            {
+              "cite": "Nelsen, DiMichele et al. (2016), \"Delayed fungal evolution did not cause the Paleozoic peak in coal production,\" PNAS.",
+              "url": "https://www.pnas.org/doi/10.1073/pnas.1517943113",
+              "note": "why the coal story is wrong",
+              "noteKind": "against"
+            },
+            {
+              "cite": "Krause et al. (2022), \"Evolution of Atmospheric O2 Through the Phanerozoic, Revisited,\" Annual Review of Earth and Planetary Sciences.",
+              "note": "why it probably was not 35 percent",
+              "noteKind": "against"
+            },
+            {
+              "cite": "Davies et al. (2022), \"The largest arthropod in Earth history,\" Journal of the Geological Society."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Day Length",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Wells, J. W. (1963), \"Coral Growth and Geochronometry,\" Nature 197:948."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chronology",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "International Commission on Stratigraphy, International Chronostratigraphic Chart.",
+              "url": "https://stratigraphy.org/chart"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "leftOut": "Four things this episode deliberately does not repeat, because specialists dispute them: that forests caused the Devonian CO2 collapse; that Prototaxites was definitely a fungus; that wood evolved to hold trees up; and that Carboniferous coal exists because nothing could yet digest lignin.",
+  "legacy": "ep02"
+}

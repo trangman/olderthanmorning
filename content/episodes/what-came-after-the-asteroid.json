@@ -1,0 +1,198 @@
+{
+  "number": 6,
+  "slug": "what-came-after-the-asteroid",
+  "title": "What Came After the Asteroid, How Earth Recovered in 10 Million Years",
+  "youtubeId": "_CkxK5q5H_Y",
+  "published": "2026-09-30T17:00:00-07:00",
+  "durationSeconds": 5160,
+  "era": "66–56 million years ago",
+  "description": [
+    "Tonight, a world that has just lost three out of every four species it had only a few days before, waking up in the ash and starting, almost immediately, to grow back. Nothing tonight happens at the moment of the asteroid — that story already happened, on an earlier evening — this one begins in the quiet afterward, and stays there for the next ten million years.",
+    "It's a story about ferns pushing up through burned ground before almost anything else does, a bird finding somewhere to nest again after nearly every one of its cousins didn't make it through, and a mammal the size of a mouse growing, within about a million years, into something the size of a large dog. Nothing tonight is in danger. Everything you hear about is already living on the far side of the worst of it.",
+    "Some of this is unusually well documented — the fern spike sits in the very same layer of rock, worldwide, as the iridium that first gave this event away. Other parts are genuinely still argued about by the people who study them: exactly how narrow the surviving line of birds was, and exactly how long a forest or an ocean needs before it counts as properly recovered. The episode says so, rather than picking the tidy answer.",
+    "You do not need to follow closely. If you're asleep before the forests are grown back, that's the intended use.",
+    "Best with the lights off."
+  ],
+  "chapters": [
+    {
+      "time": "0:00",
+      "seconds": 0,
+      "title": "Settling"
+    },
+    {
+      "time": "8:59",
+      "seconds": 539,
+      "title": "Where We Pick Up"
+    },
+    {
+      "time": "13:49",
+      "seconds": 829,
+      "title": "The Darkened World"
+    },
+    {
+      "time": "18:39",
+      "seconds": 1119,
+      "title": "Who Was Left"
+    },
+    {
+      "time": "26:23",
+      "seconds": 1583,
+      "title": "The Ferns Come First"
+    },
+    {
+      "time": "30:45",
+      "seconds": 1845,
+      "title": "The Quiet Forests Return"
+    },
+    {
+      "time": "37:46",
+      "seconds": 2266,
+      "title": "The Birds That Made It"
+    },
+    {
+      "time": "45:14",
+      "seconds": 2714,
+      "title": "Small Things In The Undergrowth"
+    },
+    {
+      "time": "48:42",
+      "seconds": 2922,
+      "title": "The Speed Of It"
+    },
+    {
+      "time": "55:21",
+      "seconds": 3321,
+      "title": "New Kinds Of Teeth"
+    },
+    {
+      "time": "1:00:15",
+      "seconds": 3615,
+      "title": "The Ocean'S Own Recovery"
+    },
+    {
+      "time": "1:06:54",
+      "seconds": 4014,
+      "title": "The Layer In The Rock"
+    },
+    {
+      "time": "1:11:01",
+      "seconds": 4261,
+      "title": "A World Warming Again"
+    },
+    {
+      "time": "1:13:10",
+      "seconds": 4390,
+      "title": "What This Emptiness Made Room For"
+    },
+    {
+      "time": "1:16:44",
+      "seconds": 4604,
+      "title": "Ten Million Years, Measured"
+    },
+    {
+      "time": "1:19:16",
+      "seconds": 4756,
+      "title": "Wind-down"
+    }
+  ],
+  "accuracy": "Every factual claim traces to a named, published source, listed below. This episode leans on more recent and more actively disputed research than most — how narrow the bird bottleneck really was, how long full forest and ocean recovery actually took — and where researchers disagree, the episode says so rather than choosing the tidier answer.",
+  "sources": [
+    {
+      "title": "Survivorship — Who Made It Through",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Wilson (2013), Paleobiology — survival was continuous and size-selective, not a sharp cutoff; small, unfussy generalists came through disproportionately",
+              "url": "https://faculty.washington.edu/gpwilson/Reprints/2013%20Wilson%20Paleobio.pdf"
+            },
+            {
+              "cite": "Longrich et al. (2012), PNAS, and García-Girón et al. (2022), Science Advances — squamate losses, and dietary flexibility as the deciding trait",
+              "url": "https://www.pnas.org/doi/10.1073/pnas.1211526110"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Ferns and the Forests",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Lyson et al. (2019), Science — the Colorado record behind the fern-to-forest succession this episode follows",
+              "url": "https://www.science.org/doi/10.1126/science.aay2268"
+            },
+            {
+              "cite": "Labandeira, Johnson & Wilf (2002), PNAS, and Donovan et al. (2016), Nature Ecology & Evolution — the disputed recovery timescale, roughly 9 million years in one hemisphere against roughly 4 in another",
+              "url": "https://personal.ems.psu.edu/~pwilf/LabandeiraJohnsonWilf%202002PNAS.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Mammals of Corral Bluffs",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Lyson et al. (2019), Science, again — the single most important source in this episode: the dated sequence behind the hundredfold mammal body-size increase",
+              "url": "https://www.science.org/doi/10.1126/science.aay2268"
+            },
+            {
+              "cite": "Bertrand, Brusatte et al. (2022), Science — body size outpacing brain size for roughly ten million years afterward",
+              "url": "https://www.science.org/doi/10.1126/science.abl5584"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Birds and the Bottleneck",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Field et al. (2018), Current Biology — the ground-dwelling bottleneck hypothesis",
+              "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(18)30534-7"
+            },
+            {
+              "cite": "Wu et al. (2023) and Claramunt et al. (2024), both PNAS — an active, unresolved dispute over how narrow that bottleneck really was",
+              "url": "https://www.pnas.org/doi/10.1073/pnas.2405887121"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Ocean's Own Recovery",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Henehan et al. (2019), PNAS — ocean chemistry recovering within under 100,000 years",
+              "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1905989116"
+            },
+            {
+              "cite": "Alvarez, Gibbs, Bown et al. (2019), Nature — diversity and ecosystem function decoupled, full diverse recovery taking roughly 1.8 million years",
+              "url": "https://www.nature.com/articles/s41586-019-1590-8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Evidence Itself",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Alvarez, Alvarez, Asaro & Michel (1980), Science — the original iridium anomaly discovery, the physical basis for the impact hypothesis this whole collection rests on"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

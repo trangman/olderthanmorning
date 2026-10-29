@@ -1,0 +1,234 @@
+{
+  "number": 13,
+  "slug": "the-great-oxidation-event",
+  "title": "The Great Oxidation Event, The Rusting of the Sea",
+  "youtubeId": "mBtOyJAqgTM",
+  "published": "2026-10-25T17:00:08-07:00",
+  "durationSeconds": 6188,
+  "era": "2.5–2.0 billion years ago",
+  "description": [
+    "Tonight is about air, a sea, and the colour of some very old rock. About two and a half billion years ago the air held almost none of the oxygen that most living things now depend on, and many seas held a great deal of dissolved iron. Over the following half billion years the air changed, and the rock kept the record: stripes of iron on an old sea floor, red sandstone laid down on an old land, a black stone from a lake in Karelia, and a dark shale from Gabon. It begins in the air before the change and closes on the stripes the sea left behind.",
+    "It is told through places and rock rather than through creatures, because there is almost nothing living to show: a sulphur signal in ancient sediment, a hillside of ice-scratched stone in Ontario, a field of manganese in the Kalahari, a lake in the north of Russia, and the shales of Gabon.",
+    "A good deal of tonight is honestly unsettled. When the change began (the papers put it anywhere from about 2.5 to about 2.43 billion years ago), how fast it went, whether it was one event or a long rise and fall, how early the oxygen-makers were at work, whether ice reached the equator, whether the long high in the carbon record was global, whether the structures in Gabon are early multicellular life, and what ended the iron stripes are all argued over. The popular story that oxygen poisoned most life on Earth is told near the end as a story, with what could and could not be found.",
+    "It stays gentle throughout. Nothing hunts, nothing is in peril, and no one is harmed in the telling.",
+    "You do not need to follow any of it closely. If you're asleep before the black rock at Lake Onega, that's the intended use.",
+    "Best with the lights off."
+  ],
+  "chapters": [
+    {
+      "time": "0:00",
+      "seconds": 0,
+      "title": "Settling"
+    },
+    {
+      "time": "7:32",
+      "seconds": 452,
+      "title": "The Air Before"
+    },
+    {
+      "time": "13:03",
+      "seconds": 783,
+      "title": "A Sea The Colour Of Iron"
+    },
+    {
+      "time": "19:27",
+      "seconds": 1167,
+      "title": "Small Green Makers"
+    },
+    {
+      "time": "26:41",
+      "seconds": 1601,
+      "title": "The First Signs In The Rock"
+    },
+    {
+      "time": "34:46",
+      "seconds": 2086,
+      "title": "Red Rock On Old Land"
+    },
+    {
+      "time": "41:43",
+      "seconds": 2503,
+      "title": "The Cold In The Rock"
+    },
+    {
+      "time": "52:22",
+      "seconds": 3142,
+      "title": "The Sea Catches Up"
+    },
+    {
+      "time": "58:05",
+      "seconds": 3485,
+      "title": "The Long High"
+    },
+    {
+      "time": "1:05:27",
+      "seconds": 3927,
+      "title": "After The High"
+    },
+    {
+      "time": "1:11:50",
+      "seconds": 4310,
+      "title": "The Black Rock At Lake Onega"
+    },
+    {
+      "time": "1:18:00",
+      "seconds": 4680,
+      "title": "The Shales Of Gabon"
+    },
+    {
+      "time": "1:24:09",
+      "seconds": 5049,
+      "title": "The Bands Stop"
+    },
+    {
+      "time": "1:28:57",
+      "seconds": 5337,
+      "title": "The Story That Is Told"
+    },
+    {
+      "time": "1:34:50",
+      "seconds": 5690,
+      "title": "A Long Slow Exhale"
+    },
+    {
+      "time": "1:40:40",
+      "seconds": 6040,
+      "title": "Wind-down"
+    }
+  ],
+  "accuracy": "Every factual claim traces to a named source, condensed below to those the narration leans on most. Where sources disagree, the episode gives both views. Many could only be read as abstracts, summaries or digests, and a few were behind bot checks and were not read; the narration says so aloud, and the list marks the thinner ones.",
+  "sources": [
+    {
+      "title": "The Air and the Iron",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Farquhar, Bao & Thiemens (2000), Science (abstract only)"
+            },
+            {
+              "cite": "Lyons, Reinhard & Planavsky (2014), Nature, \"The rise of oxygen in Earth's early ocean and atmosphere\""
+            },
+            {
+              "cite": "Catling & Zahnle (2020), Science Advances; Arney et al., \"The Pale Orange Dot\" (preprint)"
+            },
+            {
+              "cite": "Konhauser et al. (2017), Earth-Science Reviews; Bekker et al. (2010), Economic Geology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Small Green Makers (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Fournier et al. (2021), Proc. R. Soc. B; Oliver et al. (2021), BBA-Bioenergetics"
+            },
+            {
+              "cite": "Shih et al. (2017) and Magnabosco et al. (2018), Geobiology (abstracts only)"
+            },
+            {
+              "cite": "Kirschvink et al. (2000), PNAS (abstract only)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Dating (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Gumsley et al. (2017), PNAS (abstract only); Warke et al. (2020), PNAS"
+            },
+            {
+              "cite": "Luo et al. (2016), Science Advances (abstract only)"
+            },
+            {
+              "cite": "Poulton et al. (2021), Nature (abstract only)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Red Rock and Cold Rock (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Johnson et al. (2014), GSA Bulletin (abstract only); Hilburn et al. (2005), EPSL"
+            },
+            {
+              "cite": "Evans, Beukes & Kirschvink (1997), Nature (abstract only); Kopp et al. (2005), PNAS"
+            },
+            {
+              "cite": "Millikin et al. (2024), Geology; Le Heron et al. (2022), Frontiers in Earth Science"
+            },
+            {
+              "cite": "Master's theses, Lakehead and Western Universities (theses)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Sea and the Long High (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Canfield (1998), Nature (abstract only); Blättler et al. (2018), Science (abstract only)"
+            },
+            {
+              "cite": "Karhu & Holland (1996), Geology (abstract only); Martin et al. (2013), Earth-Science Reviews (abstract only)"
+            },
+            {
+              "cite": "Bakakas Mayika et al. (2020) and Bekker et al. (2021), Geology (abstracts only)"
+            },
+            {
+              "cite": "Hodgskiss et al. (2019), PNAS; Mänd et al. (2020), Nature Geoscience"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Karelia and Gabon (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Melezhik et al. (2004), Ore Geology Reviews (abstract only); EGU 2009 conference abstract"
+            },
+            {
+              "cite": "El Albani et al. (2010), Nature; El Albani et al. (2014), PLoS ONE"
+            },
+            {
+              "cite": "The Scientist (news report on the critics of the Gabon structures)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The End of the Stripes, and the Story",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Slack & Cannon (2009), Geology (abstract only); Poulton, Fralick & Canfield (2004), Nature (abstract only)"
+            },
+            {
+              "cite": "de Duve, Singularities (2005), chapter 16 (abstract only); a general reference for the Margulis name, whose book was not read"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

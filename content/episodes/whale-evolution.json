@@ -1,0 +1,225 @@
+{
+  "number": 10,
+  "slug": "whale-evolution",
+  "title": "Whale Evolution, When Whales Still Walked",
+  "youtubeId": "dJ9NBLTvA1I",
+  "published": "2026-10-14T17:00:24-07:00",
+  "durationSeconds": 6520,
+  "era": "53–34 million years ago",
+  "description": [
+    "Tonight is about a family of animals that changed its way of life, over roughly ten million years, from living beside rivers to swimming in the open sea. It begins on the shore of an old, warm sea in what is now Pakistan and India.",
+    "It is told through what the bones and rocks kept: one small bone in the ear, a mother and her young preserved together in Pakistani stone, a four-legged traveller in Peru, and a valley in the Egyptian desert where about five hundred skeletons lie in what was once the floor of a sea.",
+    "A good deal of tonight is honestly unsettled. \"Whale\" is a loose word here, and \"walked\" describes only the first half of the story. Whether the animal named for walking could walk well, or at all, is disputed. Most ages are ranges. How the whales reached the Americas is a favoured hypothesis, and which hoofed animal is their nearest living relative is still argued. Where researchers disagree, it says so.",
+    "It stays gentle throughout: nothing hunts, nothing is in peril, and it ends in a valley of sand that was once a warm sea.",
+    "You do not need to follow any of it closely. If you're asleep before the valley, that's the intended use.",
+    "Best with the lights off."
+  ],
+  "chapters": [
+    {
+      "time": "0:00",
+      "seconds": 0,
+      "title": "Settling"
+    },
+    {
+      "time": "9:32",
+      "seconds": 572,
+      "title": "A Warm Sea, A Quiet Shore"
+    },
+    {
+      "time": "15:49",
+      "seconds": 949,
+      "title": "A Small Hoofed Cousin"
+    },
+    {
+      "time": "23:29",
+      "seconds": 1409,
+      "title": "The First Ones By The River"
+    },
+    {
+      "time": "32:27",
+      "seconds": 1947,
+      "title": "An Ear That Tells You"
+    },
+    {
+      "time": "43:04",
+      "seconds": 2584,
+      "title": "A Body That Swims And Walks"
+    },
+    {
+      "time": "50:58",
+      "seconds": 3058,
+      "title": "Learning The Coast"
+    },
+    {
+      "time": "58:44",
+      "seconds": 3524,
+      "title": "A Four-Legged Traveller In Peru"
+    },
+    {
+      "time": "1:06:22",
+      "seconds": 3982,
+      "title": "How A Whale Is Born"
+    },
+    {
+      "time": "1:10:25",
+      "seconds": 4225,
+      "title": "The Legs Get Smaller"
+    },
+    {
+      "time": "1:16:58",
+      "seconds": 4618,
+      "title": "The Valley Of The Whales"
+    },
+    {
+      "time": "1:23:36",
+      "seconds": 5016,
+      "title": "An Old Idea, Changed"
+    },
+    {
+      "time": "1:31:10",
+      "seconds": 5470,
+      "title": "Not A Ladder"
+    },
+    {
+      "time": "1:35:18",
+      "seconds": 5718,
+      "title": "What Came Next"
+    },
+    {
+      "time": "1:40:20",
+      "seconds": 6020,
+      "title": "Twenty Million Years, Measured"
+    },
+    {
+      "time": "1:44:27",
+      "seconds": 6267,
+      "title": "Wind-down"
+    }
+  ],
+  "accuracy": "Every factual claim traces to a named, published source, listed below. Where sources disagree, the episode gives the range or both views. Many were checked at abstract level, and a few only through citing papers or press summaries; the narration says where that matters.",
+  "sources": [
+    {
+      "title": "The Warm World and the Old Sea",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Inglis et al. (2020); Cramwinckel et al. (2018), Nature; Evans et al. (2018), PNAS — how warm the early Eocene was"
+            },
+            {
+              "cite": "Najman et al. (2010); Shahzad et al. (2024); Gingerich et al. (1983), Science — the closing sea and its shore"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Small Cousin and the Riverside Whales",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Thewissen et al. (2007), Nature; Cooper et al. (2016) — Indohyus"
+            },
+            {
+              "cite": "Thewissen et al. (2001), Nature; Madar (2007); Clementz et al. (2006) — the pakicetids"
+            },
+            {
+              "cite": "Bajpai & Gingerich (1998), PNAS; Waqas et al. (2026), Nature Ecol. & Evol. — the oldest jaw, and a new find"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Ear (hypotheses)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Nummela et al. (2004), Nature; Nummela et al. (2007); Kim et al. (2014); Peacock et al. (2025), Paleobiology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Bodies",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Thewissen, Hussain & Arif (1994), Science; Ando & Fujiwara (2016), J. Anatomy — Ambulocetus, and whether it walked (disputed)"
+            },
+            {
+              "cite": "Thewissen et al. (2009); Thewissen & Bajpai (2009); Houssaye et al. (2015), PLoS ONE; Hulbert et al. (1998) — the coastal whales"
+            },
+            {
+              "cite": "Lambert et al. (2019), Current Biology; Gohar et al. (2021) — Peregocetus, and how whales reached the Americas (a hypothesis)"
+            },
+            {
+              "cite": "Gingerich et al. (2009), PLoS ONE — Maiacetus"
+            },
+            {
+              "cite": "Antar et al. (2023); Gingerich (2007) — Tutcetus, and the small legs of the later whales"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Valley",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Peters et al. (2009), PALAIOS — the sea floor at Wadi Al-Hitan, and how the whales were kept"
+            },
+            {
+              "cite": "Egypt's World Heritage nomination for Wadi Al-Hitan — the valley's later history (a state document, not a geological paper)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Old Idea and the New",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Van Valen (1966), Bulletin of the AMNH; Luo & Gingerich (1999) — whales from mesonychids"
+            },
+            {
+              "cite": "Graur & Higgins (1994); Gatesy et al. (1996); Montgelard et al. (1997); Shimamura et al. (1997); Nikaido et al. (1999) — the DNA"
+            },
+            {
+              "cite": "Gingerich et al. (2001), Science; Geisler & Theodor (2009), Nature; Spaulding et al. (2009); Prothero et al. (2022) — the fossils, and the hippo question (disputed)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Not a Ladder, and What Came Next",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Berger et al. (2025), Evolution — protocetids are probably not one natural group"
+            },
+            {
+              "cite": "Lambert et al. (2017); Fordyce & Marx (2018), Current Biology — the first baleen whales"
+            },
+            {
+              "cite": "Bianucci et al. (2023), Nature; Motani & Pyenson (2024), PeerJ — Perucetus (its weight is disputed)"
+            },
+            {
+              "cite": "McClain et al. (2015), PeerJ; NOAA Fisheries; Smithsonian Ocean — the largest blue whale"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

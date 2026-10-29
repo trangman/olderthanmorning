@@ -17,15 +17,17 @@ export function Chapters({ episode }: { episode: Episode }) {
               time={chapter.time}
               title={chapter.title}
             />
-            <noscript>
-              <a
-                href={`${youtubeWatch(episode.youtubeId)}&t=${chapter.seconds}s`}
-                rel="noopener"
-              >
-                <span className="time">{chapter.time}</span>
-                <span>{chapter.title}</span>
-              </a>
-            </noscript>
+            {episode.youtubeId ? (
+              <noscript>
+                <a
+                  href={`${youtubeWatch(episode.youtubeId)}&t=${chapter.seconds}s`}
+                  rel="noopener"
+                >
+                  <span className="time">{chapter.time}</span>
+                  <span>{chapter.title}</span>
+                </a>
+              </noscript>
+            ) : null}
           </li>
         ))}
       </ul>

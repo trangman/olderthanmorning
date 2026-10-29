@@ -1,0 +1,207 @@
+{
+  "number": 8,
+  "slug": "the-first-animals-on-land",
+  "title": "The First Animals on Land, as Told by Their Footprints",
+  "youtubeId": "C3v1Vpjwuuk",
+  "published": "2026-10-07T17:00:36-07:00",
+  "durationSeconds": 6586,
+  "era": "470–370 million years ago",
+  "description": [
+    "Tonight is about the first steps out of the sea — and the first thing to take them, as far as anyone can currently tell, was not a fish. Over roughly a hundred million years, from a bare shore to one with forests behind it, small many-legged animals were coming and going at the water's edge long before anything with a backbone.",
+    "It is told through those tracks: rows of tiny dents in ancient sand, a small millipede in Scotland whose breathing pores say it breathed air, a lung that turns out to be older than the land, and a fin that became a limb underwater. Not one heroic crossing, but many, most of which left almost nothing behind.",
+    "A good deal of tonight is honestly unsettled. Two research teams still disagree by about fourteen million years on how old that millipede is. The famous Polish trackways have been read three different ways. Whether the earliest footprints were made on land, or only beside it, is an open question. Where researchers disagree, the episode says so.",
+    "It stays gentle throughout: no hunting, no peril, and it ends, deliberately, at the water's edge. The egg, and the first fully land-living animals, belong to a later evening.",
+    "You do not need to follow any of it closely. If you're asleep before the shore turns green, that's the intended use.",
+    "Best with the lights off."
+  ],
+  "chapters": [
+    {
+      "time": "0:00",
+      "seconds": 0,
+      "title": "Settling"
+    },
+    {
+      "time": "8:47",
+      "seconds": 527,
+      "title": "Where We Are"
+    },
+    {
+      "time": "14:57",
+      "seconds": 897,
+      "title": "An Empty Shore"
+    },
+    {
+      "time": "22:02",
+      "seconds": 1322,
+      "title": "The Problem Of Air"
+    },
+    {
+      "time": "28:18",
+      "seconds": 1698,
+      "title": "The First Tracks"
+    },
+    {
+      "time": "37:21",
+      "seconds": 2241,
+      "title": "The Ground Getting Ready"
+    },
+    {
+      "time": "41:56",
+      "seconds": 2516,
+      "title": "The First Breather"
+    },
+    {
+      "time": "49:38",
+      "seconds": 2978,
+      "title": "The Crossings That Left Nothing"
+    },
+    {
+      "time": "56:06",
+      "seconds": 3366,
+      "title": "The Lung Came First"
+    },
+    {
+      "time": "1:05:14",
+      "seconds": 3914,
+      "title": "Fins Become Limbs"
+    },
+    {
+      "time": "1:14:31",
+      "seconds": 4471,
+      "title": "Seeing In Air"
+    },
+    {
+      "time": "1:21:29",
+      "seconds": 4889,
+      "title": "The First Steps Were Small"
+    },
+    {
+      "time": "1:27:21",
+      "seconds": 5241,
+      "title": "The Shore Fills Up"
+    },
+    {
+      "time": "1:33:54",
+      "seconds": 5634,
+      "title": "How Anyone Knows"
+    },
+    {
+      "time": "1:40:18",
+      "seconds": 6018,
+      "title": "A Hundred Million Years, Measured"
+    },
+    {
+      "time": "1:44:31",
+      "seconds": 6271,
+      "title": "Wind-down"
+    }
+  ],
+  "accuracy": "Every factual claim traces to a named, published source, listed below. This is a young and actively argued field, and several figures here (dates especially) are given as ranges because the sources themselves disagree. Some sources were checked at abstract level.",
+  "sources": [
+    {
+      "title": "The Shore Before the Land Animals",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Rubinstein et al. (2010), New Phytologist — Ordovician spores, the earliest evidence of land plants"
+            },
+            {
+              "cite": "Wellman, Cascales-Miñana & Servais (2023), Geol. Soc. Special Publication — the earliest land ecosystems were mostly microbial mats"
+            },
+            {
+              "cite": "Gibling & Davies (2012), Nature Geoscience — rivers before roots"
+            },
+            {
+              "cite": "Stein et al. (2020), Current Biology — the oldest known forest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The First Tracks (age and setting disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Collette, Gass & Hagadorn (2012), J. Paleontology — Wisconsin trackways"
+            },
+            {
+              "cite": "Buatois et al. (2022), Integrative and Comparative Biology — Ontario tracks read as short visits from the sea margin"
+            },
+            {
+              "cite": "McNamara (2014), J. Royal Society of Western Australia; Shillito & Davies (2020), Geol. Magazine — Tumblagooda: age and environment both disputed"
+            },
+            {
+              "cite": "Shillito & Davies (2019), Geology — Borrowdale tracks re-read as made in shallow water"
+            },
+            {
+              "cite": "Braddy & Gass (2023), J. Paleontology — a trackway read as shoreline moulting and mating"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The First Breather and the Other Crossings",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Wilson & Anderson (2004), J. Paleontology; Wellman et al. (2024), J. Geol. Soc.; Suarez et al. (2017), Biology Letters; Brookfield et al. (2025), Fossil Studies — Pneumodesmus, dated between about 430 and 414 million years ago depending on the team"
+            },
+            {
+              "cite": "Lozano-Fernandez et al. (2016), Phil. Trans. R. Soc. B; (2020), Frontiers in Genetics — several independent crossings; clocks and fossils disagree"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lung, Fin and Eye",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Tatsumi et al. (2016), Sci. Reports; Cupello et al. (2022), eLife — lungs predate land (genetic inference)"
+            },
+            {
+              "cite": "Goujet (2011), C. R. Palevol; Trinajstic et al. (2022), Science — armoured fishes did not have lungs"
+            },
+            {
+              "cite": "Cloutier et al. (2020), Nature — Elpistostege and the digit-like bones inside a fin"
+            },
+            {
+              "cite": "Daeschler et al. (2006); Stewart et al. (2022); Beznosov et al. (2019); Coates & Clack (1991); Pierce et al. (2012), all Nature — Tiktaalik and its relatives"
+            },
+            {
+              "cite": "MacIver et al. (2017), PNAS — eyes enlarged before limbs (a hypothesis)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The First Steps, and How Anyone Knows",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Niedźwiedzki et al. (2010), Nature; Narkiewicz et al. (2015); Qvarnström et al. (2018), Sci. Reports; Lucas (2015) — Zachełmie, Poland, and its competing readings"
+            },
+            {
+              "cite": "Stössel, Williams & Higgs (2016) — Valentia Island, Ireland"
+            },
+            {
+              "cite": "Clack (2002); Clack et al. (2016); Brocklehurst (2021) — early Carboniferous tetrapods, first amniotes"
+            },
+            {
+              "cite": "Noffke et al. (2019), J. Sedimentary Research — microbial mats and footprint preservation"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

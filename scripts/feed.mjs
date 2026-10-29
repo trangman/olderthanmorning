@@ -2,9 +2,17 @@ import fs from "fs";
 import path from "path";
 
 const root = path.resolve(import.meta.dirname, "..");
-const episodes = JSON.parse(
-  fs.readFileSync(path.join(root, "data", "episodes.json"), "utf8"),
-);
+const dir = path.join(root, "content", "episodes");
+const episodes = fs
+  .readdirSync(dir)
+  .filter((name) => name.endsWith(".json"))
+  .map((name) => JSON.parse(fs.readFileSync(path.join(dir, name), "utf8")))
+  .filter((episode) => episode.draft !== true)
+  .map((episode) => ({
+    ...episode,
+    published: episode.published ?? episode.publishedAt,
+    description: episode.description ?? episode.summary ?? [],
+  }));
 const site = "https://olderthanmorning.com";
 
 function escapeXml(value) {

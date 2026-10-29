@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const description = metaDescription(episode.description);
   const path = `/episodes/${episode.slug}/`;
-  const image = youtubePoster(episode.youtubeId);
+  const image = episode.youtubeId ? youtubePoster(episode.youtubeId) : undefined;
 
   return {
     title: episode.title,
@@ -45,14 +45,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: episode.title,
       description,
       url: path,
-      images: [{ url: image, alt: episode.title }],
-      videos: [{ url: youtubeWatch(episode.youtubeId) }],
+      images: image ? [{ url: image, alt: episode.title }] : undefined,
+      videos: episode.youtubeId ? [{ url: youtubeWatch(episode.youtubeId) }] : undefined,
     },
     twitter: {
       card: "summary_large_image",
       title: episode.title,
       description,
-      images: [image],
+      images: image ? [image] : undefined,
     },
   };
 }
@@ -66,55 +66,59 @@ export default async function EpisodePage({ params }: Props) {
   const description = episode.description.join(" ");
   const pageUrl = `${SITE.url}/episodes/${episode.slug}/`;
   const rest = episode.description.slice(1);
+  const hasVideo = Boolean(episode.youtubeId) && episode.durationSeconds != null;
+  const graph: Record<string, unknown>[] = [];
+
+  if (hasVideo && episode.youtubeId && episode.durationSeconds != null) {
+    graph.push({
+      "@type": "VideoObject",
+      name: episode.title,
+      description,
+      thumbnailUrl: youtubePoster(episode.youtubeId),
+      uploadDate: episode.published,
+      duration: isoDuration(episode.durationSeconds),
+      embedUrl: `https://www.youtube-nocookie.com/embed/${episode.youtubeId}`,
+      contentUrl: youtubeWatch(episode.youtubeId),
+      url: pageUrl,
+      hasPart: episode.chapters.map((chapter, index) => ({
+        "@type": "Clip",
+        name: chapter.title,
+        startOffset: chapter.seconds,
+        endOffset: episode.chapters[index + 1]?.seconds ?? episode.durationSeconds,
+        url: `${pageUrl}?t=${chapter.seconds}`,
+      })),
+      publisher: {
+        "@type": "Organization",
+        name: SITE.name,
+        url: SITE.url,
+      },
+    });
+  }
+
+  graph.push({
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: SITE.name,
+        item: SITE.url,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: episode.title,
+        item: pageUrl,
+      },
+    ],
+  });
 
   return (
     <>
       <JsonLd
         data={{
           "@context": "https://schema.org",
-          "@graph": [
-            {
-              "@type": "VideoObject",
-              name: episode.title,
-              description,
-              thumbnailUrl: youtubePoster(episode.youtubeId),
-              uploadDate: episode.published,
-              duration: isoDuration(episode.durationSeconds),
-              embedUrl: `https://www.youtube-nocookie.com/embed/${episode.youtubeId}`,
-              contentUrl: youtubeWatch(episode.youtubeId),
-              url: pageUrl,
-              hasPart: episode.chapters.map((chapter, index) => ({
-                "@type": "Clip",
-                name: chapter.title,
-                startOffset: chapter.seconds,
-                endOffset:
-                  episode.chapters[index + 1]?.seconds ?? episode.durationSeconds,
-                url: `${pageUrl}?t=${chapter.seconds}`,
-              })),
-              publisher: {
-                "@type": "Organization",
-                name: SITE.name,
-                url: SITE.url,
-              },
-            },
-            {
-              "@type": "BreadcrumbList",
-              itemListElement: [
-                {
-                  "@type": "ListItem",
-                  position: 1,
-                  name: SITE.name,
-                  item: SITE.url,
-                },
-                {
-                  "@type": "ListItem",
-                  position: 2,
-                  name: episode.title,
-                  item: pageUrl,
-                },
-              ],
-            },
-          ],
+          "@graph": graph,
         }}
       />
       <main>
@@ -127,8 +131,12 @@ export default async function EpisodePage({ params }: Props) {
           <p className="stand">{episode.description[0]}</p>
           <p className="tally">
             {episode.era}
-            {" · "}
-            {formatDuration(episode.durationSeconds)}
+            {episode.durationSeconds != null ? (
+              <>
+                {" · "}
+                {formatDuration(episode.durationSeconds)}
+              </>
+            ) : null}
             {" · "}
             <a href="#sources">{sourceLabel(sourceCount(episode))}</a>
             {" · "}
@@ -138,12 +146,16 @@ export default async function EpisodePage({ params }: Props) {
           </p>
         </header>
 
-        <Player youtubeId={episode.youtubeId} title={episode.title} />
-        <p className="tally watch-link">
-          <a href={youtubeWatch(episode.youtubeId)} rel="noopener">
-            Watch on YouTube
-          </a>
-        </p>
+        {episode.youtubeId ? (
+          <>
+            <Player youtubeId={episode.youtubeId} title={episode.title} />
+            <p className="tally watch-link">
+              <a href={youtubeWatch(episode.youtubeId)} rel="noopener">
+                Watch on YouTube
+              </a>
+            </p>
+          </>
+        ) : null}
 
         {rest.length ? (
           <div className="prose">
@@ -162,7 +174,7 @@ export default async function EpisodePage({ params }: Props) {
         <Chapters episode={episode} />
 
         <h2 id="sources">Sources</h2>
-        <p className="stand">{episode.accuracy}</p>
+        {episode.accuracy ? <p className="stand">{episode.accuracy}</p> : null}
         {episode.leftOut ? (
           <div className="caveat">
             <p className="lab">Deliberately left out</p>

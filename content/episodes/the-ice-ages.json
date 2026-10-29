@@ -1,0 +1,247 @@
+{
+  "number": 14,
+  "slug": "the-ice-ages",
+  "title": "The Ice Ages, What the Ice Left Behind",
+  "youtubeId": "prMrroxYwXE",
+  "published": "2026-10-28T17:00:34-07:00",
+  "durationSeconds": 6810,
+  "era": "2.6 million–11,700 years ago",
+  "description": [
+    "Tonight is about ice, and about what ice leaves behind. Not the ice itself, which is gone from nearly every place it once lay, but the traces: a hillside in Sicily with a dark layer in it, a core of mud from the bottom of the sea, a bubble of very old air, a boulder on a prairie, a shoreline on a mountainside above a salt flat, a cliff of wind-blown dust, and a single line in a column of Greenland ice. It runs from about two and a half million years ago to about eleven thousand seven hundred years ago, the formal start of the epoch we live in now, and it ends on a look back across the whole of it.",
+    "It is told through places and traces rather than through creatures. The large animals of the ice age are not in it, and neither is anyone who lived then. The cast is stone, mud, ice, air, water and the smallest traces of plants.",
+    "A good deal of tonight is honestly unsettled. What started the great ice in the north, whether the orbit of the Earth is the pacemaker of the ice or only a nudge, why the beat of the ice changed about a million years ago, how low the sea fell, what the word \"ice age\" should mean, and even a counting slip of 99 years against 69 at the base of the present epoch are all argued over, or differ between the pages. Where the sources disagree the episode says so aloud and keeps the voices apart.",
+    "It stays gentle throughout. Nothing hunts, nothing is in peril, and no one is harmed in the telling.",
+    "You do not need to follow any of it closely. If you're asleep before the line in the Greenland ice, that's the intended use.",
+    "Best with the lights off."
+  ],
+  "chapters": [
+    {
+      "time": "0:00",
+      "seconds": 0,
+      "title": "Settling"
+    },
+    {
+      "time": "7:52",
+      "seconds": 472,
+      "title": "The First Cold In The North"
+    },
+    {
+      "time": "18:39",
+      "seconds": 1119,
+      "title": "A Clock In The Mud"
+    },
+    {
+      "time": "24:50",
+      "seconds": 1490,
+      "title": "The Orbit And Its Limits"
+    },
+    {
+      "time": "33:58",
+      "seconds": 2038,
+      "title": "The Long Lull And The Longer Beat"
+    },
+    {
+      "time": "41:51",
+      "seconds": 2511,
+      "title": "The Air In The Ice"
+    },
+    {
+      "time": "49:11",
+      "seconds": 2951,
+      "title": "A Boulder On The Prairie"
+    },
+    {
+      "time": "56:39",
+      "seconds": 3399,
+      "title": "The Weight"
+    },
+    {
+      "time": "1:02:35",
+      "seconds": 3755,
+      "title": "The Yellow Dust"
+    },
+    {
+      "time": "1:08:58",
+      "seconds": 4138,
+      "title": "The Low Sea"
+    },
+    {
+      "time": "1:15:13",
+      "seconds": 4513,
+      "title": "Lakes That Are Not There"
+    },
+    {
+      "time": "1:21:47",
+      "seconds": 4907,
+      "title": "What Grew There"
+    },
+    {
+      "time": "1:28:44",
+      "seconds": 5324,
+      "title": "The Warm Gap"
+    },
+    {
+      "time": "1:35:10",
+      "seconds": 5710,
+      "title": "The Line In The Greenland Ice"
+    },
+    {
+      "time": "1:42:40",
+      "seconds": 6160,
+      "title": "Two And A Half Million Years, Measured"
+    },
+    {
+      "time": "1:51:30",
+      "seconds": 6690,
+      "title": "Wind-down"
+    }
+  ],
+  "accuracy": "Every factual claim traces to a named source, condensed below to those the narration leans on most. Where sources disagree, the episode gives both views. Many could only be read as abstracts, summaries or digests, and a few were behind bot checks and were not read; the narration says so aloud, and the list marks the thinner ones.",
+  "sources": [
+    {
+      "title": "The Sea Floor and the Orbit (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Lisiecki & Raymo (2005), Paleoceanography; Hays et al. (1976), Science"
+            },
+            {
+              "cite": "Winograd et al. (1992), Science (abstract only)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Change of Beat (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Clark et al. (2006), Quaternary Science Reviews; Willeit et al. (2019), Science Advances (abstracts only)"
+            },
+            {
+              "cite": "Berends et al. (2021), Reviews of Geophysics (abstract only)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Ice Cores (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Luthi et al. (2008), Nature; Jouzel et al. (2007), Science"
+            },
+            {
+              "cite": "EPICA community members (2004), Nature (abstract only)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Loess (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Schaetzl et al. (2018), Quaternary Research; Zhu et al. (2018), Surveys in Geophysics"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Boulder and the Rising Land (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Government of Alberta page; Guinness World Records (records page)"
+            },
+            {
+              "cite": "Poutanen & Steffen (2014), Geophysica"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Low Sea and the Lakes (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Peltier & Fairbanks (2006), Quaternary Science Reviews; Oviatt (2020), Geology of the Intermountain West"
+            },
+            {
+              "cite": "Lambeck et al. (2014), PNAS; Belanger et al. (2022), J. Quaternary Science (abstracts only)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Plants (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "NOAA and University of Arizona packrat slide set; Elias, \"Rodent Middens\" (review)"
+            },
+            {
+              "cite": "Whitlock & Bartlein (1997), Nature (abstract only)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Warm Gap (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "NEEM community members (2013), Nature; Dutton et al. (2015), Science"
+            },
+            {
+              "cite": "Rohling et al. (2019), Nature Communications"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Greenland Line (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Walker et al. (2009), J. Quaternary Science; Steffensen et al. (2008), Science"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Sicily Boundary (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Capraro et al. (2026), Quaternary Science Reviews; ICS Gelasian GSSP page"
+            },
+            {
+              "cite": "Shackleton et al. (1984), Nature (abstract only)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceNote": "Unmarked papers: full text, read through a summary tool."
+}

@@ -1,0 +1,219 @@
+{
+  "number": 11,
+  "slug": "the-ediacaran",
+  "title": "The Ediacaran Period, Life Before the Cambrian",
+  "youtubeId": "cAh0qQBa3qc",
+  "published": "2026-10-18T17:00:38-07:00",
+  "durationSeconds": 6340,
+  "era": "635–539 million years ago",
+  "description": [
+    "Tonight is about the long stretch of time before the Cambrian, about ninety-six million years of it, and about the first large bodies that left a mark in the rock. It begins at a pale band of limestone in a creek bed in South Australia, and it ends at a single trail in Newfoundland.",
+    "It is told through places: a deep, dark sea floor at Mistaken Point, where fronds were kept under volcanic ash; a quarry in Leicestershire, where a schoolgirl and then three schoolboys found a fossil in rock that was thought too old to hold one; a flat, ribbed oval called Dickinsonia; a trail the width of a grain of rice at Nilpena; and a few small white funnels in Namibia, among the first animals to build hard parts.",
+    "A good deal of tonight is honestly unsettled. Whether the branching fronds were animals is not known. Whether Dickinsonia was an animal rests on a chemical argument that others have questioned. What made some small round holes in the first shells, whether the Namibian reefs grew where they lie, how far the cold spell reached, and why the large bodies thin out near the end are all argued over. Where researchers disagree, it says so.",
+    "It stays gentle throughout. Nothing hunts, nothing is in peril, and the end of the period is told only as a before and an after, in the rock.",
+    "You do not need to follow any of it closely. If you're asleep before the trail, that's the intended use.",
+    "Best with the lights off."
+  ],
+  "chapters": [
+    {
+      "time": "0:00",
+      "seconds": 0,
+      "title": "Settling"
+    },
+    {
+      "time": "8:19",
+      "seconds": 499,
+      "title": "A Pale Cap In South Australia"
+    },
+    {
+      "time": "14:13",
+      "seconds": 853,
+      "title": "The Last Cold, And After"
+    },
+    {
+      "time": "20:55",
+      "seconds": 1255,
+      "title": "A Puzzle From Darwin"
+    },
+    {
+      "time": "30:48",
+      "seconds": 1848,
+      "title": "The Deep Sea At Mistaken Point"
+    },
+    {
+      "time": "37:34",
+      "seconds": 2254,
+      "title": "A Body Made Of Branches"
+    },
+    {
+      "time": "43:00",
+      "seconds": 2580,
+      "title": "A Community, Mapped"
+    },
+    {
+      "time": "48:20",
+      "seconds": 2900,
+      "title": "The Flat Giants"
+    },
+    {
+      "time": "53:34",
+      "seconds": 3214,
+      "title": "Animal Or Not"
+    },
+    {
+      "time": "1:01:21",
+      "seconds": 3681,
+      "title": "The First Small Traveller"
+    },
+    {
+      "time": "1:08:34",
+      "seconds": 4114,
+      "title": "Scratches On The Mat"
+    },
+    {
+      "time": "1:15:55",
+      "seconds": 4555,
+      "title": "The First Hard Parts"
+    },
+    {
+      "time": "1:23:46",
+      "seconds": 5026,
+      "title": "The Last Of The Big Soft Bodies"
+    },
+    {
+      "time": "1:32:23",
+      "seconds": 5543,
+      "title": "A Trail In Newfoundland"
+    },
+    {
+      "time": "1:36:52",
+      "seconds": 5812,
+      "title": "Ninety-Six Million Years"
+    },
+    {
+      "time": "1:40:43",
+      "seconds": 6043,
+      "title": "Wind-down"
+    }
+  ],
+  "accuracy": "Every factual claim traces to a named source, listed below. Where sources disagree, the episode gives the range or both views. Several of the papers could not be read in full, because publisher pages were blocked; for those the narration says aloud that only a summary, a press report or a general reference was read, and the list below marks them.",
+  "sources": [
+    {
+      "title": "The Period and Its Edges",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "International Commission on Stratigraphy, summary of the Ediacaran boundary stratotype (Enorama Creek, South Australia); the Fortune Head section, Newfoundland"
+            },
+            {
+              "cite": "Pu et al. (2016), Geology — the Gaskiers glaciation, the first large fossils, and the dating of the Mistaken Point ash"
+            },
+            {
+              "cite": "Wikipedia, \"Ediacaran\" and \"Ediacaran biota\" — general reference, used where papers could not be reached"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Discoveries",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Darwin (1859), On the Origin of Species — the puzzle of the missing older fossils (recalled, not re-read)"
+            },
+            {
+              "cite": "Ford (2011), Mercian Geologist — the Charnwood Forest discovery, a first-hand account"
+            },
+            {
+              "cite": "Wikipedia, \"Charnia\" and \"Tina Negus\"; Earth Archives magazine article on Ediacara — the quarry, the schoolgirl and the Ediacara Hills"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mistaken Point and the Fronds",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "IUGS Geoheritage entry for Mistaken Point"
+            },
+            {
+              "cite": "Mitchell et al. (2015), Nature — the mapped community (university summary only)"
+            },
+            {
+              "cite": "Vixseboxse et al. (2021), Frontiers in Earth Science — how the fronds stood"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dickinsonia, and Whether It Was an Animal (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Bobrovskiy et al. (2018), Science — the cholesterol evidence"
+            },
+            {
+              "cite": "Science News (2018); Love & Zumberge (2021), as summarised in a general reference — the response (paper not read)"
+            },
+            {
+              "cite": "Sperling & Vinther (2010), Evolution & Development — the placozoan idea (title only)"
+            },
+            {
+              "cite": "Hakai Magazine (2019), on the Nilpena excavation and the Slime travelers paper (magazine report only)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Small Traveller and the Scratches",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Evans et al. (2020), PNAS; UC Riverside news (2020) — Ikaria wariootia (press release and general reference only)"
+            },
+            {
+              "cite": "Gehling, Runnegar & Droser (2014), Journal of Paleontology — the scratch traces"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The First Hard Parts",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Penny et al. (2014), Science — the Namibian reefs (summary only); Mehra & Maloof (2018) — the dispute (disputed)"
+            },
+            {
+              "cite": "Schiffbauer et al. (2024), Journal of Paleontology — the terminal Ediacaran tubes, and earlier work on the small holes (the 2003 Hua et al. paper itself was not read)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The End of the Period (disputed)",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Darroch et al. (2015), Proceedings of the Royal Society B — the thinning (press summary only)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

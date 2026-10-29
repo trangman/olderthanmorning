@@ -1,0 +1,230 @@
+{
+  "number": 5,
+  "slug": "the-coal-forests",
+  "title": "The Coal Forests, When Insects Grew as Big as Gulls",
+  "youtubeId": "8gy_kc3DAr8",
+  "published": "2026-09-27T18:58:21-07:00",
+  "durationSeconds": 5631,
+  "era": "359–299 million years ago",
+  "description": [
+    "Tonight, a world breathing air richer than the air in the room you're lying in right now. For about sixty million years, huge tracts of the land near the equator stood as forest — dense, strange, built nothing like a modern one — and huge tracts of that forest were, one way or another, on their way to becoming something else entirely.",
+    "There are some very large animals in this one. An insect with a gull's wingspan. A millipede longer than you are tall. Neither is anything to be wary of. The insect eats other insects, calmly, the way insects always have. The millipede almost certainly ate old leaves. Nothing tonight hunts, or is hunted, or is described that way, however large it gets.",
+    "It's a story about an atmosphere thick enough to grow giants, a forest that photosynthesised through its bark, and a small, dry-skinned animal that quietly worked out how to leave water behind for good — found inside the hollow stump of one of this episode's own trees. Underneath it all, a swamp turning slowly into the single largest fuel reserve this planet has ever laid down, one drowned forest at a time.",
+    "You do not need to follow closely. If you drift off before the forest does, and wake up with no idea how you got there, that is the intended use.",
+    "Best with the lights off."
+  ],
+  "chapters": [
+    {
+      "time": "0:00",
+      "seconds": 0,
+      "title": "Settling"
+    },
+    {
+      "time": "9:15",
+      "seconds": 555,
+      "title": "Where We Are"
+    },
+    {
+      "time": "16:07",
+      "seconds": 967,
+      "title": "The Air Itself"
+    },
+    {
+      "time": "24:42",
+      "seconds": 1482,
+      "title": "The Standing Forests"
+    },
+    {
+      "time": "30:00",
+      "seconds": 1800,
+      "title": "What Grew Beneath Them"
+    },
+    {
+      "time": "34:24",
+      "seconds": 2064,
+      "title": "The Dragonfly"
+    },
+    {
+      "time": "38:29",
+      "seconds": 2309,
+      "title": "The Armoured Millipede"
+    },
+    {
+      "time": "44:16",
+      "seconds": 2656,
+      "title": "Life That Still Needed Water"
+    },
+    {
+      "time": "47:57",
+      "seconds": 2877,
+      "title": "The First Dry Egg"
+    },
+    {
+      "time": "54:37",
+      "seconds": 3277,
+      "title": "How A Swamp Becomes Coal"
+    },
+    {
+      "time": "1:02:25",
+      "seconds": 3745,
+      "title": "A Sea That Keeps Coming Back"
+    },
+    {
+      "time": "1:07:16",
+      "seconds": 4036,
+      "title": "The Forests Thin Out"
+    },
+    {
+      "time": "1:12:13",
+      "seconds": 4333,
+      "title": "What The Drier Patches Favoured"
+    },
+    {
+      "time": "1:17:17",
+      "seconds": 4637,
+      "title": "What The Forests Left Behind"
+    },
+    {
+      "time": "1:21:12",
+      "seconds": 4872,
+      "title": "What We Dig Up Now"
+    },
+    {
+      "time": "1:25:38",
+      "seconds": 5138,
+      "title": "Wind-down"
+    }
+  ],
+  "accuracy": "Every factual claim traces to a named, published source, listed below. Where researchers disagree — how much of these animals' size the air really explains, what the largest actually ate and where it lived, whether the \"first reptile\" still earns that title, how patchy the forest's decline really was — the episode says so rather than picking the tidier answer.",
+  "sources": [
+    {
+      "title": "The Carboniferous World",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Wikipedia, \"Carboniferous\" — the Euramerica/Gondwana collision, the equatorial coal belt, the \"everwet\" climate",
+              "url": "https://en.wikipedia.org/wiki/Carboniferous"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Oxygen and Insect Gigantism",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Wikipedia, \"Meganisoptera\" — the 30–35% oxygen estimate, Meganeura's wingspan, and the history of the gigantism debate",
+              "url": "https://en.wikipedia.org/wiki/Meganisoptera"
+            },
+            {
+              "cite": "Ellers & Gordon (2024), \"Induced Power Scaling Alone Cannot Explain Griffenfly Gigantism\" — a recent challenge to a pure-oxygen explanation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Standing Forest",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Wikipedia, \"Lepidodendron,\" \"Sigillaria,\" \"Calamites,\" \"Cordaites\" — growth habit, photosynthetic bark, spore reproduction",
+              "url": "https://en.wikipedia.org/wiki/Lepidodendron"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Arthropleura",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Davies et al. (2021), Journal of the Geological Society — the 2018 Howick Bay find and revised maximum size",
+              "url": "https://pubs.geoscienceworld.org/gsl/jgs/article-abstract/179/3/jgs2021-115/610403"
+            },
+            {
+              "cite": "Natural History Museum news coverage, and Wikipedia, \"Arthropleura\" — on the genuine uncertainty over diet and habitat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hylonomus and the First Dry Egg",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Wikipedia, \"Hylonomus\" — the 1852 Joggins discovery and its traditional \"first reptile\" status",
+              "url": "https://en.wikipedia.org/wiki/Hylonomus"
+            },
+            {
+              "cite": "Jenkins et al. (2025), Peer Community Journal, and Carroll (1988), Nature — the original claim and this year's challenge to it"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Coal Formation",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Nelsen, DiMichele, Peters & Boyce (2016), PNAS 113(9):2442-2447, \"Delayed fungal evolution did not cause the Paleozoic peak in coal production\" — rejecting the old lignin-lag explanation",
+              "url": "https://www.pnas.org/doi/10.1073/pnas.1517943113"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sea-level Cycles",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Wikipedia, \"Cyclothem\" and \"Late Paleozoic Icehouse\" — the repeating forest/sea sequence and its glacial driver",
+              "url": "https://en.wikipedia.org/wiki/Cyclothem"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Rainforest Collapse",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Wikipedia, \"Carboniferous rainforest collapse\" — timing and the staged, regionally patchy decline",
+              "url": "https://en.wikipedia.org/wiki/Carboniferous_rainforest_collapse"
+            },
+            {
+              "cite": "Sahney, Benton & Falcon-Lang (2010), Geology, and Dunne et al. (2018), Proceedings of the Royal Society B — the original pattern and a later challenge to it"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Discovery and Modern Sites",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Wikipedia, \"Joggins Fossil Cliffs\" — UNESCO status, the Bay of Fundy's tidal range",
+              "url": "https://en.wikipedia.org/wiki/Joggins_Fossil_Cliffs"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

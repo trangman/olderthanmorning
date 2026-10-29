@@ -1,0 +1,743 @@
+{
+  "number": 1,
+  "slug": "the-age-of-dinosaurs",
+  "title": "The Age of Dinosaurs, Beginning to End",
+  "youtubeId": "Ra9SumKZ0wI",
+  "published": "2026-09-12T22:49:09-07:00",
+  "durationSeconds": 5763,
+  "era": "230–66 million years ago",
+  "description": [
+    "Tonight, the entire age of the dinosaurs, from the beginning of it to the end of it, in order, without hurrying. About a hundred and sixty-five million years, at a pace meant for falling asleep.",
+    "There is an asteroid in this story and you already know about it. It arrives near the end, it gets a short chapter — shorter than the chapter about ferns — and it is not the ending. The ending is the chapter after it, and that one is about birds.",
+    "No jeopardy, no countdown, nothing waiting in the dark. Everything here finished a very long time ago, and most of it did not finish at all.",
+    "Best with the lights off."
+  ],
+  "chapters": [
+    {
+      "time": "0:00",
+      "seconds": 0,
+      "title": "Settling"
+    },
+    {
+      "time": "4:40",
+      "seconds": 280,
+      "title": "Where We Are"
+    },
+    {
+      "time": "10:14",
+      "seconds": 614,
+      "title": "The First Ones Were Small"
+    },
+    {
+      "time": "15:57",
+      "seconds": 957,
+      "title": "The Weather That Would Not Settle"
+    },
+    {
+      "time": "23:32",
+      "seconds": 1412,
+      "title": "The World Comes Apart"
+    },
+    {
+      "time": "28:39",
+      "seconds": 1719,
+      "title": "How You Build Something Very Large"
+    },
+    {
+      "time": "36:58",
+      "seconds": 2218,
+      "title": "The Jurassic Air"
+    },
+    {
+      "time": "41:44",
+      "seconds": 2504,
+      "title": "What There Was To Eat"
+    },
+    {
+      "time": "46:12",
+      "seconds": 2772,
+      "title": "The Flowers Arrive"
+    },
+    {
+      "time": "55:03",
+      "seconds": 3303,
+      "title": "The Continents Drift Apart"
+    },
+    {
+      "time": "58:51",
+      "seconds": 3531,
+      "title": "Feathers, And Some Of The Colours"
+    },
+    {
+      "time": "1:06:57",
+      "seconds": 4017,
+      "title": "Nests"
+    },
+    {
+      "time": "1:13:21",
+      "seconds": 4401,
+      "title": "An Ordinary Morning"
+    },
+    {
+      "time": "1:21:02",
+      "seconds": 4862,
+      "title": "The Day"
+    },
+    {
+      "time": "1:25:20",
+      "seconds": 5120,
+      "title": "The Ones That Kept Going"
+    },
+    {
+      "time": "1:32:53",
+      "seconds": 5573,
+      "title": "Wind-down"
+    }
+  ],
+  "accuracy": "Every factual claim in The Age of Dinosaurs, Beginning to End traces to one of these. Where researchers disagree — and in this episode they disagree about a great deal, including when flowers appeared and what colour any of these animals were — the episode says so, and both sides are listed here rather than only the tidier one.",
+  "sources": [
+    {
+      "title": "The First Ones Were Small",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Sereno, P.C., Forster, C.A., Rogers, R.R. & Monetta, A.M. 1993. Primitive dinosaur skeleton from Argentina and the early evolution of Dinosauria. Nature 361:64-66.",
+              "url": "https://doi.org/10.1038/361064a0"
+            },
+            {
+              "cite": "Martinez, R.N. et al. 2011. A basal dinosaur from the dawn of the dinosaur era in southwestern Pangaea. Science 331:206-210.",
+              "url": "https://doi.org/10.1126/science.1198467"
+            },
+            {
+              "cite": "Benton, M.J., Forth, J. & Langer, M.C. 2014. Models for the rise of the dinosaurs. Current Biology 24:R87-R95.",
+              "url": "https://doi.org/10.1016/j.cub.2013.11.063"
+            }
+          ]
+        }
+      ],
+      "age": "231–225 Ma"
+    },
+    {
+      "title": "The Weather That Would Not Settle",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "(the Carnian Pluvial Episode)."
+            }
+          ]
+        },
+        {
+          "label": "Timing, structure and cause",
+          "tone": "plain",
+          "sources": [
+            {
+              "cite": "Dal Corso, J. et al. 2020. Extinction and dawn of the modern world in the Carnian (Late Triassic). Science Advances 6:eaba0099.",
+              "url": "https://doi.org/10.1126/sciadv.aba0099"
+            },
+            {
+              "cite": "Dal Corso, J. 2025. Carnian Events. Albertiana 49:1-11.",
+              "url": "https://albertiana-sts.org/wp-content/uploads/2025/05/49_1_DalCorso.pdf",
+              "note": "the source for \"the vision of the CPE as a single pluvial episode is incorrect\", for the four pulses of 41-318 kyr, and for the 1.2-1.6 Myr duration.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Zhang, P. et al. 2025. Repeated pulses of volcanism drove the Late Triassic Carnian Pluvial episode. Global and Planetary Change 255:105112.",
+              "url": "https://doi.org/10.1016/j.gloplacha.2025.105112",
+              "note": "the four mercury pulses, and the 405-kyr orbital pacing.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Zhao, X. et al. 2025. Climate-carbon-cycle interactions and spatial heterogeneity of the late Triassic Carnian pluvial episode. Nature Communications 16:5404.",
+              "url": "https://doi.org/10.1038/s41467-025-61262-7",
+              "note": "rainfall rose at the equator and high latitudes and FELL in the subtropics.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Mazaheri-Johari, M. et al. 2021. Mercury deposition in Western Tethys during the Carnian Pluvial Episode. Scientific Reports 11:17339.",
+              "url": "https://doi.org/10.1038/s41598-021-96890-8"
+            },
+            {
+              "cite": "Simms, M.J. & Ruffell, A.H. 1989. Synchroneity of climatic change and extinctions in the Late Triassic. Geology 17:265-268."
+            }
+          ]
+        },
+        {
+          "label": "The dinosaur link — argued FOR",
+          "tone": "for",
+          "sources": [
+            {
+              "cite": "Bernardi, M., Gianolla, P., Petti, F.M., Mietto, P. & Benton, M.J. 2018. Dinosaur diversification linked with the Carnian Pluvial Episode. Nature Communications 9:1499.",
+              "url": "https://doi.org/10.1038/s41467-018-03996-1"
+            },
+            {
+              "cite": "Benton, M.J., Bernardi, M. & Kinsella, C. 2018. The Carnian Pluvial Episode and the origin of dinosaurs. Journal of the Geological Society 175:1019-1026.",
+              "url": "https://doi.org/10.1144/jgs2018-049"
+            }
+          ]
+        },
+        {
+          "label": "The dinosaur link — argued AGAINST, or complicated",
+          "tone": "against",
+          "sources": [
+            {
+              "cite": "Griffin, C.T. et al. 2022. Africa's oldest dinosaurs reveal early suppression of dinosaur distribution. Nature 609:313-319.",
+              "url": "https://doi.org/10.1038/s41586-022-05133-x"
+            },
+            {
+              "cite": "Dunne, E.M. et al. 2023. Climatic controls on the ecological ascendancy of dinosaurs. Current Biology 33:206-214.",
+              "url": "https://doi.org/10.1016/j.cub.2022.11.064"
+            },
+            {
+              "cite": "Heath, J.A., Cooper, N., Upchurch, P. & Mannion, P.D. 2025. Accounting for sampling heterogeneity suggests a low paleolatitude origin for dinosaurs. Current Biology 35:941-953.",
+              "url": "https://doi.org/10.1016/j.cub.2024.12.053"
+            },
+            {
+              "cite": "Lovelace, D.M. et al. 2025. Rethinking dinosaur origins: oldest known equatorial dinosaur-bearing assemblage. Zoological Journal of the Linnean Society 203:zlae153.",
+              "url": "https://doi.org/10.1093/zoolinnean/zlae153"
+            },
+            {
+              "cite": "Martinez, R.N. et al. 2025. A Carnian theropod with unexpectedly derived features during the first dinosaur radiation. Nature Ecology & Evolution 9:2238-2247.",
+              "url": "https://doi.org/10.1038/s41559-025-02868-4",
+              "note": "early dinosaurs diversifying under semi-arid conditions, with a gap in the record beginning at 228.91 Ma as it became more humid.",
+              "noteKind": "plain"
+            }
+          ]
+        }
+      ],
+      "age": "234–232 Ma"
+    },
+    {
+      "title": "The World Comes Apart",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "(end-Triassic extinction and the Central Atlantic Magmatic Province)."
+            },
+            {
+              "cite": "Blackburn, T.J. et al. 2013. Zircon U-Pb geochronology links the end-Triassic extinction with the Central Atlantic Magmatic Province. Science 340:941-945.",
+              "url": "https://doi.org/10.1126/science.1234204"
+            },
+            {
+              "cite": "Marzoli, A. et al. 1999. Extensive 200-million-year-old continental flood basalts of the Central Atlantic Magmatic Province. Science 284:616-618.",
+              "url": "https://doi.org/10.1126/science.284.5414.616"
+            }
+          ]
+        }
+      ],
+      "age": "201 Ma"
+    },
+    {
+      "title": "How You Build Something Very Large",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Sander, P.M. et al. 2011. Biology of the sauropod dinosaurs: the evolution of gigantism. Biological Reviews 86:117-155.",
+              "url": "https://doi.org/10.1111/j.1469-185X.2010.00137.x",
+              "note": "the standing source for not chewing, the fermenting gut, and the neck.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "O'Connor, P.M. & Claessens, L.P.A.M. 2005. Basic avian pulmonary design and flow-through ventilation in non-avian theropod dinosaurs. Nature 436:253-256.",
+              "url": "https://doi.org/10.1038/nature03716"
+            },
+            {
+              "cite": "Wedel, M.J. 2003. Vertebral pneumaticity, air sacs, and the physiology of sauropod dinosaurs. Paleobiology 29:243-255."
+            },
+            {
+              "cite": "Erickson, G.M. et al. 2001. Dinosaurian growth patterns and rapid avian growth rates. Nature 412:429-433.",
+              "url": "https://doi.org/10.1038/35086558"
+            }
+          ]
+        }
+      ],
+      "age": "200–150 Ma"
+    },
+    {
+      "title": "The Jurassic Air",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Xu, X., Zhou, Z., Dudley, R., Mackem, S., Chuong, C.-M., Erickson, G.M. & Varricchio, D.J. 2014. An integrative approach to understanding bird origins. Science 346:1253293.",
+              "url": "https://doi.org/10.1126/science.1253293",
+              "note": "\"nearly all published numerical phylogenetic analyses support\" birds as maniraptoran theropods.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Brusatte, S.L., O'Connor, J.K. & Jarvis, E.D. 2015. The origin and diversification of birds. Current Biology 25:R888-R898.",
+              "url": "https://doi.org/10.1016/j.cub.2015.08.003"
+            },
+            {
+              "cite": "Gauthier, J. 1986. Saurischian monophyly and the origin of birds. Memoirs of the California Academy of Sciences 8:1-55."
+            },
+            {
+              "cite": "Gauthier, J. & de Queiroz, K. 2001. Feathered dinosaurs, flying dinosaurs, crown dinosaurs, and the name \"Aves\". In: New Perspectives on the Origin and Early Evolution of Birds, Peabody Museum, pp. 7-41."
+            }
+          ]
+        },
+        {
+          "label": "On feathers in ornithischians, which is contested",
+          "tone": "against",
+          "sources": [
+            {
+              "cite": "Zheng, X.-T., You, H.-L., Xu, X. & Dong, Z.-M. 2009. An Early Cretaceous heterodontosaurid dinosaur with filamentous integumentary structures. Nature 458:333-336.",
+              "url": "https://doi.org/10.1038/nature07856"
+            },
+            {
+              "cite": "Godefroit, P. et al. 2014. A Jurassic ornithischian dinosaur from Siberia with both feathers and scales. Science 345:451-455.",
+              "url": "https://doi.org/10.1126/science.1253351"
+            }
+          ]
+        }
+      ],
+      "age": "165–150 Ma"
+    },
+    {
+      "title": "The Flowers Arrive",
+      "groups": [
+        {
+          "label": "The fossil position",
+          "tone": "for",
+          "sources": [
+            {
+              "cite": "Herendeen, P.S., Friis, E.M., Pedersen, K.R. & Crane, P.R. 2017. Palaeobotanical redux: revisiting the age of the angiosperms. Nature Plants 3:17015.",
+              "url": "https://doi.org/10.1038/nplants.2017.15"
+            },
+            {
+              "cite": "Gravendyck, J., Krencker, F.-N., Riding, J.B., Coimbra, R. & Heimhofer, U. 2025. Rise of angiosperms. PNAS 122:e2421470122.",
+              "url": "https://doi.org/10.1073/pnas.2421470122",
+              "note": "earliest high-confidence eudicot pollen dated to ~123.0 Ma, Portugal.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Coiro, M., Doyle, J.A. & Hilton, J. 2019. How deep is the conflict between molecular and fossil evidence on the age of angiosperms? New Phytologist 223:83-99.",
+              "url": "https://doi.org/10.1111/nph.15708"
+            }
+          ]
+        },
+        {
+          "label": "The molecular position, and the size of the disagreement",
+          "tone": "against",
+          "sources": [
+            {
+              "cite": "Sauquet, H., Ramirez-Barahona, S. & Magallon, S. 2022. What is the age of flowering plants? Journal of Experimental Botany 73:3840-3853.",
+              "url": "https://doi.org/10.1093/jxb/erac130",
+              "note": "the 140-270 Ma span, and the finding that disagreements \"mostly reflect conflicting prior distributions\" rather than conflicting data.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Magallon, S. et al. 2015. A metacalibrated time-tree documents the early rise of flowering plant phylogenetic diversity. New Phytologist 207:437-453.",
+              "url": "https://doi.org/10.1111/nph.13264",
+              "note": "a molecular study that agrees with the palaeobotanists.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Silvestro, D. et al. 2021. Fossil data support a pre-Cretaceous origin of flowering plants. Nature Ecology & Evolution 5:449-457.",
+              "url": "https://doi.org/10.1038/s41559-020-01387-8",
+              "note": "a FOSSIL-ONLY study that supports a pre-Cretaceous origin.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Li, H.-T. et al. 2019. Origin of angiosperms and the puzzle of the Jurassic gap. Nature Plants 5:461-470.",
+              "url": "https://doi.org/10.1038/s41477-019-0421-0"
+            }
+          ]
+        },
+        {
+          "label": "Recent narrowing, and the study that disagrees with the narrowing",
+          "tone": "against",
+          "sources": [
+            {
+              "cite": "Wu, S. et al. 2026. [Bayesian Brownian bridge analysis of 25,685 fossil occurrences]. Nature Plants 12:1242-1251. — origin ~153-151 Ma.",
+              "url": "https://doi.org/10.1038/s41477-026-02311-x"
+            },
+            {
+              "cite": "Clark, J.W. & Donoghue, P.C.J. 2025. Royal Society Open Science 12:242158. — latest Jurassic to Early Cretaceous.",
+              "url": "https://doi.org/10.1098/rsos.242158"
+            },
+            {
+              "cite": "Ma, X. et al. 2025. Nature Communications 16:2265. — still recovers a Triassic origin.",
+              "url": "https://doi.org/10.1038/s41467-025-57687-9"
+            }
+          ]
+        },
+        {
+          "label": "Disputed early fossils",
+          "tone": "against",
+          "sources": [
+            {
+              "cite": "Fu, Q. et al. 2018. An unexpected noncarpellate epigynous flower from the Jurassic of China. eLife 7:e38827.",
+              "url": "https://doi.org/10.7554/eLife.38827"
+            },
+            {
+              "cite": "Sokoloff, D.D., Remizowa, M.V., El, E.S., Rudall, P.J. & Bateman, R.M. 2020. Supposed Jurassic angiosperms lack pentamery, an important angiosperm-specific feature. New Phytologist 228:420-426.",
+              "url": "https://doi.org/10.1111/nph.15974"
+            }
+          ]
+        },
+        {
+          "label": "Darwin's phrase",
+          "tone": "plain",
+          "sources": [
+            {
+              "cite": "Darwin, C. Letter to J.D. Hooker, 22 July 1879. Darwin Correspondence Project, letter no. 12167.",
+              "url": "https://www.darwinproject.ac.uk/letter/DCP-LETT-12167.xml"
+            }
+          ]
+        },
+        {
+          "label": "Ecological dominance, and what it did to the animals",
+          "tone": "plain",
+          "sources": [
+            {
+              "cite": "Benton, M.J., Wilf, P. & Sauquet, H. 2022. The Angiosperm Terrestrial Revolution and the origins of modern biodiversity. New Phytologist 233:2017-2035.",
+              "url": "https://doi.org/10.1111/nph.17822"
+            },
+            {
+              "cite": "Lee, S. et al. 2026. [Late Campanian angiosperm-dominated closed-canopy forest, New Mexico]. Science 392:1380-1383.",
+              "url": "https://doi.org/10.1126/science.adw9457",
+              "note": "~80 diaspore morphotypes at 74.6 Ma, nine million years before the impact.",
+              "noteKind": "plain"
+            }
+          ]
+        }
+      ],
+      "age": "130–90 Ma"
+    },
+    {
+      "title": "Feathers, and Some of the Colours",
+      "groups": [
+        {
+          "label": "The method",
+          "tone": "plain",
+          "sources": [
+            {
+              "cite": "Vinther, J., Briggs, D.E.G., Prum, R.O. & Saranathan, V. 2008. The colour of fossil feathers. Biology Letters 4:522-525.",
+              "url": "https://doi.org/10.1098/rsbl.2008.0302"
+            },
+            {
+              "cite": "Vinther, J. 2020. Reconstructing vertebrate paleocolor. Annual Review of Earth and Planetary Sciences 48:345-375.",
+              "url": "https://doi.org/10.1146/annurev-earth-073019-045641"
+            }
+          ]
+        },
+        {
+          "label": "The reconstructions named in the episode",
+          "tone": "plain",
+          "sources": [
+            {
+              "cite": "Zhang, F. et al. 2010. Fossilized melanosomes and the colour of Cretaceous dinosaurs and birds. Nature 463:1075-1078. (Sinosauropteryx).",
+              "url": "https://doi.org/10.1038/nature08740"
+            },
+            {
+              "cite": "Li, Q. et al. 2010. Plumage color patterns of an extinct dinosaur. Science 327:1369-1372. (Anchiornis).",
+              "url": "https://doi.org/10.1126/science.1186290"
+            },
+            {
+              "cite": "Li, Q. et al. 2012. Reconstruction of Microraptor and the evolution of iridescent plumage. Science 335:1215-1219.",
+              "url": "https://doi.org/10.1126/science.1213780"
+            },
+            {
+              "cite": "Hu, D. et al. 2018. A bony-crested Jurassic dinosaur with evidence of iridescent plumage. Nature Communications 9:217. (Caihong — the authors state that hue \"cannot be reconstructed\").",
+              "url": "https://doi.org/10.1038/s41467-017-02515-y"
+            },
+            {
+              "cite": "Vinther, J. et al. 2016. 3D camouflage in an ornithischian dinosaur. Current Biology 26:2456-2462. (Psittacosaurus, and the closed-canopy habitat inference).",
+              "url": "https://doi.org/10.1016/j.cub.2016.06.065"
+            },
+            {
+              "cite": "Smithwick, F.M., Nicholls, R., Cuthill, I.C. & Vinther, J. 2017. Countershading and stripes in the theropod dinosaur Sinosauropteryx reveal heterogeneous habitats in the Early Cretaceous Jehol Biota. Current Biology 27:3337-3343. (the bandit mask, and the open-habitat inference).",
+              "url": "https://doi.org/10.1016/j.cub.2017.09.032"
+            }
+          ]
+        },
+        {
+          "label": "The criticisms, which the episode gives at length",
+          "tone": "against",
+          "sources": [
+            {
+              "cite": "Moyer, A.E. et al. 2014. Melanosomes or microbes: testing an alternative hypothesis for the origin of microbodies in fossil feathers. Scientific Reports 4:4233.",
+              "url": "https://doi.org/10.1038/srep04233"
+            },
+            {
+              "cite": "Schweitzer, M.H., Lindgren, J. & Moyer, A.E. 2015. Melanosomes and ancient coloration re-examined. BioEssays 37:1174-1183.",
+              "url": "https://doi.org/10.1002/bies.201500061"
+            },
+            {
+              "cite": "McNamara, M.E., Briggs, D.E.G., Orr, P.J., Field, D.J. & Wang, Z. 2013. Experimental maturation of feathers: implications for reconstructions of fossil feather colour. Biology Letters 9:20130184. — the 18-20% shrinkage figure.",
+              "url": "https://doi.org/10.1098/rsbl.2013.0184"
+            },
+            {
+              "cite": "Pinheiro, F.L. et al. 2019. Chemical characterization of pterosaur melanin challenges color inferences in extinct animals. Scientific Reports 9:15947. — eumelanin found inside phaeomelanosome-shaped bodies.",
+              "url": "https://doi.org/10.1038/s41598-019-52318-y"
+            },
+            {
+              "cite": "Li, X. et al. 2025. High melanosome diversity exhibits weak correlation with color. Science Advances 11:eadw8707.",
+              "url": "https://doi.org/10.1126/sciadv.adw8707"
+            },
+            {
+              "cite": "Colleary, C. et al. 2015. Chemical, experimental, and morphological evidence for diagenetically altered melanin in exceptionally preserved fossils. PNAS 112:12592-12597.",
+              "url": "https://doi.org/10.1073/pnas.1509831112"
+            }
+          ]
+        },
+        {
+          "label": "The deposits, and their dating",
+          "tone": "plain",
+          "sources": [
+            {
+              "cite": "Zhou, Z. 2014. The Jehol Biota, an Early Cretaceous terrestrial Lagerstatte. National Science Review 1:543-559.",
+              "url": "https://doi.org/10.1093/nsr/nwu055"
+            },
+            {
+              "cite": "Yang, Z. et al. 2020. Was the Jehol Biota a modern-type ecosystem? PNAS 117:14299-14305.",
+              "url": "https://doi.org/10.1073/pnas.1918272117",
+              "note": "Jehol ~135-120 Ma.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Jiang, B. et al. 2014. Pyroclastic density currents are responsible for exquisite preservation of the Jehol Biota. Nature Communications 5:3151.",
+              "url": "https://doi.org/10.1038/ncomms4151"
+            }
+          ]
+        }
+      ],
+      "age": "160–120 Ma"
+    },
+    {
+      "title": "Nests",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "Horner, J.R. & Makela, R. 1979. Nest of juveniles provides evidence of family structure among dinosaurs. Nature 282:296-298.",
+              "url": "https://doi.org/10.1038/282296a0"
+            },
+            {
+              "cite": "Horner, J.R. 1982. Evidence of colonial nesting and site fidelity among ornithischian dinosaurs. Nature 297:675-676.",
+              "url": "https://doi.org/10.1038/297675a0"
+            },
+            {
+              "cite": "Norell, M.A., Clark, J.M., Chiappe, L.M. & Dashzeveg, D. 1995. A nesting dinosaur. Nature 378:774-776.",
+              "url": "https://doi.org/10.1038/378774a0",
+              "note": "the brooding oviraptorosaur, and the correction of the egg-thief story.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Deeming, D.C. 2006. Ultrastructural and functional morphology of eggshells supports idea that dinosaur eggs were incubated buried in a substrate. Palaeontology 49:171-185. — the eggshell pore method.",
+              "url": "https://doi.org/10.1111/j.1475-4983.2005.00536.x"
+            },
+            {
+              "cite": "Wiemann, J. et al. 2017. Dinosaur origin of egg color: oviraptors laid blue-green eggs. PeerJ 5:e3706.",
+              "url": "https://doi.org/10.7717/peerj.3706"
+            },
+            {
+              "cite": "Erickson, G.M. et al. 2001. Dinosaurian growth patterns and rapid avian growth rates. Nature 412:429-433.",
+              "url": "https://doi.org/10.1038/35086558"
+            }
+          ]
+        }
+      ],
+      "age": "80–70 Ma"
+    },
+    {
+      "title": "An Ordinary Morning",
+      "groups": [
+        {
+          "sources": [
+            {
+              "cite": "(Hell Creek, and the large predator)."
+            },
+            {
+              "cite": "Erickson, G.M. et al. 2004. Gigantism and comparative life-history parameters of tyrannosaurid dinosaurs. Nature 430:772-775. — the growth curve, and ~2 kg/day.",
+              "url": "https://doi.org/10.1038/nature02699"
+            },
+            {
+              "cite": "Brusatte, S.L. et al. 2010. Tyrannosaur paleobiology: new research on ancient exemplar organisms. Science 329:1481-1485.",
+              "url": "https://doi.org/10.1126/science.1193304"
+            },
+            {
+              "cite": "Witmer, L.M. & Ridgely, R.C. 2009. New insights into the brain, braincase, and ear region of tyrannosaurs. The Anatomical Record 292:1266-1296. — olfactory regions and low-frequency hearing.",
+              "url": "https://doi.org/10.1002/ar.20983"
+            },
+            {
+              "cite": "Bell, P.R. et al. 2017. Tyrannosauroid integument reveals conflicting patterns of gigantism and feather evolution. Biology Letters 13:20170092. — the scale impressions, and why the feather question is still open.",
+              "url": "https://doi.org/10.1098/rsbl.2017.0092"
+            },
+            {
+              "cite": "Woodward, H.N. et al. 2020. Growing up Tyrannosaurus rex. Science Advances 6:eaax6250.",
+              "url": "https://doi.org/10.1126/sciadv.aax6250",
+              "note": "the juveniles as ecologically distinct animals.",
+              "noteKind": "plain"
+            }
+          ]
+        }
+      ],
+      "age": "66.5 Ma"
+    },
+    {
+      "title": "The Day",
+      "groups": [
+        {
+          "label": "Date, size, angle, impactor",
+          "tone": "plain",
+          "sources": [
+            {
+              "cite": "Renne, P.R. et al. 2013. Time scales of critical events around the Cretaceous-Paleogene boundary. Science 339:684-687.",
+              "url": "https://doi.org/10.1126/science.1230492"
+            },
+            {
+              "cite": "Schmieder, M. & Kring, D.A. 2020. Earth's impact events through geologic time. Astrobiology 20:91-141.",
+              "url": "https://doi.org/10.1089/ast.2019.2085",
+              "note": "66.052 +/- 0.043 Ma.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Collins, G.S. et al. 2020. A steeply-inclined trajectory for the Chicxulub impact. Nature Communications 11:1480. — ~60 degrees, from the northeast.",
+              "url": "https://doi.org/10.1038/s41467-020-15269-x"
+            },
+            {
+              "cite": "Fischer-Godde, M. et al. 2024. Ruthenium isotopes show the Chicxulub impactor was a carbonaceous-type asteroid. Science 385:752-756.",
+              "url": "https://doi.org/10.1126/science.adk4868"
+            },
+            {
+              "cite": "The impact winter — NOTE these figures were revised recently and the episode uses the current ones:."
+            },
+            {
+              "cite": "Senel, C.B. et al. 2023. Chicxulub impact winter sustained by fine silicate dust. Nature Geoscience 16:1033-1040.",
+              "url": "https://doi.org/10.1038/s41561-023-01290-4",
+              "note": "~2 years of photosynthetic shutdown; cooling up to 15 C.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Ying, T., Monteiro, F. & Schmidt, D.N. 2026. Nature 655:957-962.",
+              "url": "https://doi.org/10.1038/s41586-026-10541-4",
+              "note": "sea surface temperature 26.4 C to 12.3 C within 3 years; ~30 year recovery; marine primary production down 99.5%.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Rodiouchkina, K. et al. 2025. Nature Communications 16:620.",
+              "url": "https://doi.org/10.1038/s41467-024-55145-6",
+              "note": "sulphur release revised down to 67 +/- 39 Gt, roughly five times lower than previously modelled.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Brugger, J., Feulner, G. & Petri, S. 2017. Baby, it's cold outside. Geophysical Research Letters 44:419-427.",
+              "url": "https://doi.org/10.1002/2016GL072241",
+              "note": "the superseded ~26 C figure, listed because the episode mentions it.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Tabor, C.R. et al. 2020. Causes and climatic consequences of the impact winter at the Cretaceous-Paleogene boundary. Geophysical Research Letters 47:e2019GL085572. — the case for soot.",
+              "url": "https://doi.org/10.1029/2019GL085572"
+            }
+          ]
+        },
+        {
+          "label": "Deccan volcanism",
+          "tone": "plain",
+          "sources": [
+            {
+              "cite": "Hull, P.M. et al. 2020. On impact and volcanism across the Cretaceous-Paleogene boundary. Science 367:266-272.",
+              "url": "https://doi.org/10.1126/science.aay5055"
+            },
+            {
+              "cite": "O'Connor, L.K. et al. 2024. Science Advances 10:eado5478.",
+              "url": "https://doi.org/10.1126/sciadv.ado5478"
+            }
+          ]
+        }
+      ],
+      "age": "66 Ma"
+    },
+    {
+      "title": "The Ones That Kept Going",
+      "groups": [
+        {
+          "label": "The Cretaceous crown birds",
+          "tone": "plain",
+          "sources": [
+            {
+              "cite": "Field, D.J., Benito, J., Chen, A., Jagt, J.W.M. & Ksepka, D.T. 2020. Late Cretaceous neornithine from Europe illuminates the origins of crown birds. Nature 579:397-401. (Asteriornis).",
+              "url": "https://doi.org/10.1038/s41586-020-2096-0"
+            },
+            {
+              "cite": "Torres, C.R. et al. 2025. Cretaceous Antarctic bird skull elucidates early avian ecological diversity. Nature 638:146-151. (Vegavis).",
+              "url": "https://doi.org/10.1038/s41586-024-08390-0"
+            },
+            {
+              "cite": "Crane, A.H., Benito, J., Chen, A., Ksepka, D.T. & Field, D.J. 2026. Mandibular morphology clarifies phylogenetic relationships near the origin of crown birds. BMC Ecology and Evolution 26:11.",
+              "url": "https://doi.org/10.1186/s12862-025-02487-4",
+              "note": "raises questions about the position of Vegavis. Cited because the episode says the argument is not over.",
+              "noteKind": "plain"
+            }
+          ]
+        },
+        {
+          "label": "Why they survived — all of these are correlations, as the episode says",
+          "tone": "plain",
+          "sources": [
+            {
+              "cite": "Field, D.J. et al. 2018. Early evolution of modern birds structured by global forest collapse at the end-Cretaceous mass extinction. Current Biology 28:1825-1831.",
+              "url": "https://doi.org/10.1016/j.cub.2018.04.062",
+              "note": "the best-supported explanation, and the source for the fern spike and the ground-dwelling survivors.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Berv, J.S. & Field, D.J. 2018. Genomic signature of an avian Lilliput effect across the K-Pg extinction. Systematic Biology 67:1-13.",
+              "url": "https://doi.org/10.1093/sysbio/syx064"
+            },
+            {
+              "cite": "Larson, D.W., Brown, C.M. & Evans, D.C. 2016. Dental disparity and ecological stability in bird-like dinosaurs prior to the end-Cretaceous mass extinction. Current Biology 26:1325-1333.",
+              "url": "https://doi.org/10.1016/j.cub.2016.03.039",
+              "note": "toothed birds vanish abruptly rather than declining.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Torres, C.R., Norell, M.A. & Clarke, J.A. 2021. Bird neurocranial and body mass evolution across the end-Cretaceous mass extinction. Science Advances 7:eabg7099.",
+              "url": "https://doi.org/10.1126/sciadv.abg7099",
+              "note": "the brain-size argument, which the episode calls the weakest.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Longrich, N.R., Tokaryk, T. & Field, D.J. 2011. Mass extinction of birds at the Cretaceous-Paleogene boundary. PNAS 108:15253-15257.",
+              "url": "https://doi.org/10.1073/pnas.1110395108"
+            }
+          ]
+        },
+        {
+          "label": "How narrow the gap was, and how fast the recovery",
+          "tone": "plain",
+          "sources": [
+            {
+              "cite": "Stiller, J. et al. 2024. Complexity of avian evolution revealed by family-level genomes. Nature 629:851-860.",
+              "url": "https://doi.org/10.1038/s41586-024-07323-1",
+              "note": "only two divergences within Neoaves predate the boundary.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Claramunt, S. et al. 2024. Calibrating the genomic clock of modern birds using fossils. PNAS 121:e2405887121.",
+              "url": "https://doi.org/10.1073/pnas.2405887121"
+            },
+            {
+              "cite": "Ksepka, D.T., Stidham, T.A. & Williamson, T.E. 2017. Early Paleocene landbird supports rapid phylogenetic and morphological diversification of crown birds after the K-Pg mass extinction. PNAS 114:8047-8052.",
+              "url": "https://doi.org/10.1073/pnas.1700188114",
+              "note": "Tsidiiyazhi abini, 62.2-62.5 Ma, with semizygodactyl perching feet.",
+              "noteKind": "plain"
+            },
+            {
+              "cite": "Slack, K.E. et al. 2006. Early penguin fossils, plus mitochondrial genomes, calibrate avian evolution. Molecular Biology and Evolution 23:1144-1155. — Waimanu, 60.5-61.6 Ma.",
+              "url": "https://doi.org/10.1093/molbev/msj124"
+            }
+          ]
+        }
+      ],
+      "age": "66 Ma – now"
+    }
+  ],
+  "legacy": "ep01"
+}

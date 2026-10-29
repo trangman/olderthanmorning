@@ -310,6 +310,28 @@ ul.refs a:focus-visible {
   border-bottom-color: var(--accent);
 }
 
+ul.refs a.cite-link {
+  display: block;
+  color: var(--ink);
+  font-size: inherit;
+  word-break: normal;
+  border-bottom: 1px solid var(--rule);
+}
+
+ul.refs a.cite-link:hover,
+ul.refs a.cite-link:focus-visible {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.reach {
+  display: block;
+  margin-top: 0.25rem;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--ink-2);
+}
+
 :focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 3px;

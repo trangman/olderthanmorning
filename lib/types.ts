@@ -19,6 +19,21 @@ export type SourceSection = {
   groups: SourceGroup[];
 };
 
+export type ReachSource = {
+  label: string;
+  url?: string | null;
+  reach?: string;
+  thin?: boolean;
+};
+
+export type ReachGroup = {
+  chapter?: string;
+  number?: number;
+  heading: string;
+  disputed?: boolean;
+  sources: ReachSource[];
+};
+
 export type Chapter = {
   time: string;
   seconds: number;
@@ -29,15 +44,17 @@ export type Episode = {
   number: number;
   slug: string;
   title: string;
-  youtubeId: string;
+  youtubeId: string | null;
   published: string;
-  durationSeconds: number;
+  durationSeconds: number | null;
   era: string;
   description: string[];
   chapters: Chapter[];
-  accuracy: string;
+  draft: boolean;
+  accuracy?: string;
   leftOut?: string;
   sourceNote?: string;
   sources: SourceSection[];
+  sourceGroups?: ReachGroup[];
   legacy?: string;
 };
